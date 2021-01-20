@@ -1,0 +1,95 @@
+
+ElvCharacterDB = {
+	["ChatEditHistory"] = {
+	},
+	["ChatHistoryLog"] = {
+		{
+			"WTS Vision Full clear 0-5 Mask / lvling 10-50 /arena and Mythic+ boost  /w me for more info", -- [1]
+			"Search-Sylvanas", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Search-Sylvanas", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			558, -- [11]
+			"Player-1597-0E7FE33B", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff38bb9Search|r",
+			[51] = 1604167166,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [1]
+		{
+			"WTS HEROIC |cff66bbff|Hjournal:1:2375:15|h[N'Zoth the Corruptor]|h|r Get ur mount NOW!|cff71d5ff|Hspell:302143:0|h[Uncorrupted Voidwing]|h|r--50K ONLY!", -- [1]
+			"Tepbooster-Auchindoun", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Tepbooster-Auchindoun", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			559, -- [11]
+			"Player-1597-0C3A6D05", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff38bb9Tepbooster-Auchindoun|r",
+			[51] = 1604167190,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [2]
+		{
+			"WTS Ny’alotha Heroic +Mythic+Allseer, M10-23+, Glory of the Ny'alotha Raider, Arena 3x3 , 2x2; Glacial Tidestorm", -- [1]
+			"Desqara-Sylvanas", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Desqara-Sylvanas", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			560, -- [11]
+			"Player-1597-0E833661", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Desqara|r",
+			[51] = 1604167275,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [3]
+		{
+			"WTT all |cffffff00|Hachievement:283:Player-1597-09EAA5FE:0:0:0:-1:0:0:0:0|h[The Masquerade]|h|r transformations", -- [1]
+			"Janzzik-Auchindoun", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Janzzik-Auchindoun", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			561, -- [11]
+			"Player-1597-09EAA5FE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffef367Janzzik-Auchindoun|r",
+			[51] = 1604167290,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [4]
+	},
+}

@@ -1,0 +1,368 @@
+VER 3 0000000000000065 "13" "INV_MISC_QUESTIONMARK"
+/use 13
+END
+VER 3 0000000000000026 "A1" "INV_MISC_QUESTIONMARK"
+/cast [@arena1] Imprison
+END
+VER 3 0000000000000027 "A2" "INV_MISC_QUESTIONMARK"
+/cast [@arena2] Imprison
+END
+VER 3 0000000000000028 "A3" "INV_MISC_QUESTIONMARK"
+/cast [@arena3] Imprison
+END
+VER 3 000000000000004D "AAP_MACRO" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use Shattered Helm of Domination
+END
+VER 3 000000000000001A "AS" "INV_MISC_QUESTIONMARK"
+/cancelaura Divine Shield
+/cast [@mouseover, exists, harm] Avenger's Shield, [@target] Avenger's Shield
+END
+VER 3 000000000000000A "BF" "INV_MISC_QUESTIONMARK"
+/cast [@mouseover, exists] Bestow Faith
+/cast Bestow Faith
+END
+VER 3 0000000000000008 "BL" "INV_MISC_QUESTIONMARK"
+/cast [@mouseover, exists] Beacon of Light
+/cast Beacon of Light
+END
+VER 3 0000000000000015 "BoF" "INV_MISC_QUESTIONMARK"
+/cast [@mouseover, exists] Beacon of Faith
+/cast Beacon of Faith
+END
+VER 3 000000000000000B "BoP" "INV_MISC_QUESTIONMARK"
+/cast [@mouseover, exists] blessing of protection
+/cast blessing of protection
+END
+VER 3 0000000000000049 "BoS" "INV_MISC_QUESTIONMARK"
+/cast !Breath of Sindragosa
+/cast Pillar of Frost
+/cast Empower Rune Weapon
+/cast Raise Dead
+END
+VER 3 0000000000000007 "BoS" "INV_MISC_QUESTIONMARK"
+/cast [nomod, @mouseover, exists] Blessing of Sacrifice, [nomod] Blessing of Sacrifice
+/cast [mod: shift, @party1] Blessing of Sacrifice
+/cast [mod:ctrl, @party2] Blessing of Sacrifice
+END
+VER 3 0000000000000029 "CA" "135919"
+/cancelaura Blessing of Freedom
+/cancelaura Blessing of Sacrifice
+/cancelaura Blessing of Protection
+/stopcasting
+END
+VER 3 0000000000000032 "Canc" "132090"
+/pull 0
+END
+VER 3 0000000000000069 "cc" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [talent:3/2] Asphyxiate
+/cast [talent:3/3] Blinding Sleet
+END
+VER 3 0000000000000014 "CD" "INV_MISC_QUESTIONMARK"
+/cast Soul Harvest
+/use Potion of Prolonged Power1
+END
+VER 3 0000000000000066 "cd no trink" "INV_MISC_QUESTIONMARK"
+/cast Summon Darkglare
+/cast Blood Fury
+END
+VER 3 000000000000005C "charge" "INV_MISC_QUESTIONMARK"
+/cast [@mouseover, exists, nodead] Wild Charge; Wild Charge
+END
+VER 3 0000000000000013 "Circle" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Demonic Circle
+END
+VER 3 0000000000000003 "CL" "INV_MISC_QUESTIONMARK"
+/cast [nomod, @mouseover, exists] Cleanse, [nomod] Cleanse
+/cast [mod: shift, @party1] Cleanse
+/cast [mod:ctrl, @party2] Cleanse
+END
+VER 3 0000000000000011 "ClearWM" "878215"
+/cwm all
+END
+VER 3 000000000000005F "coe" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, exists, nodead, harm] curse of exhaustion; curse of exhaustion
+END
+VER 3 0000000000000042 "CoF" "INV_MISC_QUESTIONMARK"
+/cast [nomod] Chains of Ice
+/cast [mod:ctrl, @focus] Chains of Ice
+END
+VER 3 0000000000000048 "Coil" "INV_MISC_QUESTIONMARK"
+/cast [nomod] Death Coil
+/cast [mod:shift, @player] Death Coil
+/cast [@pettarget] Claw
+END
+VER 3 000000000000006C "command" "INV_MISC_QUESTIONMARK"
+/cast [@mouseover, exists, nodead, harm] command demon; command demon
+END
+VER 3 000000000000000E "CrossWM" "878234"
+/wm 4
+END
+VER 3 0000000000000021 "CS" "INV_MISC_QUESTIONMARK"
+#showtooltip Corpse Shield
+/cast Corpse Shield
+/cast Protective Bile
+/cast Huddle
+END
+VER 3 0000000000000047 "cs" "INV_MISC_QUESTIONMARK"
+/startattack
+/cast Crusader Strike
+END
+VER 3 000000000000005D "cw" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, exists, nodead, noharm] Cenarion Ward; Cenarion Ward
+END
+VER 3 000000000000004E "democds" "INV_MISC_QUESTIONMARK"
+/cast summon demonic tyrant
+/cast berserking
+/use 13
+/use 14
+END
+VER 3 0000000000000017 "Disband" "135754"
+END
+VER 3 0000000000000068 "ec" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] Elysian Decree
+END
+VER 3 0000000000000058 "eff" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] Efflorescence
+END
+VER 3 0000000000000019 "fa" "INV_MISC_QUESTIONMARK"
+/use [@cursor] Juggling Torch
+END
+VER 3 0000000000000025 "fc" "INV_MISC_QUESTIONMARK"
+/cast [@focus] Consume Magic
+END
+VER 3 0000000000000045 "fc" "INV_MISC_QUESTIONMARK"
+/cast [@focus] Rebuke
+END
+VER 3 0000000000000041 "FC" "INV_MISC_QUESTIONMARK"
+/Cast [@focus] Death Grip
+END
+VER 3 0000000000000016 "fc" "INV_MISC_QUESTIONMARK"
+/cast [@focus] Repentance
+END
+VER 3 0000000000000046 "fc" "INV_MISC_QUESTIONMARK"
+/cast [@focus] Avenger's Shield
+END
+VER 3 000000000000003D "FC" "INV_MISC_QUESTIONMARK"
+/cast [@focus] Asphyxiate
+END
+VER 3 000000000000003E "FC" "INV_MISC_QUESTIONMARK"
+/cast [@focus] Leap
+END
+VER 3 0000000000000056 "fc" "INV_MISC_QUESTIONMARK"
+/cast [@focus, talent:4/1] Mighty Bash
+/cast [@focus, talent:4/2] Mass Entanglement
+/cast [talent:4/3] Heart of the wild
+END
+VER 3 0000000000000001 "FL" "INV_MISC_QUESTIONMARK"
+/cast [@mouseover, exists] Flash of light
+/cast Flash of light
+END
+VER 3 000000000000003C "focus" "644389"
+/focus [@mouseover]
+END
+VER 3 000000000000004B "fs" "INV_MISC_QUESTIONMARK"
+/cast [@mouseover, exists, nodead, harm] Festering Strike; Festering Strike
+/cast [@pettarget] Claw
+END
+VER 3 000000000000006A "gate" "INV_MISC_QUESTIONMARK"
+/cast [@cursor] Demonic Gateway
+END
+VER 3 0000000000000036 "Grip" "INV_MISC_QUESTIONMARK"
+/cast [@player] Gorefiend's Grasp
+END
+VER 3 0000000000000040 "Grip" "INV_MISC_QUESTIONMARK"
+/cast [@mouseover, exists] Death Grip; Death Grip
+END
+VER 3 0000000000000061 "growl" "INV_MISC_QUESTIONMARK"
+/cast [@mouseover, exists, nodead, harm] Growl; Growl
+END
+VER 3 0000000000000054 "HIB" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, exists, nodead, harm] Hibernate; Hibernate
+END
+VER 3 0000000000000004 "HL" "INV_MISC_QUESTIONMARK"
+/cast [nomod, @mouseover, exists] Holy Light, [nomod] Holy Light
+/cast [mod: shift, @party1] Holy Light
+/cast [mod:ctrl, @party2] Holy Light
+END
+VER 3 0000000000000043 "HoA" "INV_MISC_QUESTIONMARK"
+/use [@mouseover, exists] Heart Essence; Heart Essence
+END
+VER 3 0000000000000006 "HoF" "INV_MISC_QUESTIONMARK"
+/cast [@mouseover, exists] Blessing of Freedom
+/cast Blessing of Freedom
+END
+VER 3 0000000000000034 "HoW" "INV_MISC_QUESTIONMARK"
+/cast [@mouseover, exists, harm] Hammer of Wrath, [@target] Hammer of Wrath
+END
+VER 3 0000000000000002 "HS" "INV_MISC_QUESTIONMARK"
+/cast [nomod, @mouseover, exists] Holy Shock, [nomod] Holy Shock
+/cast [mod: shift, @party1] Holy Shock
+/cast [mod:ctrl, @party2] Holy Shock
+END
+VER 3 0000000000000059 "ib" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, exists, nodead, noharm] Ironbark; Ironbark
+END
+VER 3 0000000000000062 "if" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cancelaura Blessing of Protection
+/cast Ironfur
+END
+VER 3 000000000000004F "inc" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, exists, nodead, harm] Incinerate; Incinerate
+/cancelaura Burning Rush
+END
+VER 3 000000000000002F "Judg" "INV_MISC_QUESTIONMARK"
+/cast [@mouseover, exists, harm] Judgment, [@target] Judgment
+END
+VER 3 0000000000000023 "kn" "135754"
+/kneel
+END
+VER 3 000000000000005A "lb" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, exists, nodead, noharm] Lifebloom; Lifebloom
+END
+VER 3 0000000000000009 "LoH" "INV_MISC_QUESTIONMARK"
+/cast [@mouseover, exists] Lay on Hands
+/cast Lay on Hands
+END
+VER 3 000000000000002E "LotP" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [nomod, @mouseover, exists] Light of the Protector, [nomod] Light of the Protector
+END
+VER 3 0000000000000005 "MART" "INV_MISC_QUESTIONMARK"
+/cast [@mouseover, exists] Light of the Martyr
+/cast Light of the Martyr
+END
+VER 3 0000000000000063 "MD" "136103"
+/cast [@yogski] Misdirection
+END
+VER 3 0000000000000067 "mf" "INV_MISC_QUESTIONMARK"
+/cast [@mouseover, exists, nodead, harm] Mind Freeze; Mind Freeze
+END
+VER 3 0000000000000057 "mo" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, exists, nodead, harm, talent:4/1] Mighty Bash; [talent:4/1] Mighty Bash
+/cast [@mouseover, exists, nodead, harm, talent:4/2] Mass Entanglement; [talent:4/2] Mass Entanglement
+/cast [talent:4/3] Heart of the Wild
+END
+VER 3 0000000000000035 "MO" "INV_MISC_QUESTIONMARK"
+/cast [@mouseover] Raise Ally
+END
+VER 3 0000000000000053 "mo" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, exists, nodead, harm] Solar Beam; Solar Beam
+END
+VER 3 0000000000000055 "mo" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, exists, dead, noharm] Rebirth; Rebirth
+END
+VER 3 000000000000005B "nc" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, exists, nodead, noharm] Nature's Cure; Nature's Cure
+END
+VER 3 0000000000000037 "P1" "INV_MISC_QUESTIONMARK"
+/cast [@party1] Tiger's Lust
+END
+VER 3 0000000000000038 "P2" "INV_MISC_QUESTIONMARK"
+/cast [@party2] Tiger's Lust
+END
+VER 3 0000000000000022 "PoI" "INV_MISC_QUESTIONMARK"
+/cast Pillar of Frost
+/use 13
+END
+VER 3 000000000000002A "prism" "INV_MISC_QUESTIONMARK"
+/cast [nomod, @mouseover, exists] Holy Prism, [nomod] Holy Prism
+/cast [mod: shift, @party1] Holy Prism
+/cast [mod:ctrl, @party2] Holy Prism
+END
+VER 3 000000000000003B "pull10" "136222"
+/pull 10
+END
+VER 3 000000000000003A "pull5" "136222"
+/pull 5
+END
+VER 3 0000000000000033 "Rc" "133040"
+/readycheck
+END
+VER 3 0000000000000044 "Self" "INV_MISC_QUESTIONMARK"
+/use [@player] Heart Essence
+END
+VER 3 0000000000000039 "Self" "INV_MISC_QUESTIONMARK"
+/cast [@mouseover, exists] Tiger's Lust; [@player] Tiger's Lust
+END
+VER 3 0000000000000060 "sf" "INV_MISC_QUESTIONMARK"
+/cast [@mouseover, exists, nodead, harm] Stellar Flare; Stellar Flare
+END
+VER 3 0000000000000012 "Skull" "136094"
+/script SetRaidTarget("mouseover", 8)
+/tm 8
+END
+VER 3 000000000000000F "SkullWM" "878223"
+/wm 8
+END
+VER 3 0000000000000051 "sl" "INV_MISC_QUESTIONMARK"
+#showtooltip siphon life
+/cast [@mouseover, exists, nodead, harm] siphon life; siphon life
+END
+VER 3 0000000000000050 "sl" "INV_MISC_QUESTIONMARK"
+END
+VER 3 0000000000000052 "soc" "INV_MISC_QUESTIONMARK"
+#showtooltip seed of corruption
+/cast [@mouseover, exists, nodead, harm] seed of corruption; seed of corruption
+END
+VER 3 000000000000000C "SquareWM" "878231"
+/wm 1
+END
+VER 3 000000000000006B "srt" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use Sinful Aspirant's Badge of Ferocity
+/cast Soul Rot
+END
+VER 3 000000000000004A "ss" "INV_MISC_QUESTIONMARK"
+/cast Scourge Strike
+/cast [@pettarget] Claw
+END
+VER 3 0000000000000010 "StarWM" "878235"
+/wm 5
+END
+VER 3 000000000000005E "T6" "134075"
+.item 1 31051
+.item 3 31054
+.item 5 31052
+.item 10 31050
+.item 6 34541
+.item 8 34564
+.item 7 31053
+.item 15 0
+.item 16 32055
+END
+VER 3 0000000000000064 "target" "134357"
+/run T = UnitName("target")
+/run if not InCombatLockdown() then EditMacro('MD', nil, nil, '#showtooltip\n/cast [@'.. T ..'] Misdirection', nil); print('Misdirection: ' .. T); end;
+END
+VER 3 000000000000003F "Taunt" "INV_MISC_QUESTIONMARK"
+/cast [@mouseover, exists] Dark Command; Dark Command
+END
+VER 3 000000000000000D "TriangleWM" "878232"
+/wm 2
+END
+VER 3 000000000000002B "UHF" "INV_MISC_QUESTIONMARK"
+#showtooltip Unholy Assault
+/cast Unholy Assault
+/use Darkmoon Deck: Voracity
+END
+VER 3 000000000000004C "Vault" "136103"
+/run LoadAddOn("Blizzard_WeeklyRewards"); WeeklyRewardsFrame:Show()
+END
+VER 3 000000000000002D "ZygorAction1" "134400"
+END

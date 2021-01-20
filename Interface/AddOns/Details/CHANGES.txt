@@ -1,0 +1,10 @@
+lightweight tag 025c7b9620465da1a17aec3eea52252d19e4d922 DetailsRetail.9.0.2.8154.144(a)
+Author:	Tercio Jose <terciob19@hotmail.com>
+Date:	Mon Jan 18 14:33:45 2021 -0300
+
+commit 025c7b9620465da1a17aec3eea52252d19e4d922
+Author: Tercio Jose <terciob19@hotmail.com>
+Date:   Mon Jan 18 14:33:45 2021 -0300
+
+    Attempt to add Russian Cyrillic alphabet into the NickTag lib
+

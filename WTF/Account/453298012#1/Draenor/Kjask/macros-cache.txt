@@ -1,0 +1,65 @@
+VER 3 010000000000000E "a1" "INV_MISC_QUESTIONMARK"
+/cast [@arena1] Paralysis
+END
+VER 3 010000000000000F "a2" "INV_MISC_QUESTIONMARK"
+/cast [@arena2] Paralysis
+END
+VER 3 0100000000000010 "a3" "INV_MISC_QUESTIONMARK"
+/cast [@arena3] Paralysis
+END
+VER 3 0100000000000006 "Cocoon" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead] Life Cocoon;Life Cocoon
+END
+VER 3 0100000000000001 "Detox" "INV_MISC_QUESTIONMARK"
+#showtooltip Detox
+/cast [@mouseover,help,nodead] Detox;Detox
+END
+VER 3 0100000000000004 "EM" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead] Enveloping Mist;Enveloping Mist
+END
+VER 3 0100000000000011 "fc" "INV_MISC_QUESTIONMARK"
+/cast [@focus] Spear Hand Strike
+END
+VER 3 010000000000000C "fc" "INV_MISC_QUESTIONMARK"
+/cast [@focus] Paralysis
+END
+VER 3 010000000000000D "focus" "644389"
+/focus [@mouseover]
+END
+VER 3 010000000000000A "heart" "INV_MISC_QUESTIONMARK"
+/use [@mouseover, exists, nodead] Heart Essence; Heart Essence 
+END
+VER 3 010000000000000B "palm" "INV_MISC_QUESTIONMARK"
+/cast Tiger Palm
+/cancelaura Blessing of Protection
+END
+VER 3 0100000000000012 "RA" "INV_MISC_QUESTIONMARK"
+#showtooltip Reverse Harm
+/cast [@mouseover, exists] Reverse Harm; [@player] Reverse Harm
+END
+VER 3 0100000000000003 "RM" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead] Renewing Mist;Renewing Mist
+END
+VER 3 0100000000000008 "self" "INV_MISC_QUESTIONMARK"
+/use [@player] Heart Essence 
+END
+VER 3 0100000000000002 "SM" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead] Soothing Mist;Soothing Mist
+END
+VER 3 0100000000000009 "Taunt" "627607"
+#showtooltip Provoke
+/target Black Ox Statue
+/cast Provoke
+/targetlasttarget
+END
+VER 3 0100000000000007 "Taunt" "INV_MISC_QUESTIONMARK"
+/cast [@mouseover, exists] Provoke;Provoke
+END
+VER 3 0100000000000005 "Vivify" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover,help,nodead] Vivify; Vivify
+END

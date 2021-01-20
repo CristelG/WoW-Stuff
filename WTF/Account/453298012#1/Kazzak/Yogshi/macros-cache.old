@@ -1,0 +1,77 @@
+VER 3 0100000000000002 "agony" "INV_MISC_QUESTIONMARK"
+#showtooltip agony
+/cast [@mouseover, exists, nodead, harm]agony ;Agony
+END
+VER 3 010000000000000C "banish" "INV_MISC_QUESTIONMARK"
+#showtooltip banish
+/cast [@mouseover, exists, nodead] Banish; Banish
+END
+VER 3 010000000000000E "cata" "INV_MISC_QUESTIONMARK"
+#showtooltip Cataclysm
+/cast [@cursor]Cataclysm
+END
+VER 3 0100000000000007 "cds" "INV_MISC_QUESTIONMARK"
+#showtooltip Summon Darkglare
+/cast Summon Darkglare
+/cast Dark Soul: Misery
+/cast Blood Fury
+/use 13
+END
+VER 3 0100000000000001 "corr" "INV_MISC_QUESTIONMARK"
+#showtooltip corruption
+/cast [@mouseover, exists, nodead, harm] corruption; corruption
+END
+VER 3 0100000000000010 "ds" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, exists, nodead, harm] Drain Soul; Drain Soul
+/cancelaura Burning Rush
+END
+VER 3 0100000000000004 "fc" "INV_MISC_QUESTIONMARK"
+/cast [@focus] Command Demon
+END
+VER 3 0100000000000005 "fc" "INV_MISC_QUESTIONMARK"
+/cast [@focus] Fear
+END
+VER 3 0100000000000011 "haunt" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cancelaura burning rush
+/cast [@mouseover, exists, nodead, harm]haunt ;haunt
+END
+VER 3 0100000000000008 "havoc" "INV_MISC_QUESTIONMARK"
+#showtooltip Havoc
+/cast [@mouseover, exists, nodead] havoc;havoc
+END
+VER 3 0100000000000009 "immo" "INV_MISC_QUESTIONMARK"
+#showtooltip immolate
+/cast [@mouseover, exists, nodead]immolate ;immolate
+END
+VER 3 010000000000000B "inf" "INV_MISC_QUESTIONMARK"
+#showtooltip Summon Infernal(Guardian)
+/cast [@cursor] Summon Infernal(Guardian)
+/use 13
+END
+VER 3 010000000000000A "rof" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] Rain of Fire
+END
+VER 3 0100000000000012 "sb" "INV_MISC_QUESTIONMARK"
+/cast [@mouseover, exists, nodead, harm] Shadow bolt; shadow bolt
+/cancelaura burning rush
+END
+VER 3 010000000000000F "sf" "INV_MISC_QUESTIONMARK"
+/cast [@cursor] Shadowfury
+END
+VER 3 010000000000000D "ss" "INV_MISC_QUESTIONMARK"
+#showtooltip soulstone
+/cast [@mouseover, exists, noharm]soulstone; soulstone
+END
+VER 3 0100000000000003 "ua" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cancelaura burning rush
+/cast [@mouseover, exists, nodead, harm]unstable affliction ;unstable affliction
+END
+VER 3 0100000000000006 "vile" "INV_MISC_QUESTIONMARK"
+#showtooltip 
+/cast [talent:4/3, @cursor] Vile Taint
+/cast [talent:4/2] Phantom Singularity
+END

@@ -1,0 +1,157 @@
+
+HandyNotesDB = {
+	["profileKeys"] = {
+		["Kjaskarz - Draenor"] = "Kjaskarz - Draenor",
+		["Beastmodex - Draenor"] = "Beastmodex - Draenor",
+		["Kjask - Draenor"] = "Kjask - Draenor",
+		["Kjaskar - Kazzak"] = "Kjaskar - Kazzak",
+		["Kjaskar - Draenor"] = "Kjaskar - Draenor",
+		["Kjaskar - Sylvanas"] = "Kjaskar - Sylvanas",
+		["Lattina - Draenor"] = "Lattina - Draenor",
+		["Yogsi - Kazzak"] = "Yogsi - Kazzak",
+		["Scaldabagno - Draenor"] = "Scaldabagno - Draenor",
+		["Yoggis - Kazzak"] = "Yoggis - Kazzak",
+		["Yogz - Kazzak"] = "Yogz - Kazzak",
+		["Kja - Draenor"] = "Kja - Draenor",
+		["Yøgs - Kazzak"] = "Yøgs - Kazzak",
+		["Kjaskaar - Draenor"] = "Kjaskaar - Draenor",
+		["Kjaskr - Draenor"] = "Kjaskr - Draenor",
+		["Yogsp - Kazzak"] = "Yogsp - Kazzak",
+		["Kjask - Sylvanas"] = "Kjask - Sylvanas",
+		["Solowinter - Draenor"] = "Solowinter - Draenor",
+		["Yogs - Kazzak"] = "Yogs - Kazzak",
+		["Yogshi - Kazzak"] = "Yogshi - Kazzak",
+		["Yogske - Kazzak"] = "Yogske - Kazzak",
+		["Yogski - Kazzak"] = "Yogski - Kazzak",
+		["Kjaskàr - Draenor"] = "Kjaskàr - Draenor",
+		["Yogzi - Kazzak"] = "Yogzi - Kazzak",
+	},
+	["profiles"] = {
+		["Kjaskarz - Draenor"] = {
+		},
+		["Beastmodex - Draenor"] = {
+		},
+		["Kjask - Draenor"] = {
+		},
+		["Kjaskar - Kazzak"] = {
+		},
+		["Kjaskar - Draenor"] = {
+		},
+		["Kjaskar - Sylvanas"] = {
+		},
+		["Lattina - Draenor"] = {
+		},
+		["Yogsi - Kazzak"] = {
+		},
+		["Scaldabagno - Draenor"] = {
+		},
+		["Yoggis - Kazzak"] = {
+		},
+		["Yogz - Kazzak"] = {
+		},
+		["Kja - Draenor"] = {
+		},
+		["Yøgs - Kazzak"] = {
+		},
+		["Kjaskaar - Draenor"] = {
+		},
+		["Kjaskr - Draenor"] = {
+		},
+		["Yogsp - Kazzak"] = {
+		},
+		["Kjask - Sylvanas"] = {
+		},
+		["Solowinter - Draenor"] = {
+		},
+		["Yogs - Kazzak"] = {
+		},
+		["Yogshi - Kazzak"] = {
+		},
+		["Yogske - Kazzak"] = {
+		},
+		["Yogski - Kazzak"] = {
+		},
+		["Kjaskàr - Draenor"] = {
+		},
+		["Yogzi - Kazzak"] = {
+		},
+	},
+}
+HandyNotes_HandyNotesDB = {
+	["profileKeys"] = {
+		["Kjaskarz - Draenor"] = "Kjaskarz - Draenor",
+		["Beastmodex - Draenor"] = "Beastmodex - Draenor",
+		["Kjask - Draenor"] = "Kjask - Draenor",
+		["Kjaskar - Kazzak"] = "Kjaskar - Kazzak",
+		["Kjaskar - Draenor"] = "Kjaskar - Draenor",
+		["Kjaskar - Sylvanas"] = "Kjaskar - Sylvanas",
+		["Lattina - Draenor"] = "Lattina - Draenor",
+		["Yogsi - Kazzak"] = "Yogsi - Kazzak",
+		["Scaldabagno - Draenor"] = "Scaldabagno - Draenor",
+		["Yoggis - Kazzak"] = "Yoggis - Kazzak",
+		["Yogz - Kazzak"] = "Yogz - Kazzak",
+		["Kja - Draenor"] = "Kja - Draenor",
+		["Yøgs - Kazzak"] = "Yøgs - Kazzak",
+		["Kjaskaar - Draenor"] = "Kjaskaar - Draenor",
+		["Kjaskr - Draenor"] = "Kjaskr - Draenor",
+		["Yogsp - Kazzak"] = "Yogsp - Kazzak",
+		["Kjask - Sylvanas"] = "Kjask - Sylvanas",
+		["Solowinter - Draenor"] = "Solowinter - Draenor",
+		["Yogs - Kazzak"] = "Yogs - Kazzak",
+		["Yogshi - Kazzak"] = "Yogshi - Kazzak",
+		["Yogske - Kazzak"] = "Yogske - Kazzak",
+		["Yogski - Kazzak"] = "Yogski - Kazzak",
+		["Kjaskàr - Draenor"] = "Kjaskàr - Draenor",
+		["Yogzi - Kazzak"] = "Yogzi - Kazzak",
+	},
+	["profiles"] = {
+		["Kjaskarz - Draenor"] = {
+		},
+		["Beastmodex - Draenor"] = {
+		},
+		["Kjask - Draenor"] = {
+		},
+		["Kjaskar - Kazzak"] = {
+		},
+		["Kjaskar - Draenor"] = {
+		},
+		["Kjaskar - Sylvanas"] = {
+		},
+		["Lattina - Draenor"] = {
+		},
+		["Yogsi - Kazzak"] = {
+		},
+		["Scaldabagno - Draenor"] = {
+		},
+		["Yoggis - Kazzak"] = {
+		},
+		["Yogz - Kazzak"] = {
+		},
+		["Kja - Draenor"] = {
+		},
+		["Yøgs - Kazzak"] = {
+		},
+		["Kjaskaar - Draenor"] = {
+		},
+		["Kjaskr - Draenor"] = {
+		},
+		["Yogsp - Kazzak"] = {
+		},
+		["Kjask - Sylvanas"] = {
+		},
+		["Solowinter - Draenor"] = {
+		},
+		["Yogs - Kazzak"] = {
+		},
+		["Yogshi - Kazzak"] = {
+		},
+		["Yogske - Kazzak"] = {
+		},
+		["Yogski - Kazzak"] = {
+		},
+		["Kjaskàr - Draenor"] = {
+		},
+		["Yogzi - Kazzak"] = {
+		},
+	},
+}

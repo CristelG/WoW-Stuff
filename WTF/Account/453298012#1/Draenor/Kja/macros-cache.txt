@@ -1,0 +1,41 @@
+VER 3 0100000000000008 "ar" "INV_MISC_QUESTIONMARK"
+#showtooltip Adrenaline Rush
+/use 13
+/cast Adrenaline Rush
+END
+VER 3 0100000000000006 "fc" "INV_MISC_QUESTIONMARK"
+/cast [@focus] Blind
+END
+VER 3 0100000000000003 "fc" "INV_MISC_QUESTIONMARK"
+/cast [@focus] Gouge
+END
+VER 3 0100000000000004 "fc" "INV_MISC_QUESTIONMARK"
+/Cast [@focus] Shadowstep
+END
+VER 3 0100000000000002 "fc" "INV_MISC_QUESTIONMARK"
+/cast [@focus] Kick
+END
+VER 3 0100000000000005 "fckick" "INV_MISC_QUESTIONMARK"
+/cast [@focus] Shadowstep
+/cast [@focus] Kick
+END
+VER 3 010000000000000B "pistol" "INV_MISC_QUESTIONMARK"
+/startattack
+/cast Pistol Shot
+END
+VER 3 010000000000000A "ss" "INV_MISC_QUESTIONMARK"
+/startattack
+/cast Sinister Strike
+END
+VER 3 0100000000000009 "step" "INV_MISC_QUESTIONMARK"
+/cast [@mouseover, exists] Shadowstep; Shadowstep
+END
+VER 3 0100000000000001 "ToT" "INV_MISC_QUESTIONMARK"
+#showtooltip Tricks of the Trade
+/cast [@Dudmonkry, exists, nodead]Tricks of The Trade; [@mouseover, exists, nodead] Tricks of The Trade;Tricks of The Trade
+END
+VER 3 0100000000000007 "vendetta" "INV_MISC_QUESTIONMARK"
+#showtooltip Vendetta
+/use 13
+/cast Vendetta
+END

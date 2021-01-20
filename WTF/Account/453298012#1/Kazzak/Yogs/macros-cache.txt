@@ -1,0 +1,71 @@
+VER 3 0100000000000008 "ar" "INV_MISC_QUESTIONMARK"
+#showtooltip Adrenaline Rush
+/use 13
+/cast Adrenaline Rush
+END
+VER 3 010000000000000D "bs" "INV_MISC_QUESTIONMARK"
+/startattack
+/cast [stance:1] Shadowstrike
+/cast [stance:2] Shadowstrike
+/cast [stance:0] Backstab
+END
+VER 3 010000000000000C "c" "INV_MISC_QUESTIONMARK"
+/Cast [@cursor] Grappling Hook
+END
+VER 3 010000000000000E "Dance" "INV_MISC_QUESTIONMARK"
+/cast Shadow Dance
+/cast Shadow Blades
+/cast Symbols of Death
+/use 13
+END
+VER 3 010000000000000F "DanceSymb" "INV_MISC_QUESTIONMARK"
+/cast Shadow Dance
+/cast Symbols of Death
+/use 13
+END
+VER 3 0100000000000003 "fc" "INV_MISC_QUESTIONMARK"
+/cast [@focus] Gouge
+END
+VER 3 0100000000000004 "fc" "INV_MISC_QUESTIONMARK"
+/Cast [@focus] Shadowstep
+END
+VER 3 0100000000000006 "fc" "INV_MISC_QUESTIONMARK"
+/cast [@focus] Blind
+END
+VER 3 0100000000000002 "fc" "INV_MISC_QUESTIONMARK"
+/cast [@focus] Kick
+END
+VER 3 0100000000000010 "fc" "INV_MISC_QUESTIONMARK"
+/cast [@focus] Cheap Shot
+END
+VER 3 0100000000000011 "fc" "INV_MISC_QUESTIONMARK"
+/cast [@focus] Kidney Shot
+END
+VER 3 0100000000000005 "fckick" "INV_MISC_QUESTIONMARK"
+/cast [@focus] Shadowstep
+/cast [@focus] Kick
+END
+VER 3 010000000000000B "pistol" "INV_MISC_QUESTIONMARK"
+/startattack
+/cast Pistol Shot
+END
+VER 3 010000000000000A "ss" "INV_MISC_QUESTIONMARK"
+/startattack
+/cast Sinister Strike
+END
+VER 3 0100000000000009 "step" "INV_MISC_QUESTIONMARK"
+/cast [@mouseover, exists,nodead] Shadowstep; Shadowstep
+END
+VER 3 0100000000000012 "Target" "132724"
+/run T = UnitName("target")
+/run if not InCombatLockdown() then EditMacro('ToT', nil, nil, '#showtooltip\n/cast [@'.. T ..'] Tricks of the Trade', nil); print('Tricks: ' .. T); end;
+END
+VER 3 0100000000000001 "ToT" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@Tashunkosapá] Tricks of the Trade
+END
+VER 3 0100000000000007 "vendetta" "INV_MISC_QUESTIONMARK"
+#showtooltip Vendetta
+/use 13
+/cast Vendetta
+END

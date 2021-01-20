@@ -1,0 +1,64 @@
+VER 3 0100000000000001 "CW" "INV_MISC_QUESTIONMARK"
+/cast [@mouseover, exists] Cenarion Ward
+/cast Cenarion Ward
+END
+VER 3 0100000000000006 "DIS" "INV_MISC_QUESTIONMARK"
+/cast [@mouseover, exists] Nature's Cure
+/cast Nature's Cure
+END
+VER 3 010000000000000D "FC" "INV_MISC_QUESTIONMARK"
+/cast [@focus] Entangling Roots
+END
+VER 3 010000000000000E "FC" "132212"
+/focus [@mouseover]
+END
+VER 3 0100000000000002 "HT" "INV_MISC_QUESTIONMARK"
+/cast [@mouseover, exists] Healing Touch
+/cast Healing Touch
+END
+VER 3 0100000000000004 "IB" "INV_MISC_QUESTIONMARK"
+/cast [@mouseover, exists] Ironbark
+/cast Ironbark
+END
+VER 3 0100000000000003 "IN" "INV_MISC_QUESTIONMARK"
+/cast [@mouseover, exists] Innervate
+/cast Innervate
+END
+VER 3 010000000000000C "INC" "INV_MISC_QUESTIONMARK"
+/cast Celestial Alignment
+/use Tarnished Sentinel Medallion
+/cast Berserking
+END
+VER 3 0100000000000011 "kneel" "INV_MISC_QUESTIONMARK"
+/kneel
+END
+VER 3 0100000000000005 "LB" "INV_MISC_QUESTIONMARK"
+/cast [@mouseover, exists] Lifebloom
+/cast Lifebloom
+END
+VER 3 010000000000000B "RB" "INV_MISC_QUESTIONMARK"
+/cast [@mouseover, exists] Rebirth
+/cast Rebirth
+END
+VER 3 0100000000000007 "RG" "INV_MISC_QUESTIONMARK"
+/cast [@mouseover, exists] Regrowth
+/cast Regrowth
+END
+VER 3 0100000000000008 "RJ" "INV_MISC_QUESTIONMARK"
+/cast [@mouseover, exists] Rejuvenation
+/cast Rejuvenation
+END
+VER 3 010000000000000F "SF" "INV_MISC_QUESTIONMARK"
+/cast [@cursor] Starfall
+END
+VER 3 0100000000000010 "SFME" "INV_MISC_QUESTIONMARK"
+/cast [@player] Starfall
+END
+VER 3 0100000000000009 "SM" "INV_MISC_QUESTIONMARK"
+/cast [@mouseover, exists] Swiftmend
+/cast Swiftmend
+END
+VER 3 010000000000000A "WG" "INV_MISC_QUESTIONMARK"
+/cast [@mouseover, exists] Wild Growth
+/cast Wild Growth
+END

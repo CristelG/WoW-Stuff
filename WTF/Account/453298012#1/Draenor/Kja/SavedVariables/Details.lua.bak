@@ -1,0 +1,6587 @@
+
+_detalhes_database = {
+	["savedbuffs"] = {
+	},
+	["mythic_dungeon_id"] = 24,
+	["tabela_historico"] = {
+		["tabelas"] = {
+			{
+				{
+					["tipo"] = 2,
+					["combatId"] = 13,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.007392,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Raider's Training Dummy"] = 18251573,
+							},
+							["pets"] = {
+							},
+							["damage_taken"] = 0.007392,
+							["tipo"] = 1,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 18251573.007392,
+							["delay"] = 1600297325,
+							["dps_started"] = true,
+							["total"] = 18251573.007392,
+							["nome"] = "Kja",
+							["on_hold"] = true,
+							["timeMachine"] = 1,
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 168,
+										["b_amt"] = 0,
+										["c_dmg"] = 1111360,
+										["g_amt"] = 0,
+										["n_max"] = 6713,
+										["targets"] = {
+											["Raider's Training Dummy"] = 2070155,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 958795,
+										["n_min"] = 1560,
+										["g_dmg"] = 0,
+										["counter"] = 596,
+										["r_amt"] = 0,
+										["total"] = 2070155,
+										["c_max"] = 13722,
+										["extra"] = {
+										},
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["b_dmg"] = 0,
+										["a_amt"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 3266,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_dmg"] = 0,
+										["n_amt"] = 310,
+										["spellschool"] = 1,
+										["MISS"] = 118,
+									}, -- [1]
+									[297108] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 44333,
+										["targets"] = {
+											["Raider's Training Dummy"] = 123561,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 123561,
+										["n_min"] = 39339,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["total"] = 123561,
+										["c_max"] = 0,
+										["r_amt"] = 0,
+										["id"] = 297108,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 3,
+										["extra"] = {
+										},
+										["spellschool"] = 32,
+									},
+									[5374] = {
+										["c_amt"] = 83,
+										["b_amt"] = 0,
+										["c_dmg"] = 811498,
+										["g_amt"] = 0,
+										["n_max"] = 10064,
+										["targets"] = {
+											["Raider's Training Dummy"] = 1661265,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 849767,
+										["n_min"] = 2402,
+										["g_dmg"] = 0,
+										["counter"] = 258,
+										["total"] = 1661265,
+										["c_max"] = 20129,
+										["r_amt"] = 0,
+										["id"] = 5374,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 4737,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 175,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
+									},
+									[1943] = {
+										["c_amt"] = 104,
+										["b_amt"] = 0,
+										["c_dmg"] = 900023,
+										["g_amt"] = 0,
+										["n_max"] = 6979,
+										["targets"] = {
+											["Raider's Training Dummy"] = 1666781,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 766758,
+										["n_min"] = 1235,
+										["g_dmg"] = 0,
+										["counter"] = 279,
+										["total"] = 1666781,
+										["c_max"] = 13958,
+										["r_amt"] = 0,
+										["id"] = 1943,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 6569,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 175,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
+									},
+									[269031] = {
+										["c_amt"] = 24,
+										["b_amt"] = 0,
+										["c_dmg"] = 175134,
+										["g_amt"] = 0,
+										["n_max"] = 4033,
+										["targets"] = {
+											["Raider's Training Dummy"] = 357277,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 182143,
+										["n_min"] = 3443,
+										["g_dmg"] = 0,
+										["counter"] = 75,
+										["total"] = 357277,
+										["c_max"] = 8065,
+										["r_amt"] = 0,
+										["id"] = 269031,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 6886,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 51,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
+									},
+									[32645] = {
+										["c_amt"] = 21,
+										["b_amt"] = 0,
+										["c_dmg"] = 1287206,
+										["g_amt"] = 0,
+										["n_max"] = 46340,
+										["targets"] = {
+											["Raider's Training Dummy"] = 2313081,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 1025875,
+										["n_min"] = 17372,
+										["g_dmg"] = 0,
+										["counter"] = 61,
+										["total"] = 2313081,
+										["c_max"] = 92679,
+										["r_amt"] = 0,
+										["id"] = 32645,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 34030,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 40,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
+									},
+									[255546] = {
+										["c_amt"] = 14,
+										["b_amt"] = 0,
+										["c_dmg"] = 113723,
+										["g_amt"] = 0,
+										["n_max"] = 7965,
+										["targets"] = {
+											["Raider's Training Dummy"] = 298362,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 184639,
+										["n_min"] = 3194,
+										["g_dmg"] = 0,
+										["counter"] = 56,
+										["total"] = 298362,
+										["c_max"] = 15930,
+										["r_amt"] = 0,
+										["id"] = 255546,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 6389,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 42,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
+									},
+									[113780] = {
+										["c_amt"] = 194,
+										["b_amt"] = 0,
+										["c_dmg"] = 718193,
+										["g_amt"] = 0,
+										["n_max"] = 3259,
+										["targets"] = {
+											["Raider's Training Dummy"] = 1464869,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 746676,
+										["n_min"] = 1180,
+										["g_dmg"] = 0,
+										["counter"] = 623,
+										["total"] = 1464869,
+										["c_max"] = 6517,
+										["r_amt"] = 0,
+										["id"] = 113780,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 2393,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 429,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
+									},
+									[2818] = {
+										["c_amt"] = 97,
+										["b_amt"] = 0,
+										["c_dmg"] = 469858,
+										["g_amt"] = 0,
+										["n_max"] = 4562,
+										["targets"] = {
+											["Raider's Training Dummy"] = 910693,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 440835,
+										["n_min"] = 722,
+										["g_dmg"] = 0,
+										["counter"] = 281,
+										["total"] = 910693,
+										["c_max"] = 9123,
+										["r_amt"] = 0,
+										["id"] = 2818,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 3303,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 184,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
+									},
+									[703] = {
+										["c_amt"] = 103,
+										["b_amt"] = 0,
+										["c_dmg"] = 901165,
+										["g_amt"] = 0,
+										["n_max"] = 7760,
+										["targets"] = {
+											["Raider's Training Dummy"] = 1646786,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 745621,
+										["n_min"] = 2794,
+										["g_dmg"] = 0,
+										["counter"] = 277,
+										["total"] = 1646786,
+										["c_max"] = 15425,
+										["r_amt"] = 0,
+										["id"] = 703,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 6292,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 174,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
+									},
+									[273009] = {
+										["c_amt"] = 18,
+										["b_amt"] = 0,
+										["c_dmg"] = 407169,
+										["g_amt"] = 0,
+										["n_max"] = 18861,
+										["targets"] = {
+											["Raider's Training Dummy"] = 1151881,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 744712,
+										["n_min"] = 8785,
+										["g_dmg"] = 0,
+										["counter"] = 80,
+										["total"] = 1151881,
+										["c_max"] = 28665,
+										["r_amt"] = 0,
+										["id"] = 273009,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 19056,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 62,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
+									},
+									[311192] = {
+										["c_amt"] = 27,
+										["b_amt"] = 0,
+										["c_dmg"] = 1552899,
+										["g_amt"] = 0,
+										["n_max"] = 32501,
+										["targets"] = {
+											["Raider's Training Dummy"] = 2814113,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 1261214,
+										["n_min"] = 27748,
+										["g_dmg"] = 0,
+										["counter"] = 71,
+										["total"] = 2814113,
+										["c_max"] = 65003,
+										["r_amt"] = 0,
+										["id"] = 311192,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 55496,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 44,
+										["extra"] = {
+										},
+										["spellschool"] = 4,
+									},
+									[245388] = {
+										["c_amt"] = 3,
+										["b_amt"] = 0,
+										["c_dmg"] = 129852,
+										["g_amt"] = 0,
+										["n_max"] = 22707,
+										["targets"] = {
+											["Raider's Training Dummy"] = 290645,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 160793,
+										["n_min"] = 15391,
+										["g_dmg"] = 0,
+										["counter"] = 12,
+										["total"] = 290645,
+										["c_max"] = 59038,
+										["r_amt"] = 0,
+										["id"] = 245388,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 31216,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 9,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
+									},
+									[286581] = {
+										["c_amt"] = 27,
+										["b_amt"] = 0,
+										["c_dmg"] = 783535,
+										["g_amt"] = 0,
+										["n_max"] = 17481,
+										["targets"] = {
+											["Raider's Training Dummy"] = 1109310,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 325775,
+										["n_min"] = 4096,
+										["g_dmg"] = 0,
+										["counter"] = 51,
+										["total"] = 1109310,
+										["c_max"] = 34963,
+										["r_amt"] = 0,
+										["id"] = 286581,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 7552,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 24,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
+									},
+									[198222] = {
+										["c_amt"] = 11,
+										["b_amt"] = 0,
+										["c_dmg"] = 176911,
+										["g_amt"] = 0,
+										["n_max"] = 11957,
+										["targets"] = {
+											["Raider's Training Dummy"] = 372794,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 195883,
+										["n_min"] = 5663,
+										["g_dmg"] = 0,
+										["counter"] = 36,
+										["total"] = 372794,
+										["c_max"] = 24062,
+										["r_amt"] = 0,
+										["id"] = 198222,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 11405,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 25,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
+									},
+								},
+								["tipo"] = 2,
+							},
+							["grupo"] = true,
+							["custom"] = 0,
+							["last_dps"] = 54583.16413729229,
+							["colocacao"] = 1,
+							["last_event"] = 1600297325,
+							["friendlyfire"] = {
+							},
+							["start_time"] = 1600296981,
+							["serial"] = "Player-1403-071A9001",
+							["classe"] = "ROGUE",
+						}, -- [1]
+						{
+							["flag_original"] = 68136,
+							["totalabsorbed"] = 0.001436,
+							["damage_from"] = {
+								["Kja"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["last_event"] = 0,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.001436,
+							["end_time"] = 1600297315,
+							["dps_started"] = false,
+							["total"] = 0.001436,
+							["delay"] = 0,
+							["classe"] = "UNKNOW",
+							["nome"] = "Raider's Training Dummy",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 2,
+							},
+							["damage_taken"] = 18251573.001436,
+							["friendlyfire"] = {
+							},
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["on_hold"] = false,
+							["start_time"] = 1600297315,
+							["serial"] = "Creature-0-3768-1642-17903-144086-00006207BC",
+							["fight_component"] = true,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["tipo"] = 3,
+					["combatId"] = 13,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorb"] = 0.007507,
+							["last_hps"] = 0,
+							["healing_from"] = {
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["targets_overheal"] = {
+								["Kja"] = 1407058,
+							},
+							["healing_taken"] = 0.007507,
+							["totalover"] = 1407058.007507,
+							["total_without_pet"] = 0.007507,
+							["totaldenied"] = 0.007507,
+							["totalover_without_pet"] = 0.007507,
+							["heal_enemy_amt"] = 0,
+							["end_time"] = 1600297315,
+							["delay"] = 1600297284,
+							["spells"] = {
+								["_ActorTable"] = {
+									[311201] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Kja"] = 1407058,
+										},
+										["n_max"] = 0,
+										["targets"] = {
+											["Kja"] = 0,
+										},
+										["n_min"] = 0,
+										["counter"] = 71,
+										["overheal"] = 1407058,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 311201,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["totaldenied"] = 0,
+										["m_amt"] = 0,
+										["m_healed"] = 0,
+										["n_amt"] = 71,
+										["n_curado"] = 0,
+										["c_min"] = 0,
+										["absorbed"] = 0,
+									},
+								},
+								["tipo"] = 3,
+							},
+							["nome"] = "Kja",
+							["targets_absorbs"] = {
+							},
+							["grupo"] = true,
+							["total"] = 0.007507,
+							["heal_enemy"] = {
+							},
+							["last_event"] = 1600297311,
+							["custom"] = 0,
+							["tipo"] = 2,
+							["on_hold"] = false,
+							["start_time"] = 1600297097,
+							["serial"] = "Player-1403-071A9001",
+							["classe"] = "ROGUE",
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["tipo"] = 7,
+					["combatId"] = 13,
+					["_ActorTable"] = {
+						{
+							["received"] = 3813.002282,
+							["resource"] = 349.002282,
+							["targets"] = {
+								["Kja"] = 3813,
+							},
+							["pets"] = {
+							},
+							["powertype"] = 3,
+							["classe"] = "ROGUE",
+							["passiveover"] = 38.002282,
+							["total"] = 3813.002282,
+							["nome"] = "Kja",
+							["spells"] = {
+								["_ActorTable"] = {
+									[51637] = {
+										["total"] = 3783,
+										["id"] = 51637,
+										["totalover"] = 109,
+										["targets"] = {
+											["Kja"] = 3783,
+										},
+										["counter"] = 556,
+									},
+									[25046] = {
+										["total"] = 30,
+										["id"] = 25046,
+										["totalover"] = 0,
+										["targets"] = {
+											["Kja"] = 30,
+										},
+										["counter"] = 2,
+									},
+								},
+								["tipo"] = 7,
+							},
+							["grupo"] = true,
+							["totalover"] = 109.002282,
+							["flag_original"] = 1297,
+							["last_event"] = 1600297323,
+							["tipo"] = 3,
+							["alternatepower"] = 0.002282,
+							["serial"] = "Player-1403-071A9001",
+							["resource_type"] = 4,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["tipo"] = 9,
+					["combatId"] = 13,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[1943] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 14,
+										["id"] = 1943,
+										["uptime"] = 332,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[245389] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 0,
+										["id"] = 245389,
+										["uptime"] = 108,
+										["targets"] = {
+										},
+										["appliedamt"] = 12,
+									},
+									[286581] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 0,
+										["id"] = 286581,
+										["uptime"] = 60,
+										["targets"] = {
+										},
+										["appliedamt"] = 3,
+									},
+									[79140] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 0,
+										["id"] = 79140,
+										["uptime"] = 60,
+										["targets"] = {
+										},
+										["appliedamt"] = 3,
+									},
+									[2818] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 2818,
+										["uptime"] = 333,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[703] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 8,
+										["id"] = 703,
+										["uptime"] = 316,
+										["targets"] = {
+										},
+										["appliedamt"] = 10,
+									},
+									[297108] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 0,
+										["id"] = 297108,
+										["uptime"] = 30,
+										["targets"] = {
+										},
+										["appliedamt"] = 3,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["buff_uptime"] = 5513,
+							["classe"] = "ROGUE",
+							["buff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[297162] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 13,
+										["refreshamt"] = 459,
+										["id"] = 297162,
+										["uptime"] = 226,
+										["targets"] = {
+										},
+										["appliedamt"] = 13,
+									},
+									[295248] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 7,
+										["id"] = 295248,
+										["uptime"] = 334,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[271107] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 3,
+										["refreshamt"] = 0,
+										["id"] = 271107,
+										["uptime"] = 60,
+										["targets"] = {
+										},
+										["appliedamt"] = 3,
+									},
+									[289467] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 3,
+										["refreshamt"] = 0,
+										["id"] = 289467,
+										["uptime"] = 60,
+										["targets"] = {
+										},
+										["appliedamt"] = 3,
+									},
+									[288158] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 288158,
+										["uptime"] = 331,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[3408] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 3408,
+										["uptime"] = 334,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[313571] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 10,
+										["refreshamt"] = 8,
+										["id"] = 313571,
+										["uptime"] = 206,
+										["targets"] = {
+										},
+										["appliedamt"] = 10,
+									},
+									[2823] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 2823,
+										["uptime"] = 334,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[193641] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 53,
+										["refreshamt"] = 23,
+										["id"] = 193641,
+										["uptime"] = 291,
+										["targets"] = {
+										},
+										["appliedamt"] = 53,
+									},
+									[268893] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 5,
+										["refreshamt"] = 0,
+										["id"] = 268893,
+										["uptime"] = 51,
+										["targets"] = {
+										},
+										["appliedamt"] = 5,
+									},
+									[32645] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 18,
+										["refreshamt"] = 43,
+										["id"] = 32645,
+										["uptime"] = 301,
+										["targets"] = {
+										},
+										["appliedamt"] = 18,
+									},
+									[304056] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 15,
+										["refreshamt"] = 32,
+										["id"] = 304056,
+										["uptime"] = 284,
+										["targets"] = {
+										},
+										["appliedamt"] = 15,
+									},
+									[317859] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 8,
+										["refreshamt"] = 5,
+										["id"] = 317859,
+										["uptime"] = 144,
+										["targets"] = {
+										},
+										["appliedamt"] = 8,
+									},
+									[268887] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 6,
+										["refreshamt"] = 16,
+										["id"] = 268887,
+										["uptime"] = 258,
+										["targets"] = {
+										},
+										["appliedamt"] = 6,
+									},
+									[328136] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 328136,
+										["uptime"] = 334,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[264408] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 264408,
+										["uptime"] = 334,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[269279] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 11,
+										["id"] = 269279,
+										["uptime"] = 334,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[280409] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 8,
+										["refreshamt"] = 1,
+										["id"] = 280409,
+										["uptime"] = 119,
+										["targets"] = {
+										},
+										["appliedamt"] = 8,
+									},
+									[297168] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 12,
+										["refreshamt"] = 0,
+										["id"] = 297168,
+										["uptime"] = 96,
+										["targets"] = {
+										},
+										["appliedamt"] = 12,
+									},
+									[268904] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 6,
+										["refreshamt"] = 0,
+										["id"] = 268904,
+										["uptime"] = 60,
+										["targets"] = {
+										},
+										["appliedamt"] = 6,
+									},
+									[271711] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 5,
+										["refreshamt"] = 1,
+										["id"] = 271711,
+										["uptime"] = 127,
+										["targets"] = {
+										},
+										["appliedamt"] = 5,
+									},
+									[225787] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 225787,
+										["uptime"] = 334,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[269083] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 269083,
+										["uptime"] = 334,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[268905] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 7,
+										["refreshamt"] = 20,
+										["id"] = 268905,
+										["uptime"] = 224,
+										["targets"] = {
+										},
+										["appliedamt"] = 7,
+									},
+									[288146] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 288146,
+										["uptime"] = 3,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["debuff_uptime"] = 1239,
+							["buff_uptime_targets"] = {
+							},
+							["grupo"] = true,
+							["spell_cast"] = {
+								[25046] = 2,
+								[297108] = 3,
+								[1329] = 129,
+								[32645] = 61,
+								[271107] = 3,
+								[27576] = 129,
+								[79140] = 3,
+								[245388] = 12,
+								[1943] = 15,
+								[703] = 18,
+							},
+							["debuff_uptime_targets"] = {
+							},
+							["tipo"] = 4,
+							["nome"] = "Kja",
+							["pets"] = {
+							},
+							["serial"] = "Player-1403-071A9001",
+							["last_event"] = 1600297315,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["tipo"] = 2,
+					["combatId"] = 13,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Kja"] = true,
+				},
+				["tempo_start"] = 1600296981,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 2551,
+				["playing_solo"] = true,
+				["totals"] = {
+					18251572.976233, -- [1]
+					-0.002946999971754849, -- [2]
+					{
+						0, -- [1]
+						[0] = -0.014789,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 3813,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+					["voidzone_damage"] = 0,
+					["frags_total"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = false,
+				["instance_type"] = "none",
+				["hasSaved"] = true,
+				["data_fim"] = "01:01:56",
+				["pvp"] = true,
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Raider's Training Dummy",
+				["TotalElapsedCombatTime"] = 46948.872,
+				["CombatEndedAt"] = 46948.872,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "00:56:21",
+				["end_time"] = 46948.872,
+				["combat_id"] = 13,
+				["spells_cast_timeline"] = {
+				},
+				["frags"] = {
+				},
+				["totals_grupo"] = {
+					18251573, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 3813,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+				},
+				["CombatSkillCache"] = {
+				},
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["start_time"] = 46614.491,
+				["TimeData"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage"] = {
+						{
+							["Kja"] = 18186589.007392,
+						}, -- [1]
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Kja"] = 0.007507,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+				},
+			}, -- [1]
+			{
+				{
+					["tipo"] = 2,
+					["combatId"] = 12,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.005444,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Raider's Training Dummy"] = 15906,
+							},
+							["pets"] = {
+							},
+							["end_time"] = 1600296981,
+							["tipo"] = 1,
+							["classe"] = "ROGUE",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 15906.005444,
+							["delay"] = 1600296913,
+							["dps_started"] = false,
+							["total"] = 15906.005444,
+							["on_hold"] = false,
+							["damage_taken"] = 0.005444,
+							["nome"] = "Kja",
+							["spells"] = {
+								["_ActorTable"] = {
+									[1943] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 3285,
+										["targets"] = {
+											["Raider's Training Dummy"] = 15906,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 15906,
+										["n_min"] = 2767,
+										["g_dmg"] = 0,
+										["counter"] = 5,
+										["total"] = 15906,
+										["c_max"] = 0,
+										["r_amt"] = 0,
+										["id"] = 1943,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 5,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
+									},
+									[1330] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Raider's Training Dummy"] = 0,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["r_amt"] = 0,
+										["total"] = 0,
+										["c_max"] = 0,
+										["extra"] = {
+										},
+										["id"] = 1330,
+										["r_dmg"] = 0,
+										["b_dmg"] = 0,
+										["a_amt"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_dmg"] = 0,
+										["n_amt"] = 0,
+										["spellschool"] = 1,
+										["IMMUNE"] = 1,
+									},
+								},
+								["tipo"] = 2,
+							},
+							["grupo"] = true,
+							["custom"] = 0,
+							["last_dps"] = 15906.005444,
+							["colocacao"] = 1,
+							["last_event"] = 1600296981,
+							["friendlyfire"] = {
+							},
+							["start_time"] = 1600296975,
+							["serial"] = "Player-1403-071A9001",
+							["friendlyfire_total"] = 0,
+						}, -- [1]
+						{
+							["flag_original"] = 2600,
+							["totalabsorbed"] = 0.004071,
+							["damage_from"] = {
+								["Kja"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["last_event"] = 0,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.004071,
+							["classe"] = "UNKNOW",
+							["dps_started"] = false,
+							["total"] = 0.004071,
+							["delay"] = 0,
+							["on_hold"] = false,
+							["nome"] = "Raider's Training Dummy",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 2,
+							},
+							["friendlyfire"] = {
+							},
+							["end_time"] = 1600296909,
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["damage_taken"] = 15906.004071,
+							["start_time"] = 1600296909,
+							["serial"] = "Creature-0-3768-1642-17903-144086-00006207BC",
+							["fight_component"] = true,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["tipo"] = 3,
+					["combatId"] = 12,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["tipo"] = 7,
+					["combatId"] = 12,
+					["_ActorTable"] = {
+						{
+							["received"] = 0.001588,
+							["resource"] = 1.001588,
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["powertype"] = 3,
+							["classe"] = "ROGUE",
+							["passiveover"] = 0.001588,
+							["total"] = 0.001588,
+							["nome"] = "Kja",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 7,
+							},
+							["grupo"] = true,
+							["totalover"] = 0.001588,
+							["flag_original"] = 1297,
+							["last_event"] = 1600296981,
+							["tipo"] = 3,
+							["alternatepower"] = 0.001588,
+							["serial"] = "Player-1403-071A9001",
+							["resource_type"] = 4,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["tipo"] = 9,
+					["combatId"] = 12,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["nome"] = "Kja",
+							["grupo"] = true,
+							["pets"] = {
+							},
+							["last_event"] = 1600296909,
+							["classe"] = "ROGUE",
+							["tipo"] = 4,
+							["buff_uptime"] = 11,
+							["buff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[225787] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 225787,
+										["uptime"] = 1,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[269279] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 269279,
+										["uptime"] = 1,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[264408] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 264408,
+										["uptime"] = 1,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[2823] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 2823,
+										["uptime"] = 1,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[288158] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 288158,
+										["uptime"] = 1,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[268887] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 268887,
+										["uptime"] = 1,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[271711] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 271711,
+										["uptime"] = 1,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[269083] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 269083,
+										["uptime"] = 1,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[328136] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 328136,
+										["uptime"] = 1,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[3408] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 3408,
+										["uptime"] = 1,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[297162] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 297162,
+										["uptime"] = 1,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["serial"] = "Player-1403-071A9001",
+							["buff_uptime_targets"] = {
+							},
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["tipo"] = 2,
+					["combatId"] = 12,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Kja"] = true,
+				},
+				["CombatStartedAt"] = 46614.338,
+				["tempo_start"] = 1600296908,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["enemy"] = "Raider's Training Dummy",
+				["combat_counter"] = 2550,
+				["totals"] = {
+					15906, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+					["voidzone_damage"] = 0,
+					["frags_total"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags"] = {
+				},
+				["frags_need_refresh"] = false,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage"] = {
+						{
+							["Kja"] = 3284.005444,
+						}, -- [1]
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+				},
+				["end_time"] = 46542.22,
+				["data_inicio"] = "00:55:08",
+				["instance_type"] = "none",
+				["totals_grupo"] = {
+					15906, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+				},
+				["combat_id"] = 12,
+				["hasSaved"] = true,
+				["spells_cast_timeline"] = {
+				},
+				["data_fim"] = "00:55:09",
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["CombatSkillCache"] = {
+				},
+				["cleu_timeline"] = {
+				},
+				["start_time"] = 46541.22,
+				["TimeData"] = {
+				},
+				["pvp"] = true,
+			}, -- [2]
+			{
+				{
+					["tipo"] = 2,
+					["combatId"] = 11,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.007851,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Raider's Training Dummy"] = 16706354,
+							},
+							["pets"] = {
+							},
+							["end_time"] = 1600296908,
+							["tipo"] = 1,
+							["classe"] = "ROGUE",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 16706354.007851,
+							["delay"] = 0,
+							["dps_started"] = false,
+							["total"] = 16706354.007851,
+							["on_hold"] = false,
+							["damage_taken"] = 0.007851,
+							["nome"] = "Kja",
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 177,
+										["b_amt"] = 0,
+										["c_dmg"] = 1148808,
+										["g_amt"] = 0,
+										["n_max"] = 6733,
+										["targets"] = {
+											["Raider's Training Dummy"] = 1926953,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 778145,
+										["n_min"] = 1556,
+										["g_dmg"] = 0,
+										["counter"] = 529,
+										["r_amt"] = 0,
+										["total"] = 1926953,
+										["c_max"] = 13782,
+										["extra"] = {
+										},
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["b_dmg"] = 0,
+										["a_amt"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 3095,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_dmg"] = 0,
+										["n_amt"] = 262,
+										["spellschool"] = 1,
+										["MISS"] = 90,
+									}, -- [1]
+									[286581] = {
+										["c_amt"] = 21,
+										["b_amt"] = 0,
+										["c_dmg"] = 558444,
+										["g_amt"] = 0,
+										["n_max"] = 17164,
+										["targets"] = {
+											["Raider's Training Dummy"] = 846947,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 288503,
+										["n_min"] = 3205,
+										["g_dmg"] = 0,
+										["counter"] = 41,
+										["total"] = 846947,
+										["c_max"] = 34539,
+										["r_amt"] = 0,
+										["id"] = 286581,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 3333,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 20,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
+									},
+									[297108] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 45432,
+										["targets"] = {
+											["Raider's Training Dummy"] = 84496,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 84496,
+										["n_min"] = 39064,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 84496,
+										["c_max"] = 0,
+										["r_amt"] = 0,
+										["id"] = 297108,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 0,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 2,
+										["extra"] = {
+										},
+										["spellschool"] = 32,
+									},
+									[5374] = {
+										["c_amt"] = 83,
+										["b_amt"] = 0,
+										["c_dmg"] = 784601,
+										["g_amt"] = 0,
+										["n_max"] = 10065,
+										["targets"] = {
+											["Raider's Training Dummy"] = 1450292,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 665691,
+										["n_min"] = 2436,
+										["g_dmg"] = 0,
+										["counter"] = 226,
+										["total"] = 1450292,
+										["c_max"] = 20129,
+										["r_amt"] = 0,
+										["id"] = 5374,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 4804,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 143,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
+									},
+									[1943] = {
+										["c_amt"] = 90,
+										["b_amt"] = 0,
+										["c_dmg"] = 772224,
+										["g_amt"] = 0,
+										["n_max"] = 6979,
+										["targets"] = {
+											["Raider's Training Dummy"] = 1431519,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 659295,
+										["n_min"] = 2970,
+										["g_dmg"] = 0,
+										["counter"] = 251,
+										["total"] = 1431519,
+										["c_max"] = 13958,
+										["r_amt"] = 0,
+										["id"] = 1943,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 242,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 161,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
+									},
+									[311192] = {
+										["c_amt"] = 24,
+										["b_amt"] = 0,
+										["c_dmg"] = 1415046,
+										["g_amt"] = 0,
+										["n_max"] = 32501,
+										["targets"] = {
+											["Raider's Training Dummy"] = 3164148,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 1749102,
+										["n_min"] = 27748,
+										["g_dmg"] = 0,
+										["counter"] = 85,
+										["total"] = 3164148,
+										["c_max"] = 65002,
+										["r_amt"] = 0,
+										["id"] = 311192,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 55496,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 61,
+										["extra"] = {
+										},
+										["spellschool"] = 4,
+									},
+									[32645] = {
+										["c_amt"] = 21,
+										["b_amt"] = 0,
+										["c_dmg"] = 1243838,
+										["g_amt"] = 0,
+										["n_max"] = 44835,
+										["targets"] = {
+											["Raider's Training Dummy"] = 2134458,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 890620,
+										["n_min"] = 16777,
+										["g_dmg"] = 0,
+										["counter"] = 53,
+										["total"] = 2134458,
+										["c_max"] = 114446,
+										["r_amt"] = 0,
+										["id"] = 32645,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 42241,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 32,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
+									},
+									[1330] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Raider's Training Dummy"] = 0,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["r_amt"] = 0,
+										["total"] = 0,
+										["c_max"] = 0,
+										["extra"] = {
+										},
+										["id"] = 1330,
+										["r_dmg"] = 0,
+										["b_dmg"] = 0,
+										["a_amt"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_dmg"] = 0,
+										["n_amt"] = 0,
+										["spellschool"] = 1,
+										["IMMUNE"] = 1,
+									},
+									[113780] = {
+										["c_amt"] = 145,
+										["b_amt"] = 0,
+										["c_dmg"] = 516084,
+										["g_amt"] = 0,
+										["n_max"] = 3219,
+										["targets"] = {
+											["Raider's Training Dummy"] = 1183329,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 667245,
+										["n_min"] = 1179,
+										["g_dmg"] = 0,
+										["counter"] = 548,
+										["total"] = 1183329,
+										["c_max"] = 6399,
+										["r_amt"] = 0,
+										["id"] = 113780,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 2359,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 403,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
+									},
+									[2818] = {
+										["c_amt"] = 69,
+										["b_amt"] = 0,
+										["c_dmg"] = 313572,
+										["g_amt"] = 0,
+										["n_max"] = 4506,
+										["targets"] = {
+											["Raider's Training Dummy"] = 732678,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 419106,
+										["n_min"] = 466,
+										["g_dmg"] = 0,
+										["counter"] = 253,
+										["total"] = 732678,
+										["c_max"] = 8957,
+										["r_amt"] = 0,
+										["id"] = 2818,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 3303,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 184,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
+									},
+									[198222] = {
+										["c_amt"] = 13,
+										["b_amt"] = 0,
+										["c_dmg"] = 213945,
+										["g_amt"] = 0,
+										["n_max"] = 15450,
+										["targets"] = {
+											["Raider's Training Dummy"] = 401751,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 187806,
+										["n_min"] = 5702,
+										["g_dmg"] = 0,
+										["counter"] = 36,
+										["total"] = 401751,
+										["c_max"] = 24211,
+										["r_amt"] = 0,
+										["id"] = 198222,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 11405,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 23,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
+									},
+									[273009] = {
+										["c_amt"] = 25,
+										["b_amt"] = 0,
+										["c_dmg"] = 609478,
+										["g_amt"] = 0,
+										["n_max"] = 18518,
+										["targets"] = {
+											["Raider's Training Dummy"] = 1055144,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 445666,
+										["n_min"] = 8969,
+										["g_dmg"] = 0,
+										["counter"] = 62,
+										["total"] = 1055144,
+										["c_max"] = 37037,
+										["r_amt"] = 0,
+										["id"] = 273009,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 19056,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 37,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
+									},
+									[703] = {
+										["c_amt"] = 79,
+										["b_amt"] = 0,
+										["c_dmg"] = 678394,
+										["g_amt"] = 0,
+										["n_max"] = 11739,
+										["targets"] = {
+											["Raider's Training Dummy"] = 1408231,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 729837,
+										["n_min"] = 273,
+										["g_dmg"] = 0,
+										["counter"] = 251,
+										["total"] = 1408231,
+										["c_max"] = 23478,
+										["r_amt"] = 0,
+										["id"] = 703,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 6291,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 172,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
+									},
+									[245388] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 74273,
+										["g_amt"] = 0,
+										["n_max"] = 28983,
+										["targets"] = {
+											["Raider's Training Dummy"] = 193318,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 119045,
+										["n_min"] = 13894,
+										["g_dmg"] = 0,
+										["counter"] = 9,
+										["total"] = 193318,
+										["c_max"] = 45697,
+										["r_amt"] = 0,
+										["id"] = 245388,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 28576,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 7,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
+									},
+									[269031] = {
+										["c_amt"] = 28,
+										["b_amt"] = 0,
+										["c_dmg"] = 204149,
+										["g_amt"] = 0,
+										["n_max"] = 4033,
+										["targets"] = {
+											["Raider's Training Dummy"] = 424751,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 220602,
+										["n_min"] = 3443,
+										["g_dmg"] = 0,
+										["counter"] = 90,
+										["total"] = 424751,
+										["c_max"] = 8066,
+										["r_amt"] = 0,
+										["id"] = 269031,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 6886,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 62,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
+									},
+									[255546] = {
+										["c_amt"] = 14,
+										["b_amt"] = 0,
+										["c_dmg"] = 120653,
+										["g_amt"] = 0,
+										["n_max"] = 6089,
+										["targets"] = {
+											["Raider's Training Dummy"] = 268339,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 147686,
+										["n_min"] = 3172,
+										["g_dmg"] = 0,
+										["counter"] = 52,
+										["total"] = 268339,
+										["c_max"] = 12178,
+										["r_amt"] = 0,
+										["id"] = 255546,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 6344,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 38,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
+									},
+								},
+								["tipo"] = 2,
+							},
+							["grupo"] = true,
+							["custom"] = 0,
+							["last_dps"] = 54993.28154689855,
+							["colocacao"] = 1,
+							["last_event"] = 1600296906,
+							["friendlyfire"] = {
+							},
+							["start_time"] = 1600296593,
+							["serial"] = "Player-1403-071A9001",
+							["friendlyfire_total"] = 0,
+						}, -- [1]
+						{
+							["flag_original"] = 68136,
+							["totalabsorbed"] = 0.004545,
+							["damage_from"] = {
+								["Kja"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["last_event"] = 0,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.004545,
+							["end_time"] = 1600296896,
+							["dps_started"] = false,
+							["total"] = 0.004545,
+							["delay"] = 0,
+							["classe"] = "UNKNOW",
+							["nome"] = "Raider's Training Dummy",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 2,
+							},
+							["damage_taken"] = 16706354.004545,
+							["friendlyfire"] = {
+							},
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["on_hold"] = false,
+							["start_time"] = 1600296896,
+							["serial"] = "Creature-0-3768-1642-17903-144086-00006207BC",
+							["fight_component"] = true,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["tipo"] = 3,
+					["combatId"] = 11,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorb"] = 0.006942,
+							["last_hps"] = 0,
+							["healing_from"] = {
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["targets_overheal"] = {
+								["Kja"] = 1582082,
+							},
+							["healing_taken"] = 0.006942,
+							["totalover"] = 1582082.006942,
+							["total_without_pet"] = 0.006942,
+							["totaldenied"] = 0.006942,
+							["totalover_without_pet"] = 0.006942,
+							["classe"] = "ROGUE",
+							["end_time"] = 1600296896,
+							["delay"] = 1600296872,
+							["targets_absorbs"] = {
+							},
+							["nome"] = "Kja",
+							["spells"] = {
+								["_ActorTable"] = {
+									[311201] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Kja"] = 1582082,
+										},
+										["n_max"] = 0,
+										["targets"] = {
+											["Kja"] = 0,
+										},
+										["n_min"] = 0,
+										["counter"] = 85,
+										["overheal"] = 1582082,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 311201,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["totaldenied"] = 0,
+										["m_amt"] = 0,
+										["m_healed"] = 0,
+										["n_amt"] = 85,
+										["n_curado"] = 0,
+										["c_min"] = 0,
+										["absorbed"] = 0,
+									},
+								},
+								["tipo"] = 3,
+							},
+							["grupo"] = true,
+							["total"] = 0.006942,
+							["heal_enemy"] = {
+							},
+							["tipo"] = 2,
+							["custom"] = 0,
+							["last_event"] = 1600296896,
+							["on_hold"] = false,
+							["start_time"] = 1600296627,
+							["serial"] = "Player-1403-071A9001",
+							["heal_enemy_amt"] = 0,
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["tipo"] = 7,
+					["combatId"] = 11,
+					["_ActorTable"] = {
+						{
+							["received"] = 3391.00175,
+							["resource"] = 310.00175,
+							["targets"] = {
+								["Kja"] = 3391,
+							},
+							["pets"] = {
+							},
+							["powertype"] = 3,
+							["classe"] = "ROGUE",
+							["passiveover"] = 28.00175,
+							["total"] = 3391.00175,
+							["nome"] = "Kja",
+							["spells"] = {
+								["_ActorTable"] = {
+									[51637] = {
+										["total"] = 3376,
+										["id"] = 51637,
+										["totalover"] = 131,
+										["targets"] = {
+											["Kja"] = 3376,
+										},
+										["counter"] = 501,
+									},
+									[25046] = {
+										["total"] = 15,
+										["id"] = 25046,
+										["totalover"] = 0,
+										["targets"] = {
+											["Kja"] = 15,
+										},
+										["counter"] = 1,
+									},
+								},
+								["tipo"] = 7,
+							},
+							["grupo"] = true,
+							["totalover"] = 131.00175,
+							["flag_original"] = 1297,
+							["last_event"] = 1600296905,
+							["tipo"] = 3,
+							["alternatepower"] = 0.00175,
+							["serial"] = "Player-1403-071A9001",
+							["resource_type"] = 4,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["tipo"] = 9,
+					["combatId"] = 11,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[245389] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = -1,
+										["refreshamt"] = 0,
+										["id"] = 245389,
+										["uptime"] = 301,
+										["targets"] = {
+										},
+										["appliedamt"] = 9,
+									},
+									[286581] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = -1,
+										["refreshamt"] = 0,
+										["id"] = 286581,
+										["uptime"] = 298,
+										["targets"] = {
+										},
+										["appliedamt"] = 2,
+									},
+									[79140] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = -1,
+										["refreshamt"] = 0,
+										["id"] = 79140,
+										["uptime"] = 298,
+										["targets"] = {
+										},
+										["appliedamt"] = 2,
+									},
+									[703] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 3,
+										["id"] = 703,
+										["uptime"] = 303,
+										["targets"] = {
+										},
+										["appliedamt"] = 14,
+									},
+									[1943] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 11,
+										["id"] = 1943,
+										["uptime"] = 294,
+										["targets"] = {
+										},
+										["appliedamt"] = 2,
+									},
+									[297108] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 0,
+										["id"] = 297108,
+										["uptime"] = 20,
+										["targets"] = {
+										},
+										["appliedamt"] = 2,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["pets"] = {
+							},
+							["classe"] = "ROGUE",
+							["buff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[297162] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 11,
+										["refreshamt"] = 391,
+										["id"] = 297162,
+										["uptime"] = 220,
+										["targets"] = {
+										},
+										["appliedamt"] = 11,
+									},
+									[295248] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 295248,
+										["uptime"] = 303,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[271107] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 3,
+										["refreshamt"] = 0,
+										["id"] = 271107,
+										["uptime"] = 45,
+										["targets"] = {
+										},
+										["appliedamt"] = 3,
+									},
+									[289467] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 3,
+										["refreshamt"] = 0,
+										["id"] = 289467,
+										["uptime"] = 45,
+										["targets"] = {
+										},
+										["appliedamt"] = 3,
+									},
+									[288158] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 288158,
+										["uptime"] = 303,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[3408] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 3408,
+										["uptime"] = 303,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[313571] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 9,
+										["refreshamt"] = 8,
+										["id"] = 313571,
+										["uptime"] = 191,
+										["targets"] = {
+										},
+										["appliedamt"] = 9,
+									},
+									[2823] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 2823,
+										["uptime"] = 303,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[193641] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 30,
+										["refreshamt"] = 38,
+										["id"] = 193641,
+										["uptime"] = 238,
+										["targets"] = {
+										},
+										["appliedamt"] = 30,
+									},
+									[115192] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 115192,
+										["uptime"] = 2,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[32645] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 14,
+										["refreshamt"] = 40,
+										["id"] = 32645,
+										["uptime"] = 249,
+										["targets"] = {
+										},
+										["appliedamt"] = 14,
+									},
+									[304056] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 12,
+										["refreshamt"] = 29,
+										["id"] = 304056,
+										["uptime"] = 249,
+										["targets"] = {
+										},
+										["appliedamt"] = 12,
+									},
+									[317859] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 5,
+										["refreshamt"] = 1,
+										["id"] = 317859,
+										["uptime"] = 88,
+										["targets"] = {
+										},
+										["appliedamt"] = 5,
+									},
+									[268887] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 6,
+										["refreshamt"] = 16,
+										["id"] = 268887,
+										["uptime"] = 212,
+										["targets"] = {
+										},
+										["appliedamt"] = 6,
+									},
+									[328136] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 328136,
+										["uptime"] = 303,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[264408] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 264408,
+										["uptime"] = 303,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[271711] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 4,
+										["refreshamt"] = 2,
+										["id"] = 271711,
+										["uptime"] = 84,
+										["targets"] = {
+										},
+										["appliedamt"] = 4,
+									},
+									[268893] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 5,
+										["refreshamt"] = 0,
+										["id"] = 268893,
+										["uptime"] = 50,
+										["targets"] = {
+										},
+										["appliedamt"] = 5,
+									},
+									[297168] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 10,
+										["refreshamt"] = 0,
+										["id"] = 297168,
+										["uptime"] = 80,
+										["targets"] = {
+										},
+										["appliedamt"] = 10,
+									},
+									[268904] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 8,
+										["refreshamt"] = 0,
+										["id"] = 268904,
+										["uptime"] = 67,
+										["targets"] = {
+										},
+										["appliedamt"] = 8,
+									},
+									[280409] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 5,
+										["refreshamt"] = 0,
+										["id"] = 280409,
+										["uptime"] = 75,
+										["targets"] = {
+										},
+										["appliedamt"] = 5,
+									},
+									[225787] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 225787,
+										["uptime"] = 303,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[269083] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 269083,
+										["uptime"] = 303,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[268905] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 7,
+										["refreshamt"] = 21,
+										["id"] = 268905,
+										["uptime"] = 201,
+										["targets"] = {
+										},
+										["appliedamt"] = 7,
+									},
+									[269279] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 10,
+										["id"] = 269279,
+										["uptime"] = 303,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["debuff_uptime"] = 1514,
+							["buff_uptime_targets"] = {
+							},
+							["grupo"] = true,
+							["spell_cast"] = {
+								[25046] = 1,
+								[297108] = 2,
+								[1329] = 113,
+								[32645] = 53,
+								[271107] = 2,
+								[703] = 17,
+								[27576] = 113,
+								[245388] = 9,
+								[1943] = 14,
+								[79140] = 2,
+							},
+							["nome"] = "Kja",
+							["tipo"] = 4,
+							["debuff_uptime_targets"] = {
+							},
+							["buff_uptime"] = 4823,
+							["serial"] = "Player-1403-071A9001",
+							["last_event"] = 1600296896,
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["tipo"] = 2,
+					["combatId"] = 11,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Kja"] = true,
+				},
+				["tempo_start"] = 1600296593,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["combat_counter"] = 2549,
+				["playing_solo"] = true,
+				["totals"] = {
+					16706354, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 3391,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+					["voidzone_damage"] = 0,
+					["frags_total"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = false,
+				["instance_type"] = "none",
+				["hasSaved"] = true,
+				["data_fim"] = "00:54:57",
+				["pvp"] = true,
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Raider's Training Dummy",
+				["TotalElapsedCombatTime"] = 46530.02,
+				["CombatEndedAt"] = 46530.02,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "00:49:53",
+				["end_time"] = 46530.02,
+				["combat_id"] = 11,
+				["spells_cast_timeline"] = {
+				},
+				["frags"] = {
+				},
+				["totals_grupo"] = {
+					16706354, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 3391,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+				},
+				["CombatSkillCache"] = {
+				},
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["start_time"] = 46226.231,
+				["TimeData"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage"] = {
+						{
+							["Kja"] = 16628304.007851,
+						}, -- [1]
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Kja"] = 0.006942,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+				},
+			}, -- [3]
+			{
+				{
+					["tipo"] = 2,
+					["combatId"] = 10,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.004614,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Raider's Training Dummy"] = 7494288,
+							},
+							["pets"] = {
+							},
+							["end_time"] = 1600296593,
+							["tipo"] = 1,
+							["classe"] = "ROGUE",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 7494288.004614,
+							["delay"] = 0,
+							["dps_started"] = false,
+							["total"] = 7494288.004614,
+							["on_hold"] = false,
+							["damage_taken"] = 0.004614,
+							["nome"] = "Kja",
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 66,
+										["b_amt"] = 0,
+										["c_dmg"] = 414897,
+										["g_amt"] = 0,
+										["n_max"] = 6762,
+										["targets"] = {
+											["Raider's Training Dummy"] = 757992,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 343095,
+										["n_min"] = 1580,
+										["g_dmg"] = 0,
+										["counter"] = 234,
+										["r_amt"] = 0,
+										["total"] = 757992,
+										["c_max"] = 13170,
+										["extra"] = {
+										},
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["b_dmg"] = 0,
+										["a_amt"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 3197,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_dmg"] = 0,
+										["n_amt"] = 116,
+										["spellschool"] = 1,
+										["MISS"] = 52,
+									}, -- [1]
+									[1943] = {
+										["c_amt"] = 41,
+										["b_amt"] = 0,
+										["c_dmg"] = 344012,
+										["g_amt"] = 0,
+										["n_max"] = 6852,
+										["targets"] = {
+											["Raider's Training Dummy"] = 611165,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 267153,
+										["n_min"] = 3308,
+										["g_dmg"] = 0,
+										["counter"] = 107,
+										["total"] = 611165,
+										["c_max"] = 13704,
+										["r_amt"] = 0,
+										["id"] = 1943,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 6616,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 66,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
+									},
+									[297108] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 90315,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Raider's Training Dummy"] = 90315,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 1,
+										["total"] = 90315,
+										["c_max"] = 90315,
+										["r_amt"] = 0,
+										["id"] = 297108,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 90315,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 0,
+										["extra"] = {
+										},
+										["spellschool"] = 32,
+									},
+									[5374] = {
+										["c_amt"] = 28,
+										["b_amt"] = 0,
+										["c_dmg"] = 296106,
+										["g_amt"] = 0,
+										["n_max"] = 7887,
+										["targets"] = {
+											["Raider's Training Dummy"] = 611362,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 315256,
+										["n_min"] = 2605,
+										["g_dmg"] = 0,
+										["counter"] = 102,
+										["total"] = 611362,
+										["c_max"] = 19763,
+										["r_amt"] = 0,
+										["id"] = 5374,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 5248,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 74,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
+									},
+									[286581] = {
+										["c_amt"] = 12,
+										["b_amt"] = 0,
+										["c_dmg"] = 361165,
+										["g_amt"] = 0,
+										["n_max"] = 16952,
+										["targets"] = {
+											["Raider's Training Dummy"] = 488476,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 127311,
+										["n_min"] = 4172,
+										["g_dmg"] = 0,
+										["counter"] = 22,
+										["total"] = 488476,
+										["c_max"] = 34751,
+										["r_amt"] = 0,
+										["id"] = 286581,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 23858,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 10,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
+									},
+									[311192] = {
+										["c_amt"] = 12,
+										["b_amt"] = 0,
+										["c_dmg"] = 719061,
+										["g_amt"] = 0,
+										["n_max"] = 32305,
+										["targets"] = {
+											["Raider's Training Dummy"] = 1476315,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 757254,
+										["n_min"] = 27748,
+										["g_dmg"] = 0,
+										["counter"] = 38,
+										["total"] = 1476315,
+										["c_max"] = 64609,
+										["r_amt"] = 0,
+										["id"] = 311192,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 55497,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 26,
+										["extra"] = {
+										},
+										["spellschool"] = 4,
+									},
+									[32645] = {
+										["c_amt"] = 9,
+										["b_amt"] = 0,
+										["c_dmg"] = 550133,
+										["g_amt"] = 0,
+										["n_max"] = 51702,
+										["targets"] = {
+											["Raider's Training Dummy"] = 926537,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 376404,
+										["n_min"] = 17015,
+										["g_dmg"] = 0,
+										["counter"] = 23,
+										["total"] = 926537,
+										["c_max"] = 88564,
+										["r_amt"] = 0,
+										["id"] = 32645,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 33793,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 14,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
+									},
+									[1330] = {
+										["c_amt"] = 0,
+										["b_amt"] = 0,
+										["c_dmg"] = 0,
+										["g_amt"] = 0,
+										["n_max"] = 0,
+										["targets"] = {
+											["Raider's Training Dummy"] = 0,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 0,
+										["n_min"] = 0,
+										["g_dmg"] = 0,
+										["counter"] = 3,
+										["r_amt"] = 0,
+										["total"] = 0,
+										["c_max"] = 0,
+										["extra"] = {
+										},
+										["id"] = 1330,
+										["r_dmg"] = 0,
+										["b_dmg"] = 0,
+										["a_amt"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 0,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_dmg"] = 0,
+										["n_amt"] = 0,
+										["spellschool"] = 1,
+										["IMMUNE"] = 3,
+									},
+									[113780] = {
+										["c_amt"] = 72,
+										["b_amt"] = 0,
+										["c_dmg"] = 251641,
+										["g_amt"] = 0,
+										["n_max"] = 3199,
+										["targets"] = {
+											["Raider's Training Dummy"] = 516447,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 264806,
+										["n_min"] = 1188,
+										["g_dmg"] = 0,
+										["counter"] = 240,
+										["total"] = 516447,
+										["c_max"] = 6398,
+										["r_amt"] = 0,
+										["id"] = 113780,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 2359,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 168,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
+									},
+									[2818] = {
+										["c_amt"] = 29,
+										["b_amt"] = 0,
+										["c_dmg"] = 146195,
+										["g_amt"] = 0,
+										["n_max"] = 4479,
+										["targets"] = {
+											["Raider's Training Dummy"] = 313633,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 167438,
+										["n_min"] = 1663,
+										["g_dmg"] = 0,
+										["counter"] = 107,
+										["total"] = 313633,
+										["c_max"] = 8958,
+										["r_amt"] = 0,
+										["id"] = 2818,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 3350,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 78,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
+									},
+									[198222] = {
+										["c_amt"] = 5,
+										["b_amt"] = 0,
+										["c_dmg"] = 92484,
+										["g_amt"] = 0,
+										["n_max"] = 13960,
+										["targets"] = {
+											["Raider's Training Dummy"] = 180870,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 88386,
+										["n_min"] = 5742,
+										["g_dmg"] = 0,
+										["counter"] = 16,
+										["total"] = 180870,
+										["c_max"] = 23912,
+										["r_amt"] = 0,
+										["id"] = 198222,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 12545,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 11,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
+									},
+									[273009] = {
+										["c_amt"] = 13,
+										["b_amt"] = 0,
+										["c_dmg"] = 315523,
+										["g_amt"] = 0,
+										["n_max"] = 14420,
+										["targets"] = {
+											["Raider's Training Dummy"] = 510404,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 194881,
+										["n_min"] = 9663,
+										["g_dmg"] = 0,
+										["counter"] = 30,
+										["total"] = 510404,
+										["c_max"] = 37037,
+										["r_amt"] = 0,
+										["id"] = 273009,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 17570,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 17,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
+									},
+									[703] = {
+										["c_amt"] = 30,
+										["b_amt"] = 0,
+										["c_dmg"] = 255047,
+										["g_amt"] = 0,
+										["n_max"] = 11811,
+										["targets"] = {
+											["Raider's Training Dummy"] = 611530,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 356483,
+										["n_min"] = 1990,
+										["g_dmg"] = 0,
+										["counter"] = 107,
+										["total"] = 611530,
+										["c_max"] = 23624,
+										["r_amt"] = 0,
+										["id"] = 703,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 6336,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 77,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
+									},
+									[245388] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 46260,
+										["g_amt"] = 0,
+										["n_max"] = 19799,
+										["targets"] = {
+											["Raider's Training Dummy"] = 96270,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 50010,
+										["n_min"] = 14386,
+										["g_dmg"] = 0,
+										["counter"] = 4,
+										["total"] = 96270,
+										["c_max"] = 46260,
+										["r_amt"] = 0,
+										["id"] = 245388,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 46260,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 3,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
+									},
+									[269031] = {
+										["c_amt"] = 14,
+										["b_amt"] = 0,
+										["c_dmg"] = 99389,
+										["g_amt"] = 0,
+										["n_max"] = 3959,
+										["targets"] = {
+											["Raider's Training Dummy"] = 181718,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 82329,
+										["n_min"] = 3443,
+										["g_dmg"] = 0,
+										["counter"] = 37,
+										["total"] = 181718,
+										["c_max"] = 8016,
+										["r_amt"] = 0,
+										["id"] = 269031,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 6935,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 23,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
+									},
+									[255546] = {
+										["c_amt"] = 4,
+										["b_amt"] = 0,
+										["c_dmg"] = 40117,
+										["g_amt"] = 0,
+										["n_max"] = 7820,
+										["targets"] = {
+											["Raider's Training Dummy"] = 121254,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 81137,
+										["n_min"] = 3172,
+										["g_dmg"] = 0,
+										["counter"] = 23,
+										["total"] = 121254,
+										["c_max"] = 15640,
+										["r_amt"] = 0,
+										["id"] = 255546,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 6569,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 19,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
+									},
+								},
+								["tipo"] = 2,
+							},
+							["grupo"] = true,
+							["custom"] = 0,
+							["last_dps"] = 56699.31004580279,
+							["colocacao"] = 1,
+							["last_event"] = 1600296592,
+							["friendlyfire"] = {
+							},
+							["start_time"] = 1600296460,
+							["serial"] = "Player-1403-071A9001",
+							["friendlyfire_total"] = 0,
+						}, -- [1]
+						{
+							["flag_original"] = 68136,
+							["totalabsorbed"] = 0.008141,
+							["damage_from"] = {
+								["Kja"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["last_event"] = 0,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.008141,
+							["end_time"] = 1600296592,
+							["dps_started"] = false,
+							["total"] = 0.008141,
+							["delay"] = 0,
+							["classe"] = "UNKNOW",
+							["nome"] = "Raider's Training Dummy",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 2,
+							},
+							["damage_taken"] = 7494288.008141,
+							["friendlyfire"] = {
+							},
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["on_hold"] = false,
+							["start_time"] = 1600296592,
+							["serial"] = "Creature-0-3768-1642-17903-144086-00006207BC",
+							["fight_component"] = true,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["tipo"] = 3,
+					["combatId"] = 10,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorb"] = 0.003415,
+							["last_hps"] = 0,
+							["healing_from"] = {
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["targets_overheal"] = {
+								["Kja"] = 738153,
+							},
+							["healing_taken"] = 0.003415,
+							["totalover"] = 738153.0034149999,
+							["total_without_pet"] = 0.003415,
+							["totaldenied"] = 0.003415,
+							["totalover_without_pet"] = 0.003415,
+							["classe"] = "ROGUE",
+							["end_time"] = 1600296592,
+							["delay"] = 0,
+							["targets_absorbs"] = {
+							},
+							["nome"] = "Kja",
+							["spells"] = {
+								["_ActorTable"] = {
+									[311201] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Kja"] = 738153,
+										},
+										["n_max"] = 0,
+										["targets"] = {
+											["Kja"] = 0,
+										},
+										["n_min"] = 0,
+										["counter"] = 38,
+										["overheal"] = 738153,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 311201,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["totaldenied"] = 0,
+										["m_amt"] = 0,
+										["m_healed"] = 0,
+										["n_amt"] = 38,
+										["n_curado"] = 0,
+										["c_min"] = 0,
+										["absorbed"] = 0,
+									},
+								},
+								["tipo"] = 3,
+							},
+							["grupo"] = true,
+							["total"] = 0.003415,
+							["heal_enemy"] = {
+							},
+							["tipo"] = 2,
+							["custom"] = 0,
+							["last_event"] = 1600296588,
+							["on_hold"] = false,
+							["start_time"] = 1600296462,
+							["serial"] = "Player-1403-071A9001",
+							["heal_enemy_amt"] = 0,
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["tipo"] = 7,
+					["combatId"] = 10,
+					["_ActorTable"] = {
+						{
+							["received"] = 1499.008569,
+							["resource"] = 137.008569,
+							["targets"] = {
+								["Kja"] = 1499,
+							},
+							["pets"] = {
+							},
+							["powertype"] = 3,
+							["classe"] = "ROGUE",
+							["passiveover"] = 20.008569,
+							["total"] = 1499.008569,
+							["nome"] = "Kja",
+							["spells"] = {
+								["_ActorTable"] = {
+									[51637] = {
+										["total"] = 1484,
+										["id"] = 51637,
+										["totalover"] = 14,
+										["targets"] = {
+											["Kja"] = 1484,
+										},
+										["counter"] = 214,
+									},
+									[25046] = {
+										["total"] = 15,
+										["id"] = 25046,
+										["totalover"] = 0,
+										["targets"] = {
+											["Kja"] = 15,
+										},
+										["counter"] = 1,
+									},
+								},
+								["tipo"] = 7,
+							},
+							["grupo"] = true,
+							["totalover"] = 14.008569,
+							["flag_original"] = 1297,
+							["last_event"] = 1600296592,
+							["tipo"] = 3,
+							["alternatepower"] = 0.008569,
+							["serial"] = "Player-1403-071A9001",
+							["resource_type"] = 4,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["tipo"] = 9,
+					["combatId"] = 10,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[297108] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = -1,
+										["refreshamt"] = 0,
+										["id"] = 297108,
+										["uptime"] = 129,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[1943] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 5,
+										["id"] = 1943,
+										["uptime"] = 126,
+										["targets"] = {
+										},
+										["appliedamt"] = 0,
+									},
+									[79140] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 0,
+										["id"] = 79140,
+										["uptime"] = 120,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[703] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = -1,
+										["refreshamt"] = 4,
+										["id"] = 703,
+										["uptime"] = 132,
+										["targets"] = {
+										},
+										["appliedamt"] = 4,
+									},
+									[286581] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 0,
+										["id"] = 286581,
+										["uptime"] = 119,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[245389] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 0,
+										["id"] = 245389,
+										["uptime"] = 129,
+										["targets"] = {
+										},
+										["appliedamt"] = 4,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["cooldowns_defensive"] = 1.005386,
+							["buff_uptime"] = 2083,
+							["last_cooldown"] = {
+								1600296591.756, -- [1]
+								1856, -- [2]
+							},
+							["classe"] = "ROGUE",
+							["cooldowns_defensive_targets"] = {
+								["Kja"] = 1,
+							},
+							["buff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[271711] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 3,
+										["refreshamt"] = 0,
+										["id"] = 271711,
+										["uptime"] = 64,
+										["targets"] = {
+										},
+										["appliedamt"] = 3,
+									},
+									[295248] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 295248,
+										["uptime"] = 132,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[271107] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 2,
+										["refreshamt"] = 0,
+										["id"] = 271107,
+										["uptime"] = 26,
+										["targets"] = {
+										},
+										["appliedamt"] = 2,
+									},
+									[289467] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 2,
+										["refreshamt"] = 0,
+										["id"] = 289467,
+										["uptime"] = 26,
+										["targets"] = {
+										},
+										["appliedamt"] = 2,
+									},
+									[269279] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 5,
+										["id"] = 269279,
+										["uptime"] = 132,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[3408] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 3408,
+										["uptime"] = 132,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[313571] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 4,
+										["refreshamt"] = 3,
+										["id"] = 313571,
+										["uptime"] = 82,
+										["targets"] = {
+										},
+										["appliedamt"] = 4,
+									},
+									[2823] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 2823,
+										["uptime"] = 132,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[193641] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 15,
+										["refreshamt"] = 15,
+										["id"] = 193641,
+										["uptime"] = 102,
+										["targets"] = {
+										},
+										["appliedamt"] = 15,
+									},
+									[115192] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 115192,
+										["uptime"] = 3,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[288158] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 288158,
+										["uptime"] = 132,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[32645] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 9,
+										["refreshamt"] = 15,
+										["id"] = 32645,
+										["uptime"] = 107,
+										["targets"] = {
+										},
+										["appliedamt"] = 9,
+									},
+									[304056] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 6,
+										["refreshamt"] = 14,
+										["id"] = 304056,
+										["uptime"] = 111,
+										["targets"] = {
+										},
+										["appliedamt"] = 6,
+									},
+									[317859] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 2,
+										["refreshamt"] = 0,
+										["id"] = 317859,
+										["uptime"] = 18,
+										["targets"] = {
+										},
+										["appliedamt"] = 2,
+									},
+									[268887] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 3,
+										["refreshamt"] = 6,
+										["id"] = 268887,
+										["uptime"] = 85,
+										["targets"] = {
+										},
+										["appliedamt"] = 3,
+									},
+									[328136] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 328136,
+										["uptime"] = 132,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[264408] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 264408,
+										["uptime"] = 132,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[225787] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 225787,
+										["uptime"] = 132,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[11327] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 2,
+										["refreshamt"] = 0,
+										["id"] = 11327,
+										["uptime"] = 0,
+										["targets"] = {
+										},
+										["appliedamt"] = 2,
+									},
+									[297168] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 5,
+										["refreshamt"] = 0,
+										["id"] = 297168,
+										["uptime"] = 34,
+										["targets"] = {
+										},
+										["appliedamt"] = 5,
+									},
+									[268904] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 4,
+										["refreshamt"] = 0,
+										["id"] = 268904,
+										["uptime"] = 33,
+										["targets"] = {
+										},
+										["appliedamt"] = 4,
+									},
+									[268893] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 2,
+										["refreshamt"] = 0,
+										["id"] = 268893,
+										["uptime"] = 20,
+										["targets"] = {
+										},
+										["appliedamt"] = 2,
+									},
+									[297162] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 5,
+										["refreshamt"] = 157,
+										["id"] = 297162,
+										["uptime"] = 98,
+										["targets"] = {
+										},
+										["appliedamt"] = 5,
+									},
+									[269083] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 269083,
+										["uptime"] = 132,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[268905] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 3,
+										["refreshamt"] = 9,
+										["id"] = 268905,
+										["uptime"] = 71,
+										["targets"] = {
+										},
+										["appliedamt"] = 3,
+									},
+									[280409] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 280409,
+										["uptime"] = 15,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["debuff_uptime"] = 755,
+							["buff_uptime_targets"] = {
+							},
+							["grupo"] = true,
+							["spell_cast"] = {
+								[25046] = 1,
+								[297108] = 1,
+								[1329] = 51,
+								[32645] = 23,
+								[271107] = 1,
+								[703] = 8,
+								[1856] = 1,
+								[27576] = 51,
+								[245388] = 4,
+								[1943] = 6,
+								[79140] = 1,
+							},
+							["last_event"] = 1600296592,
+							["serial"] = "Player-1403-071A9001",
+							["tipo"] = 4,
+							["pets"] = {
+							},
+							["nome"] = "Kja",
+							["cooldowns_defensive_spells"] = {
+								["_ActorTable"] = {
+									[1856] = {
+										["id"] = 1856,
+										["targets"] = {
+											["Kja"] = 1,
+										},
+										["counter"] = 1,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["debuff_uptime_targets"] = {
+							},
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["tipo"] = 2,
+					["combatId"] = 10,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Kja"] = true,
+				},
+				["CombatStartedAt"] = 46226.098,
+				["tempo_start"] = 1600296460,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["playing_solo"] = true,
+				["totals"] = {
+					7494288, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 1499,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 1,
+					}, -- [4]
+					["voidzone_damage"] = 0,
+					["frags_total"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["frags_need_refresh"] = false,
+				["instance_type"] = "none",
+				["hasSaved"] = true,
+				["data_fim"] = "00:49:52",
+				["pvp"] = true,
+				["cleu_timeline"] = {
+				},
+				["enemy"] = "Raider's Training Dummy",
+				["TotalElapsedCombatTime"] = 132.1759999999995,
+				["CombatEndedAt"] = 46225.495,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "00:47:40",
+				["end_time"] = 46225.495,
+				["combat_id"] = 10,
+				["frags"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage"] = {
+						{
+							["Kja"] = 7480130.004614,
+						}, -- [1]
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Kja"] = 0.003415,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+				},
+				["CombatSkillCache"] = {
+				},
+				["combat_counter"] = 2548,
+				["start_time"] = 46093.319,
+				["TimeData"] = {
+				},
+				["totals_grupo"] = {
+					7494288, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 1499,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 1,
+					}, -- [4]
+				},
+			}, -- [4]
+			{
+				{
+					["tipo"] = 2,
+					["combatId"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.007022,
+							["damage_from"] = {
+							},
+							["targets"] = {
+								["Raider's Training Dummy"] = 10951038,
+							},
+							["pets"] = {
+							},
+							["end_time"] = 1600296460,
+							["tipo"] = 1,
+							["classe"] = "ROGUE",
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 10951038.007022,
+							["delay"] = 0,
+							["dps_started"] = false,
+							["total"] = 10951038.007022,
+							["on_hold"] = false,
+							["damage_taken"] = 0.007022,
+							["nome"] = "Kja",
+							["spells"] = {
+								["_ActorTable"] = {
+									{
+										["c_amt"] = 130,
+										["b_amt"] = 0,
+										["c_dmg"] = 805760,
+										["g_amt"] = 0,
+										["n_max"] = 6705,
+										["targets"] = {
+											["Raider's Training Dummy"] = 1422791,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 617031,
+										["n_min"] = 1596,
+										["g_dmg"] = 0,
+										["counter"] = 406,
+										["r_amt"] = 0,
+										["total"] = 1422791,
+										["c_max"] = 13576,
+										["extra"] = {
+										},
+										["id"] = 1,
+										["r_dmg"] = 0,
+										["b_dmg"] = 0,
+										["a_amt"] = 0,
+										["m_crit"] = 0,
+										["c_min"] = 3113,
+										["m_amt"] = 0,
+										["successful_casted"] = 0,
+										["a_dmg"] = 0,
+										["n_amt"] = 209,
+										["spellschool"] = 1,
+										["MISS"] = 67,
+									}, -- [1]
+									[297108] = {
+										["c_amt"] = 1,
+										["b_amt"] = 0,
+										["c_dmg"] = 88115,
+										["g_amt"] = 0,
+										["n_max"] = 44333,
+										["targets"] = {
+											["Raider's Training Dummy"] = 132448,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 44333,
+										["n_min"] = 44333,
+										["g_dmg"] = 0,
+										["counter"] = 2,
+										["total"] = 132448,
+										["c_max"] = 88115,
+										["r_amt"] = 0,
+										["id"] = 297108,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 88115,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 1,
+										["extra"] = {
+										},
+										["spellschool"] = 32,
+									},
+									[5374] = {
+										["c_amt"] = 50,
+										["b_amt"] = 0,
+										["c_dmg"] = 449809,
+										["g_amt"] = 0,
+										["n_max"] = 9820,
+										["targets"] = {
+											["Raider's Training Dummy"] = 976336,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 526527,
+										["n_min"] = 2368,
+										["g_dmg"] = 0,
+										["counter"] = 170,
+										["total"] = 976336,
+										["c_max"] = 19642,
+										["r_amt"] = 0,
+										["id"] = 5374,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 4804,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 120,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
+									},
+									[269031] = {
+										["c_amt"] = 14,
+										["b_amt"] = 0,
+										["c_dmg"] = 99595,
+										["g_amt"] = 0,
+										["n_max"] = 4009,
+										["targets"] = {
+											["Raider's Training Dummy"] = 217436,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 117841,
+										["n_min"] = 3443,
+										["g_dmg"] = 0,
+										["counter"] = 47,
+										["total"] = 217436,
+										["c_max"] = 7968,
+										["r_amt"] = 0,
+										["id"] = 269031,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 6886,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 33,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
+									},
+									[1943] = {
+										["c_amt"] = 50,
+										["b_amt"] = 0,
+										["c_dmg"] = 422238,
+										["g_amt"] = 0,
+										["n_max"] = 6810,
+										["targets"] = {
+											["Raider's Training Dummy"] = 961847,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 539609,
+										["n_min"] = 3284,
+										["g_dmg"] = 0,
+										["counter"] = 184,
+										["total"] = 961847,
+										["c_max"] = 13619,
+										["r_amt"] = 0,
+										["id"] = 1943,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 6569,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 134,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
+									},
+									[32645] = {
+										["c_amt"] = 10,
+										["b_amt"] = 0,
+										["c_dmg"] = 516691,
+										["g_amt"] = 0,
+										["n_max"] = 56522,
+										["targets"] = {
+											["Raider's Training Dummy"] = 1264213,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 747522,
+										["n_min"] = 17253,
+										["g_dmg"] = 0,
+										["counter"] = 39,
+										["total"] = 1264213,
+										["c_max"] = 82213,
+										["r_amt"] = 0,
+										["id"] = 32645,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 34268,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 29,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
+									},
+									[255546] = {
+										["c_amt"] = 4,
+										["b_amt"] = 0,
+										["c_dmg"] = 38792,
+										["g_amt"] = 0,
+										["n_max"] = 4801,
+										["targets"] = {
+											["Raider's Training Dummy"] = 157431,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 118639,
+										["n_min"] = 3217,
+										["g_dmg"] = 0,
+										["counter"] = 35,
+										["total"] = 157431,
+										["c_max"] = 15640,
+										["r_amt"] = 0,
+										["id"] = 255546,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 6569,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 31,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
+									},
+									[113780] = {
+										["c_amt"] = 129,
+										["b_amt"] = 0,
+										["c_dmg"] = 431377,
+										["g_amt"] = 0,
+										["n_max"] = 3180,
+										["targets"] = {
+											["Raider's Training Dummy"] = 916352,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 484975,
+										["n_min"] = 1179,
+										["g_dmg"] = 0,
+										["counter"] = 437,
+										["total"] = 916352,
+										["c_max"] = 6398,
+										["r_amt"] = 0,
+										["id"] = 113780,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 2359,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 308,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
+									},
+									[2818] = {
+										["c_amt"] = 62,
+										["b_amt"] = 0,
+										["c_dmg"] = 289054,
+										["g_amt"] = 0,
+										["n_max"] = 4451,
+										["targets"] = {
+											["Raider's Training Dummy"] = 547229,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 258175,
+										["n_min"] = 1651,
+										["g_dmg"] = 0,
+										["counter"] = 183,
+										["total"] = 547229,
+										["c_max"] = 8902,
+										["r_amt"] = 0,
+										["id"] = 2818,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 3303,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 121,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
+									},
+									[703] = {
+										["c_amt"] = 55,
+										["b_amt"] = 0,
+										["c_dmg"] = 463395,
+										["g_amt"] = 0,
+										["n_max"] = 6522,
+										["targets"] = {
+											["Raider's Training Dummy"] = 986007,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 522612,
+										["n_min"] = 3145,
+										["g_dmg"] = 0,
+										["counter"] = 183,
+										["total"] = 986007,
+										["c_max"] = 13044,
+										["r_amt"] = 0,
+										["id"] = 703,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 6291,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 128,
+										["extra"] = {
+										},
+										["spellschool"] = 1,
+									},
+									[273009] = {
+										["c_amt"] = 26,
+										["b_amt"] = 0,
+										["c_dmg"] = 599093,
+										["g_amt"] = 0,
+										["n_max"] = 18746,
+										["targets"] = {
+											["Raider's Training Dummy"] = 919268,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 320175,
+										["n_min"] = 8662,
+										["g_dmg"] = 0,
+										["counter"] = 55,
+										["total"] = 919268,
+										["c_max"] = 36808,
+										["r_amt"] = 0,
+										["id"] = 273009,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 17325,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 29,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
+									},
+									[245388] = {
+										["c_amt"] = 2,
+										["b_amt"] = 0,
+										["c_dmg"] = 62866,
+										["g_amt"] = 0,
+										["n_max"] = 26185,
+										["targets"] = {
+											["Raider's Training Dummy"] = 159846,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 96980,
+										["n_min"] = 14091,
+										["g_dmg"] = 0,
+										["counter"] = 7,
+										["total"] = 159846,
+										["c_max"] = 31650,
+										["r_amt"] = 0,
+										["id"] = 245388,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 31216,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 5,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
+									},
+									[311192] = {
+										["c_amt"] = 9,
+										["b_amt"] = 0,
+										["c_dmg"] = 537491,
+										["g_amt"] = 0,
+										["n_max"] = 32304,
+										["targets"] = {
+											["Raider's Training Dummy"] = 1613827,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 1076336,
+										["n_min"] = 27748,
+										["g_dmg"] = 0,
+										["counter"] = 47,
+										["total"] = 1613827,
+										["c_max"] = 63821,
+										["r_amt"] = 0,
+										["id"] = 311192,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 55496,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 38,
+										["extra"] = {
+										},
+										["spellschool"] = 4,
+									},
+									[286581] = {
+										["c_amt"] = 9,
+										["b_amt"] = 0,
+										["c_dmg"] = 263165,
+										["g_amt"] = 0,
+										["n_max"] = 17376,
+										["targets"] = {
+											["Raider's Training Dummy"] = 438472,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 175307,
+										["n_min"] = 2839,
+										["g_dmg"] = 0,
+										["counter"] = 22,
+										["total"] = 438472,
+										["c_max"] = 34751,
+										["r_amt"] = 0,
+										["id"] = 286581,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 23709,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 13,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
+									},
+									[198222] = {
+										["c_amt"] = 8,
+										["b_amt"] = 0,
+										["c_dmg"] = 130309,
+										["g_amt"] = 0,
+										["n_max"] = 8384,
+										["targets"] = {
+											["Raider's Training Dummy"] = 237535,
+										},
+										["m_dmg"] = 0,
+										["n_dmg"] = 107226,
+										["n_min"] = 5662,
+										["g_dmg"] = 0,
+										["counter"] = 24,
+										["total"] = 237535,
+										["c_max"] = 30522,
+										["r_amt"] = 0,
+										["id"] = 198222,
+										["r_dmg"] = 0,
+										["a_dmg"] = 0,
+										["b_dmg"] = 0,
+										["m_crit"] = 0,
+										["m_amt"] = 0,
+										["c_min"] = 11325,
+										["successful_casted"] = 0,
+										["a_amt"] = 0,
+										["n_amt"] = 16,
+										["extra"] = {
+										},
+										["spellschool"] = 8,
+									},
+								},
+								["tipo"] = 2,
+							},
+							["grupo"] = true,
+							["custom"] = 0,
+							["last_dps"] = 47858.32659019672,
+							["colocacao"] = 1,
+							["last_event"] = 1600296459,
+							["friendlyfire"] = {
+							},
+							["start_time"] = 1600296231,
+							["serial"] = "Player-1403-071A9001",
+							["friendlyfire_total"] = 0,
+						}, -- [1]
+						{
+							["flag_original"] = 68136,
+							["totalabsorbed"] = 0.004338,
+							["damage_from"] = {
+								["Kja"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["last_event"] = 0,
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.004338,
+							["end_time"] = 1600296459,
+							["dps_started"] = false,
+							["total"] = 0.004338,
+							["delay"] = 0,
+							["classe"] = "UNKNOW",
+							["nome"] = "Raider's Training Dummy",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 2,
+							},
+							["damage_taken"] = 10951038.004338,
+							["friendlyfire"] = {
+							},
+							["last_dps"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["on_hold"] = false,
+							["start_time"] = 1600296459,
+							["serial"] = "Creature-0-3768-1642-17903-144086-00006207BC",
+							["fight_component"] = true,
+						}, -- [2]
+					},
+				}, -- [1]
+				{
+					["tipo"] = 3,
+					["combatId"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorb"] = 0.007763,
+							["last_hps"] = 0,
+							["healing_from"] = {
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["iniciar_hps"] = false,
+							["targets_overheal"] = {
+								["Kja"] = 806913,
+							},
+							["healing_taken"] = 0.007763,
+							["totalover"] = 806913.007763,
+							["total_without_pet"] = 0.007763,
+							["totaldenied"] = 0.007763,
+							["totalover_without_pet"] = 0.007763,
+							["classe"] = "ROGUE",
+							["end_time"] = 1600296459,
+							["delay"] = 1600296431,
+							["targets_absorbs"] = {
+							},
+							["nome"] = "Kja",
+							["spells"] = {
+								["_ActorTable"] = {
+									[311201] = {
+										["c_amt"] = 0,
+										["totalabsorb"] = 0,
+										["targets_overheal"] = {
+											["Kja"] = 806913,
+										},
+										["n_max"] = 0,
+										["targets"] = {
+											["Kja"] = 0,
+										},
+										["n_min"] = 0,
+										["counter"] = 47,
+										["overheal"] = 806913,
+										["total"] = 0,
+										["c_max"] = 0,
+										["id"] = 311201,
+										["targets_absorbs"] = {
+										},
+										["c_curado"] = 0,
+										["m_crit"] = 0,
+										["totaldenied"] = 0,
+										["m_amt"] = 0,
+										["m_healed"] = 0,
+										["n_amt"] = 47,
+										["n_curado"] = 0,
+										["c_min"] = 0,
+										["absorbed"] = 0,
+									},
+								},
+								["tipo"] = 3,
+							},
+							["grupo"] = true,
+							["total"] = 0.007763,
+							["heal_enemy"] = {
+							},
+							["tipo"] = 2,
+							["custom"] = 0,
+							["last_event"] = 1600296457,
+							["on_hold"] = false,
+							["start_time"] = 1600296332,
+							["serial"] = "Player-1403-071A9001",
+							["heal_enemy_amt"] = 0,
+						}, -- [1]
+					},
+				}, -- [2]
+				{
+					["tipo"] = 7,
+					["combatId"] = 9,
+					["_ActorTable"] = {
+						{
+							["received"] = 2546.005602,
+							["resource"] = 226.005602,
+							["targets"] = {
+								["Kja"] = 2546,
+							},
+							["pets"] = {
+							},
+							["powertype"] = 3,
+							["classe"] = "ROGUE",
+							["passiveover"] = 26.005602,
+							["total"] = 2546.005602,
+							["nome"] = "Kja",
+							["spells"] = {
+								["_ActorTable"] = {
+									[51637] = {
+										["total"] = 2546,
+										["id"] = 51637,
+										["totalover"] = 23,
+										["targets"] = {
+											["Kja"] = 2546,
+										},
+										["counter"] = 367,
+									},
+								},
+								["tipo"] = 7,
+							},
+							["grupo"] = true,
+							["totalover"] = 23.005602,
+							["flag_original"] = 1297,
+							["last_event"] = 1600296459,
+							["tipo"] = 3,
+							["alternatepower"] = 0.005602,
+							["serial"] = "Player-1403-071A9001",
+							["resource_type"] = 4,
+						}, -- [1]
+					},
+				}, -- [3]
+				{
+					["tipo"] = 9,
+					["combatId"] = 9,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1047,
+							["debuff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[245389] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 245389,
+										["uptime"] = 59,
+										["targets"] = {
+										},
+										["appliedamt"] = 7,
+									},
+									[1943] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 9,
+										["id"] = 1943,
+										["uptime"] = 226,
+										["targets"] = {
+										},
+										["appliedamt"] = 0,
+									},
+									[79140] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 79140,
+										["uptime"] = 27,
+										["targets"] = {
+										},
+										["appliedamt"] = 2,
+									},
+									[703] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 0,
+										["refreshamt"] = 5,
+										["id"] = 703,
+										["uptime"] = 211,
+										["targets"] = {
+										},
+										["appliedamt"] = 6,
+									},
+									[286581] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 286581,
+										["uptime"] = 27,
+										["targets"] = {
+										},
+										["appliedamt"] = 2,
+									},
+									[297108] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 297108,
+										["uptime"] = 16,
+										["targets"] = {
+										},
+										["appliedamt"] = 2,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["cooldowns_defensive"] = 1.008092,
+							["buff_uptime"] = 3619,
+							["last_cooldown"] = {
+								1600296459.252, -- [1]
+								1856, -- [2]
+							},
+							["classe"] = "ROGUE",
+							["cooldowns_defensive_targets"] = {
+								["Kja"] = 1,
+							},
+							["buff_uptime_spells"] = {
+								["_ActorTable"] = {
+									[297162] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 8,
+										["refreshamt"] = 273,
+										["id"] = 297162,
+										["uptime"] = 164,
+										["targets"] = {
+										},
+										["appliedamt"] = 8,
+									},
+									[295248] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 295248,
+										["uptime"] = 228,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[271107] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 2,
+										["refreshamt"] = 0,
+										["id"] = 271107,
+										["uptime"] = 27,
+										["targets"] = {
+										},
+										["appliedamt"] = 2,
+									},
+									[225787] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 225787,
+										["uptime"] = 228,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[269279] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 7,
+										["id"] = 269279,
+										["uptime"] = 228,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[3408] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 3408,
+										["uptime"] = 228,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[313571] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 8,
+										["refreshamt"] = 5,
+										["id"] = 313571,
+										["uptime"] = 133,
+										["targets"] = {
+										},
+										["appliedamt"] = 8,
+									},
+									[2823] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 2823,
+										["uptime"] = 228,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[193641] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 35,
+										["refreshamt"] = 15,
+										["id"] = 193641,
+										["uptime"] = 188,
+										["targets"] = {
+										},
+										["appliedamt"] = 35,
+									},
+									[115192] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 115192,
+										["uptime"] = 2,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[288158] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 288158,
+										["uptime"] = 228,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[32645] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 14,
+										["refreshamt"] = 26,
+										["id"] = 32645,
+										["uptime"] = 203,
+										["targets"] = {
+										},
+										["appliedamt"] = 14,
+									},
+									[304056] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 9,
+										["refreshamt"] = 21,
+										["id"] = 304056,
+										["uptime"] = 198,
+										["targets"] = {
+										},
+										["appliedamt"] = 9,
+									},
+									[317859] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 4,
+										["refreshamt"] = 0,
+										["id"] = 317859,
+										["uptime"] = 56,
+										["targets"] = {
+										},
+										["appliedamt"] = 4,
+									},
+									[268887] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 5,
+										["refreshamt"] = 11,
+										["id"] = 268887,
+										["uptime"] = 136,
+										["targets"] = {
+										},
+										["appliedamt"] = 5,
+									},
+									[328136] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 328136,
+										["uptime"] = 228,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[264408] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 264408,
+										["uptime"] = 228,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[271711] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 3,
+										["refreshamt"] = 0,
+										["id"] = 271711,
+										["uptime"] = 59,
+										["targets"] = {
+										},
+										["appliedamt"] = 3,
+									},
+									[269083] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 269083,
+										["uptime"] = 228,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[297168] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 8,
+										["refreshamt"] = 0,
+										["id"] = 297168,
+										["uptime"] = 61,
+										["targets"] = {
+										},
+										["appliedamt"] = 8,
+									},
+									[268904] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 5,
+										["refreshamt"] = 0,
+										["id"] = 268904,
+										["uptime"] = 43,
+										["targets"] = {
+										},
+										["appliedamt"] = 5,
+									},
+									[280409] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 4,
+										["refreshamt"] = 1,
+										["id"] = 280409,
+										["uptime"] = 64,
+										["targets"] = {
+										},
+										["appliedamt"] = 4,
+									},
+									[268893] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 4,
+										["refreshamt"] = 0,
+										["id"] = 268893,
+										["uptime"] = 40,
+										["targets"] = {
+										},
+										["appliedamt"] = 4,
+									},
+									[11327] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 1,
+										["refreshamt"] = 0,
+										["id"] = 11327,
+										["uptime"] = 0,
+										["targets"] = {
+										},
+										["appliedamt"] = 1,
+									},
+									[268905] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 5,
+										["refreshamt"] = 13,
+										["id"] = 268905,
+										["uptime"] = 166,
+										["targets"] = {
+										},
+										["appliedamt"] = 5,
+									},
+									[289467] = {
+										["counter"] = 0,
+										["actived"] = false,
+										["activedamt"] = 2,
+										["refreshamt"] = 0,
+										["id"] = 289467,
+										["uptime"] = 27,
+										["targets"] = {
+										},
+										["appliedamt"] = 2,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["debuff_uptime"] = 566,
+							["buff_uptime_targets"] = {
+							},
+							["grupo"] = true,
+							["spell_cast"] = {
+								[297108] = 2,
+								[1329] = 85,
+								[32645] = 39,
+								[271107] = 2,
+								[703] = 12,
+								[1856] = 1,
+								[27576] = 85,
+								[245388] = 7,
+								[1943] = 10,
+								[79140] = 2,
+							},
+							["last_event"] = 1600296459,
+							["serial"] = "Player-1403-071A9001",
+							["tipo"] = 4,
+							["pets"] = {
+							},
+							["nome"] = "Kja",
+							["cooldowns_defensive_spells"] = {
+								["_ActorTable"] = {
+									[1856] = {
+										["id"] = 1856,
+										["targets"] = {
+											["Kja"] = 1,
+										},
+										["counter"] = 1,
+									},
+								},
+								["tipo"] = 9,
+							},
+							["debuff_uptime_targets"] = {
+							},
+						}, -- [1]
+					},
+				}, -- [4]
+				{
+					["tipo"] = 2,
+					["combatId"] = 9,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+					["Kja"] = true,
+				},
+				["TotalElapsedCombatTime"] = 46092.991,
+				["tempo_start"] = 1600296231,
+				["cleu_timeline"] = {
+				},
+				["alternate_power"] = {
+				},
+				["last_events_tables"] = {
+				},
+				["enemy"] = "Raider's Training Dummy",
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["playing_solo"] = true,
+				["totals"] = {
+					10951038, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 2546,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 1,
+					}, -- [4]
+					["voidzone_damage"] = 0,
+					["frags_total"] = 0,
+				},
+				["player_last_events"] = {
+				},
+				["combat_counter"] = 2547,
+				["frags_need_refresh"] = false,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = "00:43:51",
+				["end_time"] = 46092.991,
+				["totals_grupo"] = {
+					10951038, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 2546,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 1,
+					}, -- [4]
+				},
+				["instance_type"] = "none",
+				["CombatEndedAt"] = 46092.991,
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage"] = {
+						{
+							["Kja"] = 10933874.007022,
+						}, -- [1]
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+							["Kja"] = 0.007763,
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+				},
+				["hasSaved"] = true,
+				["frags"] = {
+				},
+				["data_fim"] = "00:47:40",
+				["combat_id"] = 9,
+				["CombatSkillCache"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+				["start_time"] = 45864.169,
+				["TimeData"] = {
+				},
+				["pvp"] = true,
+			}, -- [5]
+		},
+	},
+	["last_version"] = "v8.3.0.7356",
+	["SoloTablesSaved"] = {
+		["Mode"] = 1,
+	},
+	["tabela_instancias"] = {
+	},
+	["on_death_menu"] = true,
+	["nick_tag_cache"] = {
+		["last_version"] = 12,
+		["nextreset"] = 1600384438,
+	},
+	["last_instance_id"] = 2217,
+	["announce_interrupts"] = {
+		["enabled"] = false,
+		["whisper"] = "",
+		["channel"] = "SAY",
+		["custom"] = "",
+		["next"] = "",
+	},
+	["last_instance_time"] = 1600294098,
+	["active_profile"] = "Ipse",
+	["mythic_dungeon_currentsaved"] = {
+		["dungeon_name"] = "Operation: Mechagon",
+		["started"] = false,
+		["segment_id"] = 5,
+		["ej_id"] = 1178,
+		["started_at"] = 1600200757.7,
+		["run_id"] = 24,
+		["level"] = 15,
+		["dungeon_zone_id"] = 2097,
+		["previous_boss_killed_at"] = 1600201940,
+	},
+	["ignore_nicktag"] = false,
+	["plugin_database"] = {
+		["DETAILS_PLUGIN_TINY_THREAT"] = {
+			["updatespeed"] = 1,
+			["enabled"] = true,
+			["animate"] = false,
+			["useplayercolor"] = false,
+			["author"] = "Details! Team",
+			["useclasscolors"] = false,
+			["playercolor"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+			},
+			["showamount"] = false,
+		},
+		["DETAILS_PLUGIN_RAIDCHECK"] = {
+			["enabled"] = true,
+			["food_tier1"] = true,
+			["mythic_1_4"] = true,
+			["food_tier2"] = true,
+			["author"] = "Details! Team",
+			["use_report_panel"] = true,
+			["pre_pot_healers"] = false,
+			["pre_pot_tanks"] = false,
+			["food_tier3"] = true,
+		},
+		["DETAILS_PLUGIN_VANGUARD"] = {
+			["enabled"] = true,
+			["tank_block_color"] = {
+				0.24705882, -- [1]
+				0.0039215, -- [2]
+				0, -- [3]
+				0.8, -- [4]
+			},
+			["tank_block_texture"] = "Details Serenity",
+			["show_inc_bars"] = false,
+			["author"] = "Details! Team",
+			["first_run"] = false,
+			["tank_block_size"] = 150,
+		},
+		["DETAILS_PLUGIN_ENCOUNTER_DETAILS"] = {
+			["enabled"] = true,
+			["encounter_timers_bw"] = {
+			},
+			["max_emote_segments"] = 3,
+			["author"] = "Details! Team",
+			["window_scale"] = 1,
+			["encounter_timers_dbm"] = {
+			},
+			["show_icon"] = 5,
+			["opened"] = 0,
+			["hide_on_combat"] = false,
+		},
+		["DETAILS_PLUGIN_STREAM_OVERLAY"] = {
+			["font_color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				1, -- [4]
+			},
+			["is_first_run"] = false,
+			["arrow_color"] = {
+				1, -- [1]
+				1, -- [2]
+				1, -- [3]
+				0.5, -- [4]
+			},
+			["main_frame_size"] = {
+				300, -- [1]
+				500.0000305175781, -- [2]
+			},
+			["minimap"] = {
+				["minimapPos"] = 175.054172806024,
+				["radius"] = 160,
+				["hide"] = false,
+			},
+			["arrow_anchor_x"] = 0,
+			["row_texture"] = "Details Serenity",
+			["arrow_anchor_y"] = 0,
+			["main_frame_locked"] = false,
+			["author"] = "Details! Team",
+			["enabled"] = false,
+			["arrow_size"] = 10,
+			["font_size"] = 10,
+			["row_spacement"] = 21,
+			["main_frame_color"] = {
+				0, -- [1]
+				0, -- [2]
+				0, -- [3]
+				0.2, -- [4]
+			},
+			["row_color"] = {
+				0.1, -- [1]
+				0.1, -- [2]
+				0.1, -- [3]
+				0.4, -- [4]
+			},
+			["arrow_texture"] = "Interface\\CHATFRAME\\ChatFrameExpandArrow",
+			["use_spark"] = true,
+			["y"] = 4.57763671875e-05,
+			["x"] = 0,
+			["font_face"] = "UbuntuCondensed",
+			["per_second"] = {
+				["enabled"] = false,
+				["point"] = "CENTER",
+				["scale"] = 1,
+				["font_shadow"] = true,
+				["y"] = 3.0517578125e-05,
+				["x"] = 3.0517578125e-05,
+				["attribute_type"] = 1,
+				["update_speed"] = 0.05,
+				["size"] = 32,
+			},
+			["main_frame_strata"] = "LOW",
+			["point"] = "CENTER",
+			["row_height"] = 20,
+			["scale"] = 1,
+		},
+	},
+	["last_day"] = "17",
+	["last_encounter"] = "Carapace of N'Zoth",
+	["cached_talents"] = {
+	},
+	["announce_prepots"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
+		["reverse"] = false,
+	},
+	["character_data"] = {
+		["logons"] = 98,
+	},
+	["local_instances_config"] = {
+		{
+			["segment"] = 0,
+			["sub_attribute"] = 1,
+			["horizontalSnap"] = false,
+			["verticalSnap"] = false,
+			["is_open"] = true,
+			["isLocked"] = true,
+			["sub_atributo_last"] = {
+				1, -- [1]
+				1, -- [2]
+				3, -- [3]
+				3, -- [4]
+				1, -- [5]
+			},
+			["snap"] = {
+			},
+			["mode"] = 2,
+			["attribute"] = 1,
+			["pos"] = {
+				["normal"] = {
+					["y"] = -450.4996756219284,
+					["x"] = 674.5022548199429,
+					["w"] = 184.000244140625,
+					["h"] = 171.0000457763672,
+				},
+				["solo"] = {
+					["y"] = 2.00008952973825,
+					["x"] = 0.999992885000383,
+					["w"] = 300,
+					["h"] = 300,
+				},
+			},
+		}, -- [1]
+		{
+			["segment"] = 0,
+			["sub_attribute"] = 1,
+			["horizontalSnap"] = false,
+			["verticalSnap"] = false,
+			["is_open"] = true,
+			["isLocked"] = true,
+			["sub_atributo_last"] = {
+				3, -- [1]
+				1, -- [2]
+				1, -- [3]
+				3, -- [4]
+				1, -- [5]
+			},
+			["snap"] = {
+			},
+			["mode"] = 2,
+			["attribute"] = 2,
+			["pos"] = {
+				["normal"] = {
+					["y"] = -450.5012542200123,
+					["x"] = 863.5017458233474,
+					["w"] = 183.9999847412109,
+					["h"] = 171.0000457763672,
+				},
+				["solo"] = {
+					["y"] = 2,
+					["x"] = 1,
+					["w"] = 300,
+					["h"] = 200,
+				},
+			},
+		}, -- [2]
+	},
+	["combat_id"] = 13,
+	["savedStyles"] = {
+	},
+	["force_font_outline"] = "",
+	["combat_counter"] = 2554,
+	["announce_deaths"] = {
+		["enabled"] = false,
+		["last_hits"] = 1,
+		["only_first"] = 5,
+		["where"] = 1,
+	},
+	["tabela_overall"] = {
+		{
+			["tipo"] = 2,
+			["_ActorTable"] = {
+				{
+					["flag_original"] = 1297,
+					["totalabsorbed"] = 0.002491,
+					["damage_from"] = {
+					},
+					["targets"] = {
+						["Raider's Training Dummy"] = 0,
+					},
+					["pets"] = {
+					},
+					["on_hold"] = false,
+					["classe"] = "ROGUE",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 0.002491,
+					["friendlyfire"] = {
+					},
+					["dps_started"] = false,
+					["end_time"] = 1600298401,
+					["serial"] = "Player-1403-071A9001",
+					["total"] = 0.002491,
+					["nome"] = "Kja",
+					["spells"] = {
+						["_ActorTable"] = {
+							{
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["Raider's Training Dummy"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 1,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["m_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["a_amt"] = 0,
+								["r_amt"] = 0,
+							}, -- [1]
+							[255546] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["Raider's Training Dummy"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 255546,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["m_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["a_amt"] = 0,
+								["r_amt"] = 0,
+							},
+							[297108] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["Raider's Training Dummy"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 297108,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["m_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["a_amt"] = 0,
+								["r_amt"] = 0,
+							},
+							[5374] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["Raider's Training Dummy"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 5374,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["m_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["a_amt"] = 0,
+								["r_amt"] = 0,
+							},
+							[286581] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["Raider's Training Dummy"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 286581,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["m_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["a_amt"] = 0,
+								["r_amt"] = 0,
+							},
+							[245388] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["Raider's Training Dummy"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 245388,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["m_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["a_amt"] = 0,
+								["r_amt"] = 0,
+							},
+							[32645] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["Raider's Training Dummy"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 32645,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["m_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["a_amt"] = 0,
+								["r_amt"] = 0,
+							},
+							[1330] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["Raider's Training Dummy"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 1330,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["m_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["a_amt"] = 0,
+								["r_amt"] = 0,
+							},
+							[113780] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["Raider's Training Dummy"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 113780,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["m_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["a_amt"] = 0,
+								["r_amt"] = 0,
+							},
+							[2818] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["Raider's Training Dummy"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 2818,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["m_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["a_amt"] = 0,
+								["r_amt"] = 0,
+							},
+							[703] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["Raider's Training Dummy"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 703,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["m_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["a_amt"] = 0,
+								["r_amt"] = 0,
+							},
+							[273009] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["Raider's Training Dummy"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 273009,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["m_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["a_amt"] = 0,
+								["r_amt"] = 0,
+							},
+							[198222] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["Raider's Training Dummy"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 198222,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["m_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["a_amt"] = 0,
+								["r_amt"] = 0,
+							},
+							[311192] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["Raider's Training Dummy"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 311192,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["m_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["a_amt"] = 0,
+								["r_amt"] = 0,
+							},
+							[269031] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["Raider's Training Dummy"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 269031,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["m_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["a_amt"] = 0,
+								["r_amt"] = 0,
+							},
+							[1943] = {
+								["c_amt"] = 0,
+								["b_amt"] = 0,
+								["c_dmg"] = 0,
+								["g_amt"] = 0,
+								["n_max"] = 0,
+								["targets"] = {
+									["Raider's Training Dummy"] = 0,
+								},
+								["m_dmg"] = 0,
+								["n_dmg"] = 0,
+								["n_min"] = 0,
+								["g_dmg"] = 0,
+								["counter"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 1943,
+								["r_dmg"] = 0,
+								["extra"] = {
+								},
+								["a_dmg"] = 0,
+								["m_crit"] = 0,
+								["m_amt"] = 0,
+								["c_min"] = 0,
+								["successful_casted"] = 0,
+								["b_dmg"] = 0,
+								["n_amt"] = 0,
+								["a_amt"] = 0,
+								["r_amt"] = 0,
+							},
+						},
+						["tipo"] = 2,
+					},
+					["grupo"] = true,
+					["last_event"] = 0,
+					["friendlyfire_total"] = 0,
+					["custom"] = 0,
+					["tipo"] = 1,
+					["damage_taken"] = 0.002491,
+					["start_time"] = 1600298398,
+					["delay"] = 0,
+					["last_dps"] = 0,
+				}, -- [1]
+				{
+					["flag_original"] = 68136,
+					["totalabsorbed"] = 0.006068,
+					["damage_from"] = {
+					},
+					["targets"] = {
+					},
+					["pets"] = {
+					},
+					["last_event"] = 0,
+					["classe"] = "UNKNOW",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 0.006068,
+					["dps_started"] = false,
+					["fight_component"] = true,
+					["end_time"] = 1600298401,
+					["serial"] = "Creature-0-3768-1642-17903-144086-00006207BC",
+					["damage_taken"] = 0.006068,
+					["nome"] = "Raider's Training Dummy",
+					["spells"] = {
+						["_ActorTable"] = {
+						},
+						["tipo"] = 2,
+					},
+					["on_hold"] = false,
+					["total"] = 0.006068,
+					["friendlyfire"] = {
+					},
+					["custom"] = 0,
+					["tipo"] = 1,
+					["last_dps"] = 0,
+					["start_time"] = 1600298398,
+					["delay"] = 0,
+					["friendlyfire_total"] = 0,
+				}, -- [2]
+			},
+		}, -- [1]
+		{
+			["tipo"] = 3,
+			["_ActorTable"] = {
+				{
+					["flag_original"] = 1297,
+					["totalabsorb"] = 0.006054,
+					["last_hps"] = 0,
+					["targets_overheal"] = {
+						["Kja"] = 0,
+					},
+					["targets"] = {
+					},
+					["pets"] = {
+					},
+					["totalover_without_pet"] = 0.006054,
+					["healing_from"] = {
+					},
+					["classe"] = "ROGUE",
+					["totalover"] = 0.006054,
+					["total_without_pet"] = 0.006054,
+					["total"] = 0.006054,
+					["iniciar_hps"] = false,
+					["healing_taken"] = 0.006054,
+					["end_time"] = 1600298401,
+					["serial"] = "Player-1403-071A9001",
+					["heal_enemy_amt"] = 0,
+					["nome"] = "Kja",
+					["targets_absorbs"] = {
+					},
+					["grupo"] = true,
+					["start_time"] = 1600298398,
+					["heal_enemy"] = {
+					},
+					["spells"] = {
+						["_ActorTable"] = {
+							[311201] = {
+								["c_amt"] = 0,
+								["totalabsorb"] = 0,
+								["targets_overheal"] = {
+									["Kja"] = 0,
+								},
+								["n_max"] = 0,
+								["targets"] = {
+									["Kja"] = 0,
+								},
+								["n_min"] = 0,
+								["counter"] = 0,
+								["overheal"] = 0,
+								["total"] = 0,
+								["c_max"] = 0,
+								["id"] = 311201,
+								["targets_absorbs"] = {
+								},
+								["c_curado"] = 0,
+								["m_crit"] = 0,
+								["m_amt"] = 0,
+								["c_min"] = 0,
+								["n_curado"] = 0,
+								["n_amt"] = 0,
+								["m_healed"] = 0,
+								["totaldenied"] = 0,
+								["absorbed"] = 0,
+							},
+						},
+						["tipo"] = 3,
+					},
+					["custom"] = 0,
+					["tipo"] = 2,
+					["on_hold"] = false,
+					["totaldenied"] = 0.006054,
+					["delay"] = 0,
+					["last_event"] = 0,
+				}, -- [1]
+			},
+		}, -- [2]
+		{
+			["tipo"] = 7,
+			["_ActorTable"] = {
+				{
+					["received"] = 0.008736,
+					["resource"] = 3069.068109,
+					["targets"] = {
+						["Kja"] = 0,
+					},
+					["pets"] = {
+					},
+					["powertype"] = 3,
+					["classe"] = "ROGUE",
+					["passiveover"] = 0.008736,
+					["resource_type"] = 4,
+					["nome"] = "Kja",
+					["spells"] = {
+						["_ActorTable"] = {
+							[51637] = {
+								["total"] = 0,
+								["id"] = 51637,
+								["totalover"] = 0,
+								["targets"] = {
+									["Kja"] = 0,
+								},
+								["counter"] = 0,
+							},
+							[25046] = {
+								["total"] = 0,
+								["id"] = 25046,
+								["totalover"] = 0,
+								["targets"] = {
+									["Kja"] = 0,
+								},
+								["counter"] = 0,
+							},
+						},
+						["tipo"] = 7,
+					},
+					["grupo"] = true,
+					["total"] = 0.008736,
+					["alternatepower"] = 0.008736,
+					["tipo"] = 3,
+					["flag_original"] = 1297,
+					["last_event"] = 0,
+					["serial"] = "Player-1403-071A9001",
+					["totalover"] = 0.008736,
+				}, -- [1]
+			},
+		}, -- [3]
+		{
+			["tipo"] = 9,
+			["_ActorTable"] = {
+				{
+					["flag_original"] = 1047,
+					["debuff_uptime_spells"] = {
+						["_ActorTable"] = {
+							[297108] = {
+								["id"] = 297108,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[245389] = {
+								["id"] = 245389,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[703] = {
+								["id"] = 703,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[79140] = {
+								["id"] = 79140,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[2818] = {
+								["id"] = 2818,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[1943] = {
+								["id"] = 1943,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[286581] = {
+								["id"] = 286581,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+						},
+						["tipo"] = 9,
+					},
+					["cooldowns_defensive"] = 0,
+					["buff_uptime"] = 0,
+					["classe"] = "ROGUE",
+					["cooldowns_defensive_targets"] = {
+						["Kja"] = 0,
+					},
+					["buff_uptime_spells"] = {
+						["_ActorTable"] = {
+							[297162] = {
+								["id"] = 297162,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[295248] = {
+								["id"] = 295248,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[271107] = {
+								["id"] = 271107,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[289467] = {
+								["id"] = 289467,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[288158] = {
+								["id"] = 288158,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[3408] = {
+								["id"] = 3408,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[313571] = {
+								["id"] = 313571,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[2823] = {
+								["id"] = 2823,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[193641] = {
+								["id"] = 193641,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[268893] = {
+								["id"] = 268893,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[115192] = {
+								["id"] = 115192,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[328136] = {
+								["id"] = 328136,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[32645] = {
+								["id"] = 32645,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[304056] = {
+								["id"] = 304056,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[317859] = {
+								["id"] = 317859,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[268887] = {
+								["id"] = 268887,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[288146] = {
+								["id"] = 288146,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[264408] = {
+								["id"] = 264408,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[11327] = {
+								["id"] = 11327,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[280409] = {
+								["id"] = 280409,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[297168] = {
+								["id"] = 297168,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[268904] = {
+								["id"] = 268904,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[271711] = {
+								["id"] = 271711,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[225787] = {
+								["id"] = 225787,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[269083] = {
+								["id"] = 269083,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[268905] = {
+								["id"] = 268905,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+							[269279] = {
+								["id"] = 269279,
+								["targets"] = {
+								},
+								["counter"] = 0,
+							},
+						},
+						["tipo"] = 9,
+					},
+					["debuff_uptime"] = 0,
+					["buff_uptime_targets"] = {
+					},
+					["grupo"] = true,
+					["spell_cast"] = {
+						[25046] = 0,
+						[297108] = 0,
+						[79140] = 0,
+						[32645] = 0,
+						[271107] = 0,
+						[27576] = 0,
+						[1856] = 0,
+						[703] = 0,
+						[245388] = 0,
+						[1943] = 0,
+						[1329] = 0,
+					},
+					["debuff_uptime_targets"] = {
+					},
+					["cooldowns_defensive_spells"] = {
+						["_ActorTable"] = {
+							[1856] = {
+								["id"] = 1856,
+								["targets"] = {
+									["Kja"] = 0,
+								},
+								["counter"] = 0,
+							},
+						},
+						["tipo"] = 9,
+					},
+					["last_event"] = 0,
+					["nome"] = "Kja",
+					["tipo"] = 4,
+					["serial"] = "Player-1403-071A9001",
+					["pets"] = {
+					},
+				}, -- [1]
+			},
+		}, -- [4]
+		{
+			["tipo"] = 2,
+			["_ActorTable"] = {
+			},
+		}, -- [5]
+		["raid_roster"] = {
+		},
+		["tempo_start"] = 1600295595,
+		["last_events_tables"] = {
+		},
+		["alternate_power"] = {
+		},
+		["combat_counter"] = 2538,
+		["totals"] = {
+			0, -- [1]
+			0, -- [2]
+			{
+				0, -- [1]
+				[0] = 0,
+				["alternatepower"] = 0,
+				[6] = 0,
+				[3] = 0,
+			}, -- [3]
+			{
+				["buff_uptime"] = 0,
+				["ress"] = 0,
+				["dead"] = 0,
+				["cc_break"] = 0,
+				["interrupt"] = 0,
+				["debuff_uptime"] = 0,
+				["dispell"] = 0,
+				["cooldowns_defensive"] = 0,
+			}, -- [4]
+			["voidzone_damage"] = 0,
+			["frags_total"] = 0,
+		},
+		["player_last_events"] = {
+		},
+		["frags_need_refresh"] = false,
+		["aura_timeline"] = {
+		},
+		["__call"] = {
+		},
+		["data_inicio"] = 0,
+		["frags"] = {
+		},
+		["PhaseData"] = {
+			{
+				1, -- [1]
+				1, -- [2]
+			}, -- [1]
+			["damage"] = {
+			},
+			["heal_section"] = {
+			},
+			["heal"] = {
+			},
+			["damage_section"] = {
+			},
+		},
+		["overall_refreshed"] = true,
+		["hasSaved"] = true,
+		["spells_cast_timeline"] = {
+		},
+		["data_fim"] = 0,
+		["cleu_events"] = {
+			["n"] = 1,
+		},
+		["CombatSkillCache"] = {
+		},
+		["cleu_timeline"] = {
+		},
+		["start_time"] = 0,
+		["TimeData"] = {
+			["Raid Damage Done"] = {
+			},
+		},
+		["totals_grupo"] = {
+			0, -- [1]
+			0, -- [2]
+			{
+				0, -- [1]
+				[0] = 0,
+				["alternatepower"] = 0,
+				[6] = 0,
+				[3] = 0,
+			}, -- [3]
+			{
+				["buff_uptime"] = 0,
+				["ress"] = 0,
+				["dead"] = 0,
+				["cc_break"] = 0,
+				["interrupt"] = 0,
+				["debuff_uptime"] = 0,
+				["dispell"] = 0,
+				["cooldowns_defensive"] = 0,
+			}, -- [4]
+		},
+	},
+	["announce_firsthit"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
+	},
+	["last_realversion"] = 141,
+	["benchmark_db"] = {
+		["frame"] = {
+		},
+	},
+	["announce_cooldowns"] = {
+		["ignored_cooldowns"] = {
+		},
+		["enabled"] = false,
+		["custom"] = "",
+		["channel"] = "RAID",
+	},
+	["rank_window"] = {
+		["last_difficulty"] = 15,
+		["last_raid"] = "",
+	},
+	["announce_damagerecord"] = {
+		["enabled"] = true,
+		["channel"] = "SELF",
+	},
+	["cached_specs"] = {
+	},
+}

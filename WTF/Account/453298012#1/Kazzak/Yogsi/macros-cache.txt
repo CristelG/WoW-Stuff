@@ -1,0 +1,64 @@
+VER 3 0100000000000002 "A1" "INV_MISC_QUESTIONMARK"
+/cast [@arena1] Death Grip
+END
+VER 3 0100000000000005 "A1" "INV_MISC_QUESTIONMARK"
+/cast [@arena1] Mind Freeze
+END
+VER 3 0100000000000010 "A1" "INV_MISC_QUESTIONMARK"
+/cast [@arena1] Asphyxiate
+END
+VER 3 010000000000000B "A1" "INV_MISC_QUESTIONMARK"
+#showtooltip Gnaw
+/cast [@arena1] Leap
+/cast [@arena1] Gnaw
+END
+VER 3 0100000000000011 "A2" "INV_MISC_QUESTIONMARK"
+/cast [@arena2] Asphyxiate
+END
+VER 3 010000000000000C "A2" "INV_MISC_QUESTIONMARK"
+#showtooltip Gnaw
+/cast [@arena2] Leap
+/cast [@arena2] Gnaw
+END
+VER 3 0100000000000006 "A2" "INV_MISC_QUESTIONMARK"
+/cast [@arena2] Mind Freeze
+END
+VER 3 0100000000000003 "A2" "INV_MISC_QUESTIONMARK"
+/cast [@arena2] Death Grip
+END
+VER 3 0100000000000004 "A3" "INV_MISC_QUESTIONMARK"
+/cast [@arena3] Death Grip
+END
+VER 3 0100000000000012 "A3" "INV_MISC_QUESTIONMARK"
+/cast [@arena3] Asphyxiate
+END
+VER 3 010000000000000D "A3" "INV_MISC_QUESTIONMARK"
+#showtooltip Gnaw
+/cast [@arena3] Leap
+/cast [@arena3] Gnaw
+END
+VER 3 0100000000000007 "A3" "INV_MISC_QUESTIONMARK"
+/cast [@arena3] Mind Freeze
+END
+VER 3 0100000000000001 "DnD" "INV_MISC_QUESTIONMARK"
+/cast [@cursor] Death and Decay
+END
+VER 3 010000000000000A "FC" "132092"
+/cast [@focus] Leap
+/cast [@focus] Gnaw
+/cast [@focus] Smash
+END
+VER 3 0100000000000008 "FC" "INV_MISC_QUESTIONMARK"
+/cast [@focus] Mind Freeze
+END
+VER 3 0100000000000009 "Gnaw" "132092"
+/cast Gnaw
+/cast Smash
+END
+VER 3 010000000000000F "Leap" "INV_MISC_QUESTIONMARK"
+/cast Leap
+/cast Hook
+END
+VER 3 010000000000000E "Self" "INV_MISC_QUESTIONMARK"
+/cast [@player] Death and Decay
+END

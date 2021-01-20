@@ -1,0 +1,35 @@
+VER 3 0100000000000005 "AT" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Aspect of the Turtle
+/cancelaura Aspect of the Turtle
+END
+VER 3 0100000000000007 "Create miS" "132180"
+/run T = UnitName("target")
+/run if not InCombatLockdown() then EditMacro('MD', nil, nil, '#showtooltip\n/cast [@'.. T ..'] Misdirection', nil); print('Misdirection: ' .. T); end;
+END
+VER 3 0100000000000003 "FD" "INV_MISC_QUESTIONMARK"
+#showtooltip Feign Death
+/petpassive
+/petfollow
+/stopattack
+/cast [combat] Feign Death
+END
+VER 3 0100000000000008 "MD" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@Rendh] Misdirection
+END
+VER 3 0100000000000001 "misdirection" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@Focus] Misdirection
+END
+VER 3 0100000000000004 "pet" "INV_MISC_QUESTIONMARK"
+#showtooltip misdirection
+/cast [@focus,help][help][@pet,exists] Misdirection
+END
+VER 3 0100000000000002 "petattack" "132179"
+/petattack
+END
+VER 3 0100000000000006 "WS" "INV_MISC_QUESTIONMARK"
+#showtooltip Wild Spirits
+/cast [@cursor] Wild Spirits
+END

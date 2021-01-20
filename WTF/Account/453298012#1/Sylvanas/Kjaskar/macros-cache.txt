@@ -1,0 +1,48 @@
+VER 3 0100000000000005 "Agony" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=mouseover,harm,exists,nodead] Agony; Agony
+END
+VER 3 0100000000000009 "Banish" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=mouseover,harm,exists,nodead] Banish; Banish
+END
+VER 3 0100000000000006 "Corr" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=mouseover,harm,exists,nodead] corruption; corruption
+END
+VER 3 0100000000000001 "Drain" "INV_MISC_QUESTIONMARK"
+/cast Drain Soul
+/cancelaura Burning Rush
+END
+VER 3 0100000000000004 "Enslave" "INV_MISC_QUESTIONMARK"
+/cast Enslave Demon
+/petdismiss
+END
+VER 3 010000000000000B "PODS" "237560"
+/raid 1 => Cynepal, Yuceimp
+/raid 2 => Swachie, Kjaskar
+/raid 3 => Grain,  
+END
+VER 3 0100000000000008 "PS" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=mouseover,harm,exists,nodead] Phantom Singularity; Phantom Singularity
+END
+VER 3 010000000000000A "Seed" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=mouseover,harm,exists,nodead] Seed of Corruption; Seed of Corruption
+/cancelaura Burning Rush
+END
+VER 3 0100000000000003 "Seed" "INV_MISC_QUESTIONMARK"
+/cast Seed of Corruption
+/cancelaura Burning Rush
+END
+VER 3 0100000000000007 "SL" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=mouseover,harm,exists,nodead] Siphon Life; Siphon Life
+END
+VER 3 0100000000000002 "UA" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Unstable Affliction
+/cancelaura Burning Rush
+/cast [@Kjaskar] Brand of the Legion
+END

@@ -1,0 +1,101 @@
+
+SimulationCraftDB = {
+	["profileKeys"] = {
+		["Kjask - Draenor"] = "Kjask - Draenor",
+		["Kjaskar - Kazzak"] = "Kjaskar - Kazzak",
+		["Kjaskar - Draenor"] = "Kjaskar - Draenor",
+		["Kja - Draenor"] = "Kja - Draenor",
+		["Yøgs - Kazzak"] = "Yøgs - Kazzak",
+		["Yoggis - Kazzak"] = "Yoggis - Kazzak",
+		["Yogz - Kazzak"] = "Yogz - Kazzak",
+		["Kjaskar - Sylvanas"] = "Kjaskar - Sylvanas",
+		["Kjaskaar - Draenor"] = "Kjaskaar - Draenor",
+		["Yogsi - Kazzak"] = "Yogsi - Kazzak",
+		["Yogsp - Kazzak"] = "Yogsp - Kazzak",
+		["Yogzi - Kazzak"] = "Yogzi - Kazzak",
+		["Kjask - Sylvanas"] = "Kjask - Sylvanas",
+		["Yogs - Kazzak"] = "Yogs - Kazzak",
+		["Yogshi - Kazzak"] = "Yogshi - Kazzak",
+		["Yogske - Kazzak"] = "Yogske - Kazzak",
+		["Yogski - Kazzak"] = "Yogski - Kazzak",
+		["Kjaskàr - Draenor"] = "Kjaskàr - Draenor",
+		["Kjaskr - Draenor"] = "Kjaskr - Draenor",
+	},
+	["profiles"] = {
+		["Kjask - Draenor"] = {
+			["minimap"] = {
+				["minimapPos"] = 161.754215641608,
+			},
+		},
+		["Kjaskar - Kazzak"] = {
+		},
+		["Kjaskar - Draenor"] = {
+			["minimap"] = {
+				["minimapPos"] = 162.7283256037607,
+			},
+		},
+		["Kja - Draenor"] = {
+			["minimap"] = {
+				["minimapPos"] = 163.3007848836299,
+			},
+		},
+		["Yøgs - Kazzak"] = {
+			["minimap"] = {
+				["minimapPos"] = 171.8901409403929,
+			},
+		},
+		["Yoggis - Kazzak"] = {
+		},
+		["Yogz - Kazzak"] = {
+			["minimap"] = {
+				["minimapPos"] = 162.8597824303592,
+			},
+		},
+		["Kjaskar - Sylvanas"] = {
+		},
+		["Kjaskaar - Draenor"] = {
+			["minimap"] = {
+				["minimapPos"] = 163.3008967055929,
+			},
+		},
+		["Yogsi - Kazzak"] = {
+			["minimap"] = {
+				["minimapPos"] = 270.6080484717963,
+			},
+		},
+		["Yogsp - Kazzak"] = {
+		},
+		["Yogzi - Kazzak"] = {
+		},
+		["Kjask - Sylvanas"] = {
+		},
+		["Yogs - Kazzak"] = {
+			["minimap"] = {
+				["minimapPos"] = 160.4634890219872,
+			},
+		},
+		["Yogshi - Kazzak"] = {
+			["minimap"] = {
+				["minimapPos"] = 214.8051704487681,
+				["hide"] = true,
+			},
+			["frame"] = {
+				["ofsx"] = -211.5012512207031,
+				["point"] = "RIGHT",
+				["relativePoint"] = "RIGHT",
+				["ofsy"] = 98.99994659423828,
+			},
+		},
+		["Yogske - Kazzak"] = {
+		},
+		["Yogski - Kazzak"] = {
+			["minimap"] = {
+				["minimapPos"] = 161.7933160700675,
+			},
+		},
+		["Kjaskàr - Draenor"] = {
+		},
+		["Kjaskr - Draenor"] = {
+		},
+	},
+}

@@ -1,0 +1,69 @@
+VER 3 0100000000000006 "cd" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Celestial Alignment
+/cast Berserking
+END
+VER 3 010000000000000D "cyc" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, exists, nodead, harm] Cyclone; Cyclone
+END
+VER 3 0100000000000005 "et" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, exists, nodead, harm] Entangling Roots; Entangling Roots
+END
+VER 3 010000000000000C "fc" "INV_MISC_QUESTIONMARK"
+/cast [@foc us] Entangling Roots
+END
+VER 3 010000000000000E "fc" "INV_MISC_QUESTIONMARK"
+/cast [@focus] Cyclone
+END
+VER 3 010000000000000A "fc" "INV_MISC_QUESTIONMARK"
+/cast [@focus] Solar Beam
+END
+VER 3 0100000000000007 "inn" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, exists, nodead, noharm] Innervate; Innervate
+END
+VER 3 0100000000000001 "mf" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, exists, nodead, harm] Moonfire; Moonfire
+END
+VER 3 0100000000000009 "rc" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, exists, nodead, noharm] Remove Corruption; Remove Corruption
+END
+VER 3 0100000000000008 "rejuv" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, exists, nodead, noharm] Rejuvenation; Rejuvenation
+END
+VER 3 0100000000000010 "revive" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, exists, nodead, noharm] Revive; Revive
+END
+VER 3 0100000000000004 "rg" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, exists, nodead, noharm] Regrowth; Regrowth
+END
+VER 3 0100000000000002 "sf" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, exists, nodead, harm] Sunfire; Sunfire
+END
+VER 3 0100000000000003 "sg" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, exists, nodead, harm] Starsurge; Starsurge
+END
+VER 3 010000000000000B "sm" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, exists, nodead, noharm] Swiftmend; Swiftmend
+END
+VER 3 010000000000000F "soothe" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, exists, nodead, harm] Soothe; Soothe
+END
+VER 3 0100000000000011 "vortex" "INV_MISC_QUESTIONMARK"
+/cast [@cursor] Ursol's Vortex
+END
+VER 3 0100000000000012 "wg" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, exists, nodead, noharm] Wild Growth; Wild Growth
+END

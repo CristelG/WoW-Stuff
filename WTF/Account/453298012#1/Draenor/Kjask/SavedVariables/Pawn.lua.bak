@@ -1,0 +1,101 @@
+
+PawnOptions = {
+	["LastVersion"] = 2.0335,
+	["LastPlayerFullName"] = "Kjask-Draenor",
+	["AutoSelectScales"] = true,
+	["ItemLevels"] = {
+		{
+			["ID"] = 159310,
+			["Level"] = 465,
+			["Link"] = "|cffa335ee|Hitem:159310::::::::120:269::35:5:5445:1632:4786:6508:4775:::|h[Circlet of the Enveloping Leviathan]|h|r",
+		}, -- [1]
+		{
+			["ID"] = 158075,
+			["Level"] = 507,
+			["Link"] = "|cffe6cc80|Hitem:158075::::::::120:268::11:4:4932:4933:6316:1644:::|h[Heart of Azeroth]|h|r",
+		}, -- [2]
+		{
+			["ID"] = 159323,
+			["Level"] = 465,
+			["Link"] = "|cffa335ee|Hitem:159323::::::::120:269::35:5:5445:1632:4786:6509:4775:::|h[Shoulders of the Sanguine Monstrosity]|h|r",
+		}, -- [3]
+		nil, -- [4]
+		{
+			["ID"] = 174136,
+			["Level"] = 460,
+			["Link"] = "|cffa335ee|Hitem:174136::::::::120:269::3:5:4822:1487:4786:6504:4775:::|h[Tortured Fleshbeast Cuirass]|h|r",
+		}, -- [5]
+		{
+			["ID"] = 159325,
+			["Level"] = 470,
+			["Link"] = "|cffa335ee|Hitem:159325::::::::120:269::35:6:6534:6578:6513:1642:4786:6516:::|h[Bloodfeaster Belt]|h|r",
+		}, -- [6]
+		{
+			["ID"] = 169070,
+			["Level"] = 465,
+			["Link"] = "|cffa335ee|Hitem:169070::::::::120:269::16:5:6536:6516:6515:1522:4786:::|h[Unseen Predator's Breeches]|h|r",
+		}, -- [7]
+		{
+			["ID"] = 159320,
+			["Level"] = 460,
+			["Link"] = "|cffa335ee|Hitem:159320::::::::120:269::16:6:6528:6515:1632:4786:6478:6462:::|h[Besieger's Deckstalkers]|h|r",
+		}, -- [8]
+		{
+			["ID"] = 158353,
+			["Level"] = 470,
+			["Link"] = "|cffa335ee|Hitem:158353::::::::120:268::35:8:6532:6578:6579:6478:6462:6513:1642:4786:::|h[Servo-Arm Bindings]|h|r",
+		}, -- [9]
+		{
+			["ID"] = 168985,
+			["Level"] = 465,
+			["Link"] = "|cffa335ee|Hitem:168985::::::::120:269::35:6:6528:6578:6513:1522:4786:6516:::|h[Self-Sanitizing Handwraps]|h|r",
+		}, -- [10]
+		{
+			["ID"] = 174532,
+			["Level"] = 460,
+			["AlsoFitsIn"] = 12,
+			["Link"] = "|cffa335ee|Hitem:174532:6110:::::::120:268::5:5:4823:6516:6515:1502:4786:::|h[Ichorspine Loop]|h|r",
+		}, -- [11]
+		{
+			["ID"] = 162548,
+			["Level"] = 455,
+			["AlsoFitsIn"] = 11,
+			["Link"] = "|cffa335ee|Hitem:162548:6111:::::::120:269::16:5:5010:6516:6515:1627:4786:::|h[Thornwoven Band]|h|r",
+		}, -- [12]
+		{
+			["ID"] = 158374,
+			["Level"] = 475,
+			["AlsoFitsIn"] = 14,
+			["Link"] = "|cffa335ee|Hitem:158374::::::::120:269::35:4:6536:6515:1647:4786:::|h[Tiny Electromental in a Jar]|h|r",
+		}, -- [13]
+		{
+			["ID"] = 158374,
+			["Level"] = 475,
+			["AlsoFitsIn"] = 13,
+			["Link"] = "|cffa335ee|Hitem:158374::::::::120:268::35:4:6536:6515:1647:4786:::|h[Tiny Electromental in a Jar]|h|r",
+		}, -- [14]
+		{
+			["ID"] = 169223,
+			["Level"] = 500,
+			["Link"] = "|cffff8000|Hitem:169223::::::::120:269::11:2:6286:1472:::|h[Ashjra'kamas, Shroud of Resolve]|h|r",
+		}, -- [15]
+		{
+			["ID"] = 174108,
+			["Level"] = 470,
+			["AlsoFitsIn"] = 17,
+			["Link"] = "|cffa335ee|Hitem:174108:6112:168641::::::120:268::5:8:4823:1808:42:6578:6515:1502:4786:6516:::|h[Shgla'yos, Astral Malignity]|h|r",
+		}, -- [16]
+		{
+			["ID"] = 174105,
+			["Level"] = 460,
+			["AlsoFitsIn"] = 16,
+			["Link"] = "|cffa335ee|Hitem:174105:5962:168642::::::120:269::5:6:4823:1808:6516:6513:1502:4786:::|h[Mish'un, Blade of Tyrants]|h|r",
+		}, -- [17]
+	},
+	["LastKeybindingsSet"] = 1,
+}
+PawnMrRobotScaleProviderOptions = {
+	["LastClass"] = "MONK",
+	["LastAdded"] = 1,
+}
+PawnClassicScaleProviderOptions = nil

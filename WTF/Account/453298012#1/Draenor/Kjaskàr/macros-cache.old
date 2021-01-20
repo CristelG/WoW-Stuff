@@ -1,0 +1,65 @@
+VER 3 0100000000000010 "10" "1278164"
+/pull 10
+END
+VER 3 0100000000000003 "a" "INV_MISC_QUESTIONMARK"
+/use 6
+END
+VER 3 0100000000000004 "b" "INV_MISC_QUESTIONMARK"
+/use 15
+END
+VER 3 0100000000000001 "CD" "INV_MISC_QUESTIONMARK"
+/cast Nemesis
+/cast Chaos Blades
+/cast Arcane Torrent
+END
+VER 3 0100000000000009 "Chains" "INV_MISC_QUESTIONMARK"
+/cast [@cursor] Sigil of Chains
+END
+VER 3 0100000000000002 "CS" "INV_MISC_QUESTIONMARK"
+/startattack
+/cancelaura Netherwalk
+/cast Chaos Strike
+END
+VER 3 0100000000000012 "FB" "INV_MISC_QUESTIONMARK"
+/cast Fiery Brand
+/use Majordomo's Dinner Bell
+/use Gnawed Thumb Ring
+END
+VER 3 010000000000000D "fc" "INV_MISC_QUESTIONMARK"
+/cast [@focus] Disrupt
+END
+VER 3 010000000000000B "Flame" "INV_MISC_QUESTIONMARK"
+/cast [@cursor] Sigil of Flame
+END
+VER 3 0100000000000008 "jump" "INV_MISC_QUESTIONMARK"
+/cast [@cursor] Infernal Strike
+END
+VER 3 0100000000000005 "Meta" "INV_MISC_QUESTIONMARK"
+/cast [@cursor] Metamorphosis
+/use Gnawed Thumb Ring
+END
+VER 3 010000000000000A "Misery" "INV_MISC_QUESTIONMARK"
+/cast [@cursor] Sigil of Misery
+END
+VER 3 0100000000000011 "Pods" "1344652"
+/raid Pod 1: Teej ,Crondex
+/raid Pod 2: Jamemba, Crazybananaa
+/raid Pod 3: Lynvala, Yauki
+END
+VER 3 010000000000000F "pull5" "136116"
+/pull 5
+END
+VER 3 010000000000000E "RC" "132106"
+/readycheck
+END
+VER 3 010000000000000C "Silence" "INV_MISC_QUESTIONMARK"
+/cast [@cursor] Sigil of Silence
+END
+VER 3 0100000000000007 "taunt" "INV_MISC_QUESTIONMARK"
+/cast [@mouseover, exists] Torment
+/cast Torment
+END
+VER 3 0100000000000006 "TG" "INV_MISC_QUESTIONMARK"
+/cast [@mouseover, exists] Throw Glaive
+/cast Throw Glaive
+END

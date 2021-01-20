@@ -1,0 +1,6 @@
+VER 3 0100000000000002 "hl" "INV_MISC_QUESTIONMARK"
+/cast [@cursor] Heroic Leap
+END
+VER 3 0100000000000001 "ht" "INV_MISC_QUESTIONMARK"
+/cast [@mouseover, exists] Heroic Throw; Heroic Throw
+END

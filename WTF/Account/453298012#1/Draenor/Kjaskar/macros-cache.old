@@ -1,0 +1,74 @@
+VER 3 010000000000000E "A1" "INV_MISC_QUESTIONMARK"
+/cast [@arena1] Hammer of Justice
+END
+VER 3 0100000000000011 "A1" "INV_MISC_QUESTIONMARK"
+/cast [@arena1] Rebuke
+END
+VER 3 0100000000000012 "A2" "INV_MISC_QUESTIONMARK"
+/cast [@arena2] Rebuke
+END
+VER 3 010000000000000F "A2" "INV_MISC_QUESTIONMARK"
+/cast [@arena2] Hammer of Justice
+END
+VER 3 0100000000000010 "A3" "INV_MISC_QUESTIONMARK"
+/cast [@arena3] Hammer of Justice
+END
+VER 3 0100000000000001 "AW" "INV_MISC_QUESTIONMARK"
+/cast Avenging Wrath
+/use 13
+/use 14
+END
+VER 3 0100000000000006 "BOP" "INV_MISC_QUESTIONMARK"
+/cast [nomod, @mouseover, exists] Blessing of Protection, [nomod] Blessing of Protection
+/cast [mod: shift, @party1] Blessing of Protection
+/cast [mod:ctrl, @party2] Blessing of Protection
+END
+VER 3 0100000000000004 "Cleanse" "INV_MISC_QUESTIONMARK"
+/cast [nomod, @mouseover, exists] Cleanse Toxins, [nomod]  Cleanse Toxins
+/cast [mod: shift, @party1]  Cleanse Toxins
+/cast [mod:ctrl, @party2]  Cleanse Toxins
+END
+VER 3 0100000000000003 "FoL" "INV_MISC_QUESTIONMARK"
+/cast [nomod, @mouseover, exists] Flash of Light, [nomod] Flash of Light
+/cast [mod: shift, @party1] Flash of Light
+/cast [mod:ctrl, @party2] Flash of Light
+END
+VER 3 0100000000000005 "HoF" "INV_MISC_QUESTIONMARK"
+/cast [nomod, @mouseover, exists] Blessing of Freedom, [nomod] Blessing of Freedom
+/cast [mod: shift, @party1] Blessing of Freedom
+/cast [mod:ctrl, @party2] Blessing of Freedom
+END
+VER 3 010000000000000B "HoJ" "INV_MISC_QUESTIONMARK"
+/cast [@mouseover, exists] Hammer of Justice, [nomod, @target] Hammer of Justice
+/cast [mod:shift, @focus] Hammer of Justice
+END
+VER 3 0100000000000009 "Kick" "INV_MISC_QUESTIONMARK"
+/cast [nomod] Rebuke
+/cast [mod:shift, @focus] Rebuke
+END
+VER 3 0100000000000008 "LoH" "INV_MISC_QUESTIONMARK"
+#showtooltip Lay on Hands
+/cast [nomod, @mouseover, exists] Lay on Hands, [nomod]  Lay on Hands
+END
+VER 3 010000000000000C "Rep" "135942"
+#showtooltip Repentance
+/cast [nomod] Repentance
+/cast [mod:shift, @focus] Repentance
+END
+VER 3 010000000000000A "Ress" "INV_MISC_QUESTIONMARK"
+#showtooltip Redemption
+/cast [nomod, @mouseover, exists] Redemption, [nomod, @target] Redemption
+/cancelaura Blessing of Protection
+END
+VER 3 0100000000000002 "Sanc" "135911"
+/cast [nomod, @mouseover, exists] Blessing of Sanctuary, [nomod] Blessing of Sanctuary
+/cast [mod: shift, @party1] Blessing of Sanctuary
+/cast [mod:ctrl, @party2] Blessing of Sanctuary
+END
+VER 3 010000000000000D "Slow" "INV_MISC_QUESTIONMARK"
+/cast [nomod] Hand of Hindrance
+/cast [mod:shift, @focus] Hand of Hindrance
+END
+VER 3 0100000000000007 "Taunt" "INV_MISC_QUESTIONMARK"
+/cast [@mouseover, exists] Hand of Reckoning, [@target] Hand of Reckoning
+END

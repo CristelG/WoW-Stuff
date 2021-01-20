@@ -1,0 +1,91 @@
+
+TomTomDB = {
+	["profileKeys"] = {
+		["Kjaskar - Draenor"] = "Default",
+		["Kja - Draenor"] = "Default",
+		["Kjaskr - Draenor"] = "Default",
+		["Kjaskaar - Draenor"] = "Default",
+		["Kjaskàr - Draenor"] = "Default",
+		["Kjask - Draenor"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["arrow"] = {
+				["position"] = {
+					"CENTER", -- [1]
+					nil, -- [2]
+					"CENTER", -- [3]
+					-346.0003356933594, -- [4]
+					-108.0000228881836, -- [5]
+				},
+			},
+			["block"] = {
+				["position"] = {
+					"TOPLEFT", -- [1]
+					nil, -- [2]
+					"TOPLEFT", -- [3]
+					-0, -- [4]
+					-0, -- [5]
+				},
+			},
+		},
+	},
+}
+TomTomWaypoints = nil
+TomTomWaypointsM = {
+	["profileKeys"] = {
+		["Kjaskar - Draenor"] = "Kjaskar - Draenor",
+		["Kja - Draenor"] = "Kja - Draenor",
+		["Kjaskr - Draenor"] = "Kjaskr - Draenor",
+		["Kjaskaar - Draenor"] = "Kjaskaar - Draenor",
+		["Kjaskàr - Draenor"] = "Kjaskàr - Draenor",
+		["Kjask - Draenor"] = "Kjask - Draenor",
+	},
+	["profiles"] = {
+		["Kjaskar - Draenor"] = {
+			[1462] = {
+				["1462:356900000:383000000:TomTom waypoint"] = {
+					1462, -- [1]
+					0.3569, -- [2]
+					0.383, -- [3]
+					["arrivaldistance"] = 15,
+					["crazy"] = true,
+					["persistent"] = true,
+					["desc"] = "TomTom waypoint",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "TomTom waypoint",
+					["from"] = "TomTom/way",
+					["callbacks"] = {
+						["distance"] = {
+							[10] = nil --[[ skipped inline function ]],
+							[15] = nil --[[ skipped inline function ]],
+						},
+						["world"] = {
+							["onclick"] = nil --[[ skipped inline function ]],
+							["tooltip_update"] = nil --[[ skipped inline function ]],
+							["tooltip_show"] = nil --[[ skipped inline function ]],
+						},
+						["minimap"] = {
+							["onclick"] = nil --[[ skipped inline function ]],
+							["tooltip_update"] = nil --[[ skipped inline function ]],
+							["tooltip_show"] = nil --[[ skipped inline function ]],
+						},
+					},
+					["minimap"] = true,
+					["world"] = true,
+				},
+			},
+		},
+		["Kja - Draenor"] = {
+		},
+		["Kjaskr - Draenor"] = {
+		},
+		["Kjaskaar - Draenor"] = {
+		},
+		["Kjaskàr - Draenor"] = {
+		},
+		["Kjask - Draenor"] = {
+		},
+	},
+}

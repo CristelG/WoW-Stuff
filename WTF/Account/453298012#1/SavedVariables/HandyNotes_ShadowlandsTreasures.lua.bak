@@ -1,0 +1,46 @@
+
+HandyNotes_ShadowlandsTreasuresDB = {
+	["profileKeys"] = {
+		["Yoggis - Kazzak"] = "Yoggis - Kazzak",
+		["Yogz - Kazzak"] = "Yogz - Kazzak",
+		["Kjaskar - Sylvanas"] = "Kjaskar - Sylvanas",
+		["Yøgs - Kazzak"] = "Yøgs - Kazzak",
+		["Yogsp - Kazzak"] = "Yogsp - Kazzak",
+		["Kjaskar - Kazzak"] = "Kjaskar - Kazzak",
+		["Kjask - Sylvanas"] = "Kjask - Sylvanas",
+		["Yogs - Kazzak"] = "Yogs - Kazzak",
+		["Yogshi - Kazzak"] = "Yogshi - Kazzak",
+		["Yogske - Kazzak"] = "Yogske - Kazzak",
+		["Yogski - Kazzak"] = "Yogski - Kazzak",
+		["Yogsi - Kazzak"] = "Yogsi - Kazzak",
+		["Yogzi - Kazzak"] = "Yogzi - Kazzak",
+	},
+	["profiles"] = {
+		["Yoggis - Kazzak"] = {
+		},
+		["Yogz - Kazzak"] = {
+		},
+		["Kjaskar - Sylvanas"] = {
+		},
+		["Yøgs - Kazzak"] = {
+		},
+		["Yogsp - Kazzak"] = {
+		},
+		["Kjaskar - Kazzak"] = {
+		},
+		["Kjask - Sylvanas"] = {
+		},
+		["Yogs - Kazzak"] = {
+		},
+		["Yogshi - Kazzak"] = {
+		},
+		["Yogske - Kazzak"] = {
+		},
+		["Yogski - Kazzak"] = {
+		},
+		["Yogsi - Kazzak"] = {
+		},
+		["Yogzi - Kazzak"] = {
+		},
+	},
+}

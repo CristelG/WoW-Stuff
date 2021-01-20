@@ -1,0 +1,16 @@
+VER 3 0100000000000005 "charge" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover, exists] Intercept; Intercept
+END
+VER 3 0100000000000004 "fc" "INV_MISC_QUESTIONMARK"
+/cast [@focus] Pummel
+END
+VER 3 0100000000000002 "hl" "INV_MISC_QUESTIONMARK"
+/cast [@cursor] Heroic Leap
+END
+VER 3 0100000000000001 "ht" "INV_MISC_QUESTIONMARK"
+/cast [@mouseover, exists] Heroic Throw; Heroic Throw
+END
+VER 3 0100000000000003 "tautn" "INV_MISC_QUESTIONMARK"
+/cast [@mouseover, exists] Taunt; Taunt
+END

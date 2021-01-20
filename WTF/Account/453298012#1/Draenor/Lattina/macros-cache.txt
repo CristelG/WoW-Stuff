@@ -1,0 +1,24 @@
+VER 3 0100000000000001 "dnd" "INV_MISC_QUESTIONMARK"
+/cast [@player] Death and Decay
+END
+VER 3 0100000000000002 "dnd2" "INV_MISC_QUESTIONMARK"
+/cast [@cursor] Death and Decay
+END
+VER 3 0100000000000006 "fs" "INV_MISC_QUESTIONMARK"
+/startattack
+/cast festering strike
+END
+VER 3 0100000000000003 "gnaw" "INV_MISC_QUESTIONMARK"
+/cast Gnaw
+END
+VER 3 0100000000000004 "leap" "INV_MISC_QUESTIONMARK"
+/cast Leap
+END
+VER 3 0100000000000007 "ns" "INV_MISC_QUESTIONMARK"
+/startattack
+/cast Necrotic Strike
+END
+VER 3 0100000000000005 "ss" "INV_MISC_QUESTIONMARK"
+/startattack
+/cast scourge strike
+END

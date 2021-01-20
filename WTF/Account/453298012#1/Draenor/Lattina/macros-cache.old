@@ -1,0 +1,6 @@
+VER 3 0100000000000001 "dnd" "INV_MISC_QUESTIONMARK"
+/cast [@player] Death and Decay
+END
+VER 3 0100000000000002 "dnd2" "INV_MISC_QUESTIONMARK"
+/cast [@cursor] Death and Decay
+END

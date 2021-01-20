@@ -1,0 +1,605 @@
+
+ElvCharacterDB = {
+	["ChatEditHistory"] = {
+		" ciccion", -- [1]
+		" si", -- [2]
+		" orda", -- [3]
+		" no, ho tutto orda su draenor", -- [4]
+		" io devo solo sbloccare gli zandalari e le volpi, ma non ho voglio di fare le quest", -- [5]
+		" ho già le rep e le achievement, gli avevo fatti già poco dopo il launch", -- [6]
+		"si", -- [7]
+		"no, ho tutto orda su draenor", -- [8]
+		"ho già le rep e le achievement, gli avevo fatti già poco dopo il launch", -- [9]
+		"orda", -- [10]
+		"ciccion", -- [11]
+		"io devo solo sbloccare gli zandalari e le volpi, ma non ho voglio di fare le quest", -- [12]
+	},
+	["ChatHistoryLog"] = {
+		{
+			"Ciccion", -- [1]
+			"|Kq12|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			289, -- [11]
+			false, -- [12]
+			1, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcilganna|r",
+			[51] = 1598963860,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "ilganna",
+		}, -- [1]
+		{
+			"ciccion", -- [1]
+			"|Kq12|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			292, -- [11]
+			false, -- [12]
+			1, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcilganna|r",
+			[51] = 1598963870,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "ilganna",
+		}, -- [2]
+		{
+			"Ma stai giocando a bfa?", -- [1]
+			"|Kq12|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			297, -- [11]
+			false, -- [12]
+			1, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcilganna|r",
+			[51] = 1598963880,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "ilganna",
+		}, -- [3]
+		{
+			"si", -- [1]
+			"|Kq12|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			299, -- [11]
+			false, -- [12]
+			1, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcilganna|r",
+			[51] = 1598963884,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "ilganna",
+		}, -- [4]
+		{
+			"orda o ally?", -- [1]
+			"|Kq12|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			301, -- [11]
+			false, -- [12]
+			1, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcilganna|r",
+			[51] = 1598963897,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "ilganna",
+		}, -- [5]
+		{
+			"orda", -- [1]
+			"|Kq12|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			303, -- [11]
+			false, -- [12]
+			1, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcilganna|r",
+			[51] = 1598963902,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "ilganna",
+		}, -- [6]
+		{
+			"cicciorco", -- [1]
+			"|Kq12|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			306, -- [11]
+			false, -- [12]
+			1, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcilganna|r",
+			[51] = 1598963912,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "ilganna",
+		}, -- [7]
+		{
+			"hai tutte le ally classi?", -- [1]
+			"|Kq12|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			312, -- [11]
+			false, -- [12]
+			1, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcilganna|r",
+			[51] = 1598963936,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "ilganna",
+		}, -- [8]
+		{
+			"no, ho tutto orda su draenor", -- [1]
+			"|Kq12|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			315, -- [11]
+			false, -- [12]
+			1, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcilganna|r",
+			[51] = 1598963948,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "ilganna",
+		}, -- [9]
+		{
+			"io ho quasi tutte le ally, a parte gli schifognomi e le volpi del cazzo", -- [1]
+			"|Kq12|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			319, -- [11]
+			false, -- [12]
+			1, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcilganna|r",
+			[51] = 1598963976,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "ilganna",
+		}, -- [10]
+		{
+			"io devo solo sbloccare gli zandalari e le volpi, ma non ho voglio di fare le quest", -- [1]
+			"|Kq12|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			321, -- [11]
+			false, -- [12]
+			1, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcilganna|r",
+			[51] = 1598964002,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "ilganna",
+		}, -- [11]
+		{
+			"Io mi sono rotto i coglioni mica male per gli zandalari. Poi mi sembra che c'era AV in holiday e ho fatto un pally, druid e shamano a 120 in una settimana", -- [1]
+			"|Kq12|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			350, -- [11]
+			false, -- [12]
+			1, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcilganna|r",
+			[51] = 1598964059,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "ilganna",
+		}, -- [12]
+		{
+			"Dopo guardo", -- [1]
+			"|Kq12|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			353, -- [11]
+			false, -- [12]
+			1, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcilganna|r",
+			[51] = 1598964082,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "ilganna",
+		}, -- [13]
+		{
+			"ho già le rep e le achievement, gli avevo fatti già poco dopo il launch", -- [1]
+			"|Kq12|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			354, -- [11]
+			false, -- [12]
+			1, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff006fdcilganna|r",
+			[51] = 1598964087,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "ilganna",
+		}, -- [14]
+		{
+			"-olimph- recruteaza tank/dps/heal pt content heroic si jucatori sociali sau  playeri de PVP.cerem seriozitate respect  si caterinca in masura bunului simt. ne dorim o guilda de romani care sa progreseze atat ca si content cat ca si ,,prieteni''.", -- [1]
+			"Sisuy-Sylvanas", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Sisuy-Sylvanas", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			540, -- [11]
+			"Player-1597-0E8108C0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff38bb9Sisuy|r",
+			[51] = 1604166832,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [15]
+		{
+			"WTS Ny’alotha Heroic +Mythic+Allseer, M10-23+, Glory of the Ny'alotha Raider, Arena 3x3 , 2x2; Glacial Tidestorm", -- [1]
+			"Desqara-Sylvanas", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Desqara-Sylvanas", -- [5]
+			"DND", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			541, -- [11]
+			"Player-1597-0E833661", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Desqara|r",
+			[51] = 1604166845,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [16]
+		{
+			"WTS HEROIC |cff66bbff|Hjournal:1:2375:15|h[N'Zoth the Corruptor]|h|r Get ur mount NOW!|cff71d5ff|Hspell:302143:0|h[Uncorrupted Voidwing]|h|r--50K ONLY!", -- [1]
+			"Tepbooster-Auchindoun", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Tepbooster-Auchindoun", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			542, -- [11]
+			"Player-1597-0C3A6D05", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff38bb9Tepbooster-Auchindoun|r",
+			[51] = 1604166845,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [17]
+		{
+			"WTS mythic+10-15--|cff71d5ff|Hspell:261395:0|h[The Hivemind]|h|r--|cff71d5ff|Hspell:231428:0|h[Smoldering Ember Wyrm]|h|r--|cff71d5ff|Hspell:215159:0|h[Long-Forgotten Hippogryph]|h|r--hardmode mechagon|cff71d5ff|Hspell:290718:0|h[Aerial Unit R-21/X]|h|r", -- [1]
+			"Doka-Sylvanas", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Doka-Sylvanas", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			545, -- [11]
+			"Player-1597-0CFF9ECA", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff3ec6eaDoka|r",
+			[51] = 1604166881,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [18]
+		{
+			"WTS |cff0070dd|Hitem:52486::::::::10:253:::::::|h[Jeweler's Sapphire Monocle]|h|r,|cffff8000|Hitem:146669::::::::10:253:::1:3630::::|h[The Sentinel's Eternal Refuge]|h|r,|cff1eff00|Hitem:164497::::::::10:253:::::::|h[Headshrinker's Shoulders]|h|r", -- [1]
+			"Ovibanktwo-Sylvanas", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Ovibanktwo-Sylvanas", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			546, -- [11]
+			"Player-1597-0D7D28B3", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Ovibanktwo|r",
+			[51] = 1604166888,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [19]
+		{
+			"WTS |cff0070dd|Hitem:29498::::::::10:253:::::::|h[Blastguard Pants]|h|r,|cff0070dd|Hitem:29499::::::::10:253:::::::|h[Blastguard Boots]|h|r,|cff0070dd|Hitem:29500::::::::10:253:::1:6864::::|h[Blastguard Belt]|h|r FULL SET 60K", -- [1]
+			"Ovibanktwo-Sylvanas", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Ovibanktwo-Sylvanas", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			547, -- [11]
+			"Player-1597-0D7D28B3", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cffa9d271Ovibanktwo|r",
+			[51] = 1604166888,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [20]
+		{
+			"WTS |cffffff00|Hachievement:14191:Player-3687-08B47564:1:4:20:20:0:0:0:0|h[Servant of N'Zoth]|h|r (Toy&Title) // |cffffff00|Hachievement:12567:Player-3687-08B47564:1:1:27:19:4294967295:4294967295:4294967295:4294967295|h[The Horde Slayer]|h|r (Title)", -- [1]
+			"Bloodbank-Sylvanas", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Bloodbank-Sylvanas", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			548, -- [11]
+			"Player-1597-0D7DC63F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffef367Bloodbank|r",
+			[51] = 1604166890,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [21]
+		{
+			"lol people almost having 10k rio...", -- [1]
+			"Elfprinces-Sylvanas", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Elfprinces-Sylvanas", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			549, -- [11]
+			"Player-1597-0D600F41", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffefefeElfprinces|r",
+			[51] = 1604166898,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [22]
+		{
+			"-olimph- recruteaza tank/dps/heal pt content heroic si jucatori sociali sau  playeri de PVP.cerem seriozitate respect  si caterinca in masura bunului simt. ne dorim o guilda de romani care sa progreseze atat ca si content cat ca si ,,prieteni''.", -- [1]
+			"Sisuy-Sylvanas", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Sisuy-Sylvanas", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			550, -- [11]
+			"Player-1597-0E8108C0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff38bb9Sisuy|r",
+			[51] = 1604166903,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [23]
+		{
+			"WTS HEROIC |cff66bbff|Hjournal:1:2375:15|h[N'Zoth the Corruptor]|h|r Get ur mount NOW!|cff71d5ff|Hspell:302143:0|h[Uncorrupted Voidwing]|h|r--50K ONLY!", -- [1]
+			"Tepbooster-Auchindoun", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Tepbooster-Auchindoun", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			551, -- [11]
+			"Player-1597-0C3A6D05", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff38bb9Tepbooster-Auchindoun|r",
+			[51] = 1604166947,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [24]
+		{
+			"WTS |cffffff00|Hachievement:14191:Player-3687-08B47564:1:4:20:20:0:0:0:0|h[Servant of N'Zoth]|h|r (Toy&Title) // |cffffff00|Hachievement:12567:Player-3687-08B47564:1:1:27:19:4294967295:4294967295:4294967295:4294967295|h[The Horde Slayer]|h|r (Title)", -- [1]
+			"Bloodbank-Sylvanas", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Bloodbank-Sylvanas", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			552, -- [11]
+			"Player-1597-0D7DC63F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfffef367Bloodbank|r",
+			[51] = 1604167027,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [25]
+		{
+			"WTS HEROIC |cff66bbff|Hjournal:1:2375:15|h[N'Zoth the Corruptor]|h|r Get ur mount NOW!|cff71d5ff|Hspell:302143:0|h[Uncorrupted Voidwing]|h|r--50K ONLY!", -- [1]
+			"Tepbooster-Auchindoun", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Tepbooster-Auchindoun", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			554, -- [11]
+			"Player-1597-0C3A6D05", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cfff38bb9Tepbooster-Auchindoun|r",
+			[51] = 1604167072,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [26]
+	},
+}

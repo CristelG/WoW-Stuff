@@ -1,0 +1,6 @@
+VER 3 0100000000000001 "cs" "INV_MISC_QUESTIONMARK"
+/cast [@mouseover, exists] Counter Shot; Counter Shot
+END
+VER 3 0100000000000002 "mo" "INV_MISC_QUESTIONMARK"
+/cast [@focus] Counter Shot
+END

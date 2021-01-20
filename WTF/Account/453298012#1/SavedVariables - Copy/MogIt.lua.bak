@@ -1,0 +1,142 @@
+
+MogItDB = {
+	["global"] = {
+		["version"] = "3.9.4",
+	},
+	["profileKeys"] = {
+		["Yoggis - Kazzak"] = "Default",
+		["Kjaskr - Draenor"] = "Default",
+		["Yogz - Kazzak"] = "Default",
+		["Yogsi - Kazzak"] = "Default",
+		["Yogsp - Kazzak"] = "Default",
+		["Kjask - Sylvanas"] = "Default",
+		["Kjaskar - Sylvanas"] = "Default",
+		["Kjask - Draenor"] = "Default",
+		["Kjaskar - Kazzak"] = "Default",
+		["Yogshi - Kazzak"] = "Default",
+		["Yogs - Kazzak"] = "Default",
+		["Yogzi - Kazzak"] = "Default",
+		["Yogske - Kazzak"] = "Default",
+		["Yogski - Kazzak"] = "Default",
+		["Yøgs - Kazzak"] = "Default",
+		["Kjaskàr - Draenor"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["previewProps"] = {
+				{
+					["y"] = 56.25008010864258,
+					["h"] = 604.0004272460938,
+					["point"] = "RIGHT",
+					["w"] = 436.25,
+					["x"] = -133.2498931884766,
+				}, -- [1]
+			},
+			["gridHeight"] = 716.5001831054688,
+			["x"] = -44.99975204467773,
+			["slotLabels"] = {
+				["Crossbow"] = "Crossbows",
+				["Fist"] = "Fist Weapons",
+				["Tabard"] = "Tabard",
+				["Legs"] = "Legs",
+				["Back"] = "Back",
+				["Shield"] = "Shields",
+				["2H-axe"] = "Two-Handed Axes",
+				["Shirt"] = "Shirt",
+				["Dagger"] = "Daggers",
+				["Hands"] = "Hands",
+				["Wrist"] = "Wrist",
+				["Bow"] = "Bows",
+				["2H-sword"] = "Two-Handed Swords",
+				["Warglaives"] = "Warglaives",
+				["ArtifactLegion"] = "Legion Artifacts",
+				["1H-mace"] = "One-Handed Maces",
+				["1H-axe"] = "One-Handed Axes",
+				["Holdable"] = "Held In Off-hand",
+				["Head"] = "Head",
+				["Waist"] = "Waist",
+				["Staff"] = "Staves",
+				["Chest"] = "Chest",
+				["1H-sword"] = "One-Handed Swords",
+				["2H-mace"] = "Two-Handed Maces",
+				["Gun"] = "Guns",
+				["Feet"] = "Feet",
+				["Polearm"] = "Polearms",
+				["Shoulder"] = "Shoulder",
+				["Wand"] = "Wands",
+			},
+			["minimap"] = {
+				["minimapPos"] = 272.8625229481478,
+			},
+			["gridWidth"] = 880.5011596679688,
+			["y"] = 36.75016784667969,
+		},
+	},
+}
+MogItWishlist = {
+	["profileKeys"] = {
+		["Yoggis - Kazzak"] = "Yoggis - Kazzak",
+		["Kjaskr - Draenor"] = "Kjaskr - Draenor",
+		["Yogz - Kazzak"] = "Yogz - Kazzak",
+		["Yogsi - Kazzak"] = "Yogsi - Kazzak",
+		["Yogsp - Kazzak"] = "Yogsp - Kazzak",
+		["Kjask - Sylvanas"] = "Kjask - Sylvanas",
+		["Kjaskar - Sylvanas"] = "Kjaskar - Sylvanas",
+		["Kjask - Draenor"] = "Kjask - Draenor",
+		["Kjaskar - Kazzak"] = "Kjaskar - Kazzak",
+		["Yogshi - Kazzak"] = "Yogshi - Kazzak",
+		["Yogs - Kazzak"] = "Yogs - Kazzak",
+		["Yogzi - Kazzak"] = "Yogzi - Kazzak",
+		["Yogske - Kazzak"] = "Yogske - Kazzak",
+		["Yogski - Kazzak"] = "Yogski - Kazzak",
+		["Yøgs - Kazzak"] = "Yøgs - Kazzak",
+		["Kjaskàr - Draenor"] = "Kjaskàr - Draenor",
+	},
+	["global"] = {
+		["version"] = 90002,
+	},
+	["profiles"] = {
+		["Yoggis - Kazzak"] = {
+		},
+		["Kjaskr - Draenor"] = {
+		},
+		["Yogz - Kazzak"] = {
+		},
+		["Yogsi - Kazzak"] = {
+		},
+		["Yogsp - Kazzak"] = {
+		},
+		["Kjask - Sylvanas"] = {
+		},
+		["Kjaskar - Sylvanas"] = {
+		},
+		["Kjask - Draenor"] = {
+		},
+		["Kjaskar - Kazzak"] = {
+		},
+		["Yogshi - Kazzak"] = {
+		},
+		["Yogs - Kazzak"] = {
+			["sets"] = {
+				{
+					["items"] = {
+						["ShoulderSlot"] = "item:141006:0::::::::::5:1:3524",
+					},
+					["name"] = "EN",
+					["alternateItems"] = {
+					},
+				}, -- [1]
+			},
+		},
+		["Yogzi - Kazzak"] = {
+		},
+		["Yogske - Kazzak"] = {
+		},
+		["Yogski - Kazzak"] = {
+		},
+		["Yøgs - Kazzak"] = {
+		},
+		["Kjaskàr - Draenor"] = {
+		},
+	},
+}

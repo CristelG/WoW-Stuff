@@ -1,0 +1,13 @@
+VER 3 0100000000000003 "fc" "INV_MISC_QUESTIONMARK"
+/cast [@focus] Pummel
+END
+VER 3 0100000000000004 "fc" "INV_MISC_QUESTIONMARK"
+/cast [@focus] Charge
+END
+VER 3 0100000000000002 "hl" "INV_MISC_QUESTIONMARK"
+/Cast [@cursor] Heroic Leap
+END
+VER 3 0100000000000001 "reck" "INV_MISC_QUESTIONMARK"
+/cast Recklessness
+/use Vial of Animated Blood
+END

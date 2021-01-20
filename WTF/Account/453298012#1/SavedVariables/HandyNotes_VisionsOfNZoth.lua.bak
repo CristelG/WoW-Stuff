@@ -1,0 +1,15 @@
+
+HandyNotes_VisionsOfNZothDB = {
+	["profileKeys"] = {
+		["Kjaskar - Draenor"] = "Default",
+		["Kja - Draenor"] = "Default",
+		["Kjaskr - Draenor"] = "Default",
+		["Kjaskaar - Draenor"] = "Default",
+		["Kjaskàr - Draenor"] = "Default",
+		["Kjask - Draenor"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

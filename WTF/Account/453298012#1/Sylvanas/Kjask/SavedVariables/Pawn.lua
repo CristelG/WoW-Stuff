@@ -1,0 +1,99 @@
+
+PawnOptions = {
+	["LastVersion"] = 2.0408,
+	["LastPlayerFullName"] = "Kjask-Sylvanas",
+	["AutoSelectScales"] = true,
+	["ItemLevels"] = {
+		{
+			["ID"] = 146991,
+			["Level"] = 50,
+			["Link"] = "|cffa335ee|Hitem:146991::::::::45:64::3:3:3561:1472:3528::::|h[Blackened Mask of Disgrace]|h|r",
+		}, -- [1]
+		{
+			["ID"] = 140899,
+			["Level"] = 50,
+			["Link"] = "|cffa335ee|Hitem:140899:5439:130219::::::45:64::5:4:3516:1808:1472:3528::::|h[Beleron's Choker of Misery]|h|r",
+		}, -- [2]
+		{
+			["ID"] = 146666,
+			["Level"] = 56,
+			["Link"] = "|cffff8000|Hitem:146666::130219:130219:130219::::45:64:::2:1811:3570::::|h[Celumbra, the Night's Dichotomy]|h|r",
+		}, -- [3]
+		nil, -- [4]
+		{
+			["ID"] = 147149,
+			["Level"] = 50,
+			["Link"] = "|cffa335ee|Hitem:147149::::::::45:64::3:3:3561:1472:3336::::|h[Robes of the Arcane Tempest]|h|r",
+		}, -- [5]
+		{
+			["ID"] = 147423,
+			["Level"] = 50,
+			["Link"] = "|cffa335ee|Hitem:147423::::::::45:64::3:3:3561:1472:3336::::|h[Sash of the Unredeemed]|h|r",
+		}, -- [6]
+		{
+			["ID"] = 142151,
+			["Level"] = 50,
+			["Link"] = "|cffa335ee|Hitem:142151::::::::45:64::35:3:3510:1472:3337::::|h[Leggings of Countless Worlds]|h|r",
+		}, -- [7]
+		{
+			["ID"] = 151301,
+			["Level"] = 50,
+			["Link"] = "|cffa335ee|Hitem:151301::::::::45:64::16:3:3510:1472:3528::::|h[Slippers of Growing Despair]|h|r",
+		}, -- [8]
+		{
+			["ID"] = 134437,
+			["Level"] = 50,
+			["Link"] = "|cffa335ee|Hitem:134437::::::::45:64::43:3:3573:1472:3336::::|h[Harrowing Soulspun Bracers]|h|r",
+		}, -- [9]
+		{
+			["ID"] = 132411,
+			["Level"] = 56,
+			["Link"] = "|cffff8000|Hitem:132411::::::::45:64:::2:1811:3570::::|h[Lady Vashj's Grasp]|h|r",
+		}, -- [10]
+		{
+			["ID"] = 147020,
+			["Level"] = 50,
+			["AlsoFitsIn"] = 12,
+			["Link"] = "|cffa335ee|Hitem:147020:5427:130219::::::45:64::3:4:3561:1808:1472:3528::::|h[Scaled Band of Servitude]|h|r",
+		}, -- [11]
+		{
+			["ID"] = 145534,
+			["Level"] = 50,
+			["AlsoFitsIn"] = 11,
+			["Link"] = "|cffa335ee|Hitem:145534:5427:::::::45:64::8:3:3567:1472:3528::::|h[Ferocious Gladiator's Ring]|h|r",
+		}, -- [12]
+		{
+			["ID"] = 147002,
+			["Level"] = 50,
+			["AlsoFitsIn"] = 14,
+			["Link"] = "|cffa335ee|Hitem:147002::::::::45:64::5:3:3562:1472:3528::::|h[Charm of the Rising Tide]|h|r",
+		}, -- [13]
+		{
+			["ID"] = 147276,
+			["Level"] = 50,
+			["AlsoFitsIn"] = 13,
+			["Link"] = "|cffa335ee|Hitem:147276::::::::45:64:::4:604:3574:1478:3337::::|h[Spellbinder's Seal]|h|r",
+		}, -- [14]
+		{
+			["ID"] = 146984,
+			["Level"] = 50,
+			["Link"] = "|cffa335ee|Hitem:146984:5436:::::::45:64::5:3:3562:1472:3528::::|h[Cloak of Stifling Brimstone]|h|r",
+		}, -- [15]
+		{
+			["ID"] = 128820,
+			["Level"] = 71,
+			["Link"] = "|cffe6cc80|Hitem:128820::143701:151006:151009::::45:64::9:2:730:1523:2:8:494:24:1:3:3573:1472:3528:3:3397:1480:3337:3:3396:1478:3528|h[Felo'melorn]|h|r",
+		}, -- [16]
+		{
+			["ID"] = 133959,
+			["Level"] = 71,
+			["Link"] = "|cffe6cc80|Hitem:133959::::::::45:64::::1:8:494:::|h[Heart of the Phoenix]|h|r",
+		}, -- [17]
+	},
+	["LastKeybindingsSet"] = 1,
+}
+PawnMrRobotScaleProviderOptions = {
+	["LastClass"] = "MAGE",
+	["LastAdded"] = 1,
+}
+PawnClassicScaleProviderOptions = nil

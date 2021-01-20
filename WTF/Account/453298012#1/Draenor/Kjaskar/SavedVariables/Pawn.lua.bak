@@ -1,0 +1,100 @@
+
+PawnOptions = {
+	["LastVersion"] = 2.0336,
+	["LastPlayerFullName"] = "Kjaskar-Draenor",
+	["AutoSelectScales"] = true,
+	["ItemLevels"] = {
+		{
+			["ID"] = 155866,
+			["Level"] = 450,
+			["Link"] = "|cffa335ee|Hitem:155866::::::::120:65::35:5:5442:1617:4786:6505:4775:::|h[Soulspun Casque]|h|r",
+		}, -- [1]
+		{
+			["ID"] = 158075,
+			["Level"] = 505,
+			["Link"] = "|cffe6cc80|Hitem:158075::::::::120:65::11:4:6316:4932:4933:1642:::|h[Heart of Azeroth]|h|r",
+		}, -- [2]
+		{
+			["ID"] = 157932,
+			["Level"] = 450,
+			["Link"] = "|cffa335ee|Hitem:157932::::::::120:66::28:4:1637:4786:6506:4775:::|h[Pauldrons of Rezan's Bladeguard]|h|r",
+		}, -- [3]
+		nil, -- [4]
+		{
+			["ID"] = 159432,
+			["Level"] = 450,
+			["Link"] = "|cffa335ee|Hitem:159432::::::::120:65::35:5:5442:1617:4786:6504:4775:::|h[Breastplate of Arterial Protection]|h|r",
+		}, -- [5]
+		{
+			["ID"] = 159410,
+			["Level"] = 450,
+			["Link"] = "|cffa335ee|Hitem:159410::::::::120:65::16:5:5007:6516:6515:1622:4786:::|h[Zancha's Venerated Greatbelt]|h|r",
+		}, -- [6]
+		{
+			["ID"] = 174172,
+			["Level"] = 460,
+			["Link"] = "|cffa335ee|Hitem:174172::::::::120:65::5:5:4823:6516:6513:1502:4786:::|h[Living Obsidian Legguards]|h|r",
+		}, -- [7]
+		{
+			["ID"] = 174173,
+			["Level"] = 460,
+			["Link"] = "|cffa335ee|Hitem:174173::::::::120:65::5:5:4823:6516:6513:1502:4786:::|h[Boots of Hallucinatory Reality]|h|r",
+		}, -- [8]
+		{
+			["ID"] = 173482,
+			["Level"] = 445,
+			["Link"] = "|cffa335ee|Hitem:173482::::::::120:65::29:6:6412:4803:6515:6516:1502:4786:::|h[Malignant Leviathan's Wristguards]|h|r",
+		}, -- [9]
+		{
+			["ID"] = 168980,
+			["Level"] = 445,
+			["Link"] = "|cffa335ee|Hitem:168980::::::::120:65::16:5:5005:6516:6515:1502:4786:::|h[Gauntlets of Absolute Authority]|h|r",
+		}, -- [10]
+		{
+			["ID"] = 174530,
+			["Level"] = 460,
+			["AlsoFitsIn"] = 12,
+			["Link"] = "|cffa335ee|Hitem:174530::::::::120:65::5:5:4823:6516:6515:1502:4786:::|h[Ring of Collective Consciousness]|h|r",
+		}, -- [11]
+		{
+			["ID"] = 174530,
+			["Level"] = 460,
+			["AlsoFitsIn"] = 11,
+			["Link"] = "|cffa335ee|Hitem:174530:6108:::::::120:65::5:5:4823:6516:6515:1502:4786:::|h[Ring of Collective Consciousness]|h|r",
+		}, -- [12]
+		{
+			["ID"] = 174103,
+			["Level"] = 455,
+			["AlsoFitsIn"] = 14,
+			["Link"] = "|cffa335ee|Hitem:174103::::::::120:65::3:4:4822:6513:1487:4786:::|h[Manifesto of Madness]|h|r",
+		}, -- [13]
+		{
+			["ID"] = 174103,
+			["Level"] = 455,
+			["AlsoFitsIn"] = 13,
+			["Link"] = "|cffa335ee|Hitem:174103::::::::120:66::3:4:4822:6513:1487:4786:::|h[Manifesto of Madness]|h|r",
+		}, -- [14]
+		{
+			["ID"] = 169223,
+			["Level"] = 484,
+			["Link"] = "|cffff8000|Hitem:169223::::::::120:65::11:2:6279:1472:::|h[Ashjra'kamas, Shroud of Resolve]|h|r",
+		}, -- [15]
+		{
+			["ID"] = 172772,
+			["Level"] = 440,
+			["AlsoFitsIn"] = 17,
+			["Link"] = "|cffa335ee|Hitem:172772:6112:::::::120:65::25:6:6387:6388:1552:4786:6516:6513:::|h[Corrupted Gladiator's Gavel]|h|r",
+		}, -- [16]
+		{
+			["ID"] = 175010,
+			["Level"] = 460,
+			["Link"] = "|cffa335ee|Hitem:175010::::::::120:65::5:7:4823:6578:6579:6562:6515:1502:4786:::|h[Maddened Adherent's Bulwark]|h|r",
+		}, -- [17]
+	},
+	["LastKeybindingsSet"] = 1,
+}
+PawnMrRobotScaleProviderOptions = {
+	["LastClass"] = "PALADIN",
+	["LastAdded"] = 1,
+}
+PawnClassicScaleProviderOptions = nil
